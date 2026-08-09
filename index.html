@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1">
+<title>Sabah Watch</title>
+<meta name="description" content="サバ州の無国籍・難民に関するニュース">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#14564E" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1214" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Sabah Watch">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-180.png">
+<style>
+:root{
+  --bg:#FBFAF7; --card:#FFFFFF; --ink:#16181C; --muted:#6E7378; --line:#E6E2D9;
+  --accent:#14564E; --accent-soft:#E4EFEA; --star:#C1861B; --danger:#A6402E;
+  --serif:"Hiragino Mincho ProN","Yu Mincho",YuMincho,"Songti SC",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;
+  --safe-b:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#0F1214;--card:#171B1E;--ink:#E9E7E2;--muted:#98A0A6;--line:#262B2F;
+        --accent:#5FBFA8;--accent-soft:#16302B;--star:#D9A93F;--danger:#E08A76;}
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15px;line-height:1.6;
+     -webkit-font-smoothing:antialiased;overscroll-behavior-y:none}
+button,input,textarea,select{font:inherit;color:inherit}
+a{color:var(--accent)}
+
+/* ---------- ヘッダー ---------- */
+header{position:sticky;top:0;z-index:30;background:color-mix(in srgb,var(--bg) 88%,transparent);
+       backdrop-filter:saturate(1.6) blur(14px);border-bottom:1px solid var(--line);
+       padding:calc(env(safe-area-inset-top,0px) + 10px) 16px 8px}
+.hrow{display:flex;align-items:baseline;gap:8px}
+.brand{font-family:var(--serif);font-size:19px;font-weight:600;letter-spacing:.04em}
+.brand span{color:var(--accent)}
+.hsub{margin-left:auto;font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums}
+.searchwrap{margin-top:8px;display:none}
+.searchwrap.on{display:block}
+.searchwrap input{width:100%;padding:9px 12px;border:1px solid var(--line);border-radius:10px;
+                  background:var(--card);outline:none}
+.chips{display:flex;gap:6px;margin-top:9px;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--muted);
+      padding:5px 11px;border-radius:999px;font-size:12.5px;cursor:pointer}
+.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+@media (prefers-color-scheme:dark){.chip.on{color:#0F1214}}
+
+/* ---------- 本文 ---------- */
+main{padding:12px 14px calc(78px + var(--safe-b))}
+.view{display:none}.view.on{display:block}
+.empty{text-align:center;color:var(--muted);padding:54px 20px;font-size:13.5px;line-height:2}
+
+.banner{background:var(--accent-soft);border:1px solid var(--line);border-radius:12px;
+        padding:12px 14px;margin-bottom:12px;font-size:13px;color:var(--ink)}
+.banner .row{display:flex;gap:10px;margin-top:9px}
+.banner button{flex:1;padding:7px;border-radius:8px;border:1px solid var(--line);background:var(--card)}
+
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:13px 14px;
+      margin-bottom:10px;cursor:pointer;transition:opacity .18s}
+.card.read{opacity:.55}
+.card .meta{display:flex;align-items:center;gap:6px;font-size:11.5px;color:var(--muted);margin-bottom:5px}
+.card .src{font-weight:600;color:var(--muted);max-width:46%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.card .udot{width:7px;height:7px;border-radius:50%;background:var(--accent);margin-left:auto;flex:0 0 auto}
+.card.read .udot{display:none}
+.card h2{font-family:var(--serif);font-size:16.5px;line-height:1.55;margin:0;font-weight:600;
+         letter-spacing:.01em}
+.card .orig{font-size:12px;color:var(--muted);margin:5px 0 0;line-height:1.5}
+.card .sum{font-size:12.5px;color:var(--muted);margin:6px 0 0;display:-webkit-box;
+           -webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.card .foot{display:flex;align-items:center;gap:6px;margin-top:9px}
+.tag{font-size:11px;padding:2.5px 8px;border-radius:999px;background:var(--accent-soft);
+     color:var(--accent);white-space:nowrap}
+.tag.user{background:transparent;border:1px dashed var(--accent)}
+.card .starbtn{margin-left:auto;border:none;background:none;font-size:19px;line-height:1;
+               padding:2px 4px;color:var(--muted);cursor:pointer}
+.card .starbtn.on{color:var(--star)}
+.memoflag{font-size:11px;color:var(--muted)}
+
+/* ---------- タグ一覧 ---------- */
+.taglist{display:flex;flex-direction:column;gap:8px}
+.tagrow{display:flex;align-items:center;gap:10px;background:var(--card);border:1px solid var(--line);
+        border-radius:12px;padding:11px 14px;cursor:pointer}
+.tagrow b{font-weight:600;font-size:14.5px}
+.tagrow .n{margin-left:auto;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.tagrow .edit{border:none;background:none;color:var(--muted);padding:2px 4px;font-size:14px}
+.sechead{font-size:11.5px;color:var(--muted);letter-spacing:.1em;margin:16px 2px 8px}
+
+/* ---------- 設定 ---------- */
+.set{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin-bottom:14px}
+.set .item{display:flex;align-items:center;gap:12px;padding:12px 14px;border-bottom:1px solid var(--line)}
+.set .item:last-child{border-bottom:none}
+.set .item .lbl{flex:1;font-size:14px}
+.set .item .sub{font-size:11.5px;color:var(--muted);margin-top:2px}
+.set button.act{border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:6px 12px;font-size:13px}
+.set button.act.danger{color:var(--danger)}
+.sw{width:46px;height:27px;border-radius:999px;background:var(--line);position:relative;
+    border:none;flex:0 0 auto;transition:background .18s}
+.sw::after{content:"";position:absolute;top:3px;left:3px;width:21px;height:21px;border-radius:50%;
+           background:#fff;transition:transform .18s;box-shadow:0 1px 3px rgba(0,0,0,.25)}
+.sw.on{background:var(--accent)}
+.sw.on::after{transform:translateX(19px)}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:14px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:11px 6px;text-align:center}
+.stat b{display:block;font-size:19px;font-variant-numeric:tabular-nums;font-family:var(--serif)}
+.stat span{font-size:10.5px;color:var(--muted)}
+
+/* ---------- 詳細シート ---------- */
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.42);opacity:0;pointer-events:none;
+       transition:opacity .22s;z-index:40}
+.scrim.on{opacity:1;pointer-events:auto}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--bg);
+       border-radius:18px 18px 0 0;max-height:92vh;display:flex;flex-direction:column;
+       transform:translateY(102%);transition:transform .26s cubic-bezier(.2,.8,.25,1)}
+.sheet.on{transform:translateY(0)}
+.grab{width:38px;height:4px;border-radius:99px;background:var(--line);margin:9px auto 0;flex:0 0 auto}
+.sheet .body{overflow-y:auto;padding:10px 18px calc(20px + var(--safe-b));-webkit-overflow-scrolling:touch}
+.sheet .meta{font-size:11.5px;color:var(--muted);margin-bottom:8px}
+.sheet h1{font-family:var(--serif);font-size:20px;line-height:1.6;margin:0 0 8px;font-weight:600}
+.sheet .orig{font-size:13px;color:var(--muted);margin:0 0 12px;line-height:1.65}
+.sheet .sum{font-size:14px;line-height:1.8;margin:0 0 6px}
+.sheet .sumo{font-size:12.5px;color:var(--muted);line-height:1.7;margin:0 0 12px}
+.openbtn{display:block;width:100%;text-align:center;background:var(--accent);color:#fff;
+         border:none;border-radius:11px;padding:13px;font-size:15px;font-weight:600;
+         text-decoration:none;margin:6px 0 16px}
+@media (prefers-color-scheme:dark){.openbtn{color:#0F1214}}
+.sheet .lab{font-size:11.5px;color:var(--muted);letter-spacing:.09em;margin:14px 0 7px}
+.tagedit{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.tagedit .tag.user{cursor:pointer}
+.tagedit input{flex:1;min-width:110px;border:1px solid var(--line);background:var(--card);
+               border-radius:999px;padding:5px 11px;font-size:12.5px;outline:none}
+textarea.memo{width:100%;min-height:96px;border:1px solid var(--line);background:var(--card);
+              border-radius:11px;padding:11px;outline:none;resize:vertical;line-height:1.7;font-size:14px}
+.rowbtns{display:flex;gap:9px;margin-top:16px}
+.rowbtns button{flex:1;border:1px solid var(--line);background:var(--card);border-radius:10px;padding:11px;font-size:13.5px}
+.rowbtns button.on{border-color:var(--accent);color:var(--accent)}
+
+/* ---------- タブバー ---------- */
+nav{position:fixed;left:0;right:0;bottom:0;z-index:35;display:flex;
+    background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(14px);
+    border-top:1px solid var(--line);padding-bottom:var(--safe-b)}
+nav button{flex:1;border:none;background:none;padding:8px 0 7px;color:var(--muted);font-size:10.5px;
+           display:flex;flex-direction:column;align-items:center;gap:3px;position:relative}
+nav button.on{color:var(--accent)}
+nav svg{width:22px;height:22px;stroke:currentColor;fill:none;stroke-width:1.7;
+        stroke-linecap:round;stroke-linejoin:round}
+nav .badge{position:absolute;top:4px;left:calc(50% + 8px);background:var(--accent);color:#fff;
+           font-size:9.5px;line-height:1;padding:2.5px 5px;border-radius:99px;font-variant-numeric:tabular-nums}
+@media (prefers-color-scheme:dark){nav .badge{color:#0F1214}}
+.toast{position:fixed;bottom:calc(84px + var(--safe-b));left:50%;transform:translateX(-50%) translateY(8px);
+       background:var(--ink);color:var(--bg);padding:9px 16px;border-radius:999px;font-size:12.5px;
+       opacity:0;pointer-events:none;transition:.22s;z-index:60;white-space:nowrap}
+.toast.on{opacity:.95;transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hrow">
+    <div class="brand">Sabah <span>Watch</span></div>
+    <div class="hsub" id="hsub">読み込み中…</div>
+  </div>
+  <div class="searchwrap" id="searchwrap">
+    <input id="q" type="search" placeholder="見出し・媒体・タグを検索" autocomplete="off">
+  </div>
+  <div class="chips" id="chips"></div>
+</header>
+
+<main>
+  <section class="view on" id="v-feed"><div id="banner"></div><div id="list"></div></section>
+  <section class="view" id="v-saved"><div id="listSaved"></div></section>
+  <section class="view" id="v-tags"><div id="tagsBox"></div></section>
+  <section class="view" id="v-settings"><div id="setBox"></div></section>
+</main>
+
+<nav>
+  <button data-tab="feed" class="on">
+    <svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg><span>新着</span>
+    <em class="badge" id="badge" style="display:none"></em>
+  </button>
+  <button data-tab="saved">
+    <svg viewBox="0 0 24 24"><path d="M12 4l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.5-4.8 2.5.9-5.4L4.2 9.7l5.4-.8z"/></svg><span>保存</span>
+  </button>
+  <button data-tab="tags">
+    <svg viewBox="0 0 24 24"><path d="M3 12V5a2 2 0 012-2h7l9 9-9 9z"/><circle cx="7.5" cy="7.5" r="1.4"/></svg><span>タグ</span>
+  </button>
+  <button data-tab="settings">
+    <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 15a1.6 1.6 0 00.3 1.8l.1.1a2 2 0 11-2.8 2.8l-.1-.1a1.6 1.6 0 00-2.7 1.1v.3a2 2 0 11-4 0v-.2a1.6 1.6 0 00-2.8-1.1l-.1.1a2 2 0 11-2.8-2.8l.1-.1A1.6 1.6 0 003.7 15a2 2 0 01-1.8 1.2H1.8a2 2 0 010-4h.2A1.6 1.6 0 003.4 9a1.6 1.6 0 00-.3-1.8L3 7.1a2 2 0 112.8-2.8l.1.1A1.6 1.6 0 009 3.7a2 2 0 011.2-1.8V1.8a2 2 0 014 0v.2A1.6 1.6 0 0017 3.4l.1-.1a2 2 0 112.8 2.8l-.1.1a1.6 1.6 0 00-.3 1.8v.1a1.6 1.6 0 001.5 1h.2a2 2 0 010 4h-.2a1.6 1.6 0 00-1.5 1z"/></svg><span>設定</span>
+  </button>
+</nav>
+
+<div class="scrim" id="scrim"></div>
+<div class="sheet" id="sheet"><div class="grab"></div><div class="body" id="sheetBody"></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+'use strict';
+const CACHE_LABEL = 'sw-v1';
+const $  = s => document.querySelector(s);
+const el = (t, c, x) => { const n = document.createElement(t); if (c) n.className = c; if (x != null) n.textContent = x; return n; };
+
+/* ============ 状態（端末内 localStorage） ============ */
+const KEY = 'sw_state';
+const DEFAULT_STATE = { v: 1, read: {}, star: {}, memo: {}, tags: {},
+                        opts: { unreadOnly: false, showOrig: true, jaFirst: true },
+                        seenIntro: false };
+let S = load();
+function load() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(KEY) || '{}');
+    return Object.assign({}, DEFAULT_STATE, raw,
+      { opts: Object.assign({}, DEFAULT_STATE.opts, raw.opts || {}) });
+  } catch (e) { return JSON.parse(JSON.stringify(DEFAULT_STATE)); }
+}
+let saveTimer = null;
+function save() {
+  clearTimeout(saveTimer);
+  saveTimer = setTimeout(() => localStorage.setItem(KEY, JSON.stringify(S)), 120);
+}
+
+/* ============ データ ============ */
+let DATA = { items: [], updated: null };
+let tab = 'feed', tagFilter = null, query = '', shown = 0;
+const PAGE = 40;
+
+async function loadNews(bust) {
+  const url = 'news.json' + (bust ? '?t=' + Date.now() : '');
+  const res = await fetch(url, { cache: bust ? 'reload' : 'default' });
+  if (!res.ok) throw new Error('news.json ' + res.status);
+  DATA = await res.json();
+  DATA.items = (DATA.items || []).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+}
+
+/* ============ 表示ヘルパ ============ */
+function titleOf(it) {
+  return S.opts.jaFirst ? (it.title_ja || it.title) : it.title;
+}
+function subtitleOf(it) {
+  const main = titleOf(it);
+  const other = S.opts.jaFirst ? it.title : (it.title_ja || '');
+  return (S.opts.showOrig && other && other !== main) ? other : '';
+}
+function summaryOf(it) {
+  return S.opts.jaFirst ? (it.summary_ja || it.summary) : it.summary;
+}
+function tagsOf(it) {
+  return [].concat(it.tags || [], S.tags[it.id] || []);
+}
+function ago(iso) {
+  const d = new Date(iso), now = new Date(), m = (now - d) / 60000;
+  if (isNaN(m)) return '';
+  if (m < 60) return Math.max(1, Math.round(m)) + '分前';
+  if (m < 60 * 24) return Math.round(m / 60) + '時間前';
+  const days = Math.floor(m / 60 / 24);
+  if (days === 1) return '昨日';
+  if (days < 7) return days + '日前';
+  const sameYear = d.getFullYear() === now.getFullYear();
+  return (sameYear ? '' : d.getFullYear() + '年') + (d.getMonth() + 1) + '月' + d.getDate() + '日';
+}
+function toast(msg) {
+  const t = $('#toast'); t.textContent = msg; t.classList.add('on');
+  clearTimeout(t._h); t._h = setTimeout(() => t.classList.remove('on'), 1600);
+}
+
+/* ============ 絞り込み ============ */
+function visibleItems(scope) {
+  let a = DATA.items;
+  if (scope === 'saved') a = a.filter(it => S.star[it.id]);
+  if (tagFilter) a = a.filter(it => tagsOf(it).includes(tagFilter));
+  if (scope === 'feed' && S.opts.unreadOnly) a = a.filter(it => !S.read[it.id]);
+  if (query) {
+    const q = query.toLowerCase();
+    a = a.filter(it => ((it.title || '') + (it.title_ja || '') + (it.summary || '') +
+      (it.summary_ja || '') + (it.source || '') + tagsOf(it).join(' ') +
+      (S.memo[it.id] || '')).toLowerCase().includes(q));
+  }
+  return a;
+}
+const unreadCount = () => DATA.items.filter(it => !S.read[it.id]).length;
+
+/* ============ カード ============ */
+function card(it) {
+  const c = el('article', 'card' + (S.read[it.id] ? ' read' : ''));
+  c.dataset.id = it.id;
+
+  const meta = el('div', 'meta');
+  meta.appendChild(el('span', 'src', it.source || ''));
+  meta.appendChild(el('span', null, '·'));
+  meta.appendChild(el('time', null, ago(it.date)));
+  if (S.memo[it.id]) meta.appendChild(el('span', 'memoflag', '✎ メモ'));
+  meta.appendChild(el('span', 'udot'));
+  c.appendChild(meta);
+
+  c.appendChild(el('h2', null, titleOf(it)));
+  const sub = subtitleOf(it);
+  if (sub) c.appendChild(el('p', 'orig', sub));
+  const sm = summaryOf(it);
+  if (sm) c.appendChild(el('p', 'sum', sm));
+
+  const foot = el('div', 'foot');
+  tagsOf(it).slice(0, 3).forEach(t => {
+    const chip = el('span', 'tag' + ((it.tags || []).includes(t) ? '' : ' user'), t);
+    chip.onclick = e => { e.stopPropagation(); setTag(t); };
+    foot.appendChild(chip);
+  });
+  const st = el('button', 'starbtn' + (S.star[it.id] ? ' on' : ''), S.star[it.id] ? '★' : '☆');
+  st.onclick = e => {
+    e.stopPropagation();
+    if (S.star[it.id]) delete S.star[it.id]; else S.star[it.id] = 1;
+    save(); st.className = 'starbtn' + (S.star[it.id] ? ' on' : '');
+    st.textContent = S.star[it.id] ? '★' : '☆';
+    toast(S.star[it.id] ? '保存しました' : '保存を解除しました');
+  };
+  foot.appendChild(st);
+  c.appendChild(foot);
+
+  c.onclick = () => openSheet(it);
+  return c;
+}
+
+/* ============ 一覧描画 ============ */
+function renderList(reset) {
+  const scope = tab === 'saved' ? 'saved' : 'feed';
+  const box = scope === 'saved' ? $('#listSaved') : $('#list');
+  const items = visibleItems(scope);
+  if (reset) { box.innerHTML = ''; shown = 0; }
+  if (!items.length) {
+    box.innerHTML = '';
+    box.appendChild(el('div', 'empty', scope === 'saved'
+      ? '保存した記事はまだありません。\n記事の ☆ を押すとここに並びます。'
+      : (query || tagFilter || S.opts.unreadOnly)
+        ? '条件に合う記事がありません。'
+        : '記事がまだありません。'));
+    return;
+  }
+  const frag = document.createDocumentFragment();
+  const next = items.slice(shown, shown + PAGE);
+  next.forEach(it => frag.appendChild(card(it)));
+  box.appendChild(frag);
+  shown += next.length;
+
+  const old = box.querySelector('.moreBtn');
+  if (old) old.remove();
+  if (shown < items.length) {
+    const b = el('button', 'moreBtn', `さらに表示（残り ${items.length - shown} 件）`);
+    b.style.cssText = 'width:100%;padding:12px;border:1px solid var(--line);background:var(--card);' +
+                      'border-radius:12px;color:var(--muted);font-size:13px;margin-top:4px';
+    b.onclick = () => renderList(false);
+    box.appendChild(b);
+  }
+}
+
+/* ============ 上部チップ ============ */
+function renderChips() {
+  const box = $('#chips'); box.innerHTML = '';
+  const add = (label, on, fn) => { const c = el('button', 'chip' + (on ? ' on' : ''), label); c.onclick = fn; box.appendChild(c); };
+
+  if (tab === 'feed') {
+    add('未読のみ', S.opts.unreadOnly, () => { S.opts.unreadOnly = !S.opts.unreadOnly; save(); renderChips(); renderList(true); });
+  }
+  if (tab === 'feed' || tab === 'saved') {
+    add('検索', $('#searchwrap').classList.contains('on'), () => {
+      const w = $('#searchwrap'); w.classList.toggle('on');
+      if (w.classList.contains('on')) $('#q').focus();
+      else { $('#q').value = ''; query = ''; renderList(true); }
+      renderChips();
+    });
+    if (tagFilter) add('# ' + tagFilter + ' ×', true, () => setTag(null));
+    else {
+      const counts = tagCounts();
+      Object.keys(counts).sort((a, b) => counts[b] - counts[a]).slice(0, 6)
+        .forEach(t => add(t, false, () => setTag(t)));
+    }
+  }
+}
+function setTag(t) {
+  tagFilter = (tagFilter === t) ? null : t;
+  if (tab !== 'feed' && tab !== 'saved') switchTab('feed');
+  renderChips(); renderList(true);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function tagCounts() {
+  const c = {};
+  DATA.items.forEach(it => tagsOf(it).forEach(t => { c[t] = (c[t] || 0) + 1; }));
+  return c;
+}
+
+/* ============ 詳細シート ============ */
+let sheetItem = null;
+function openSheet(it) {
+  sheetItem = it;
+  if (!S.read[it.id]) { S.read[it.id] = 1; save(); updateBadge(); }
+  const b = $('#sheetBody'); b.innerHTML = '';
+
+  b.appendChild(el('div', 'meta', `${it.source || ''} · ${ago(it.date)} · ${(it.date || '').slice(0, 10)}`));
+  b.appendChild(el('h1', null, titleOf(it)));
+  const sub = subtitleOf(it);
+  if (sub) b.appendChild(el('p', 'orig', sub));
+  if (it.summary_ja) b.appendChild(el('p', 'sum', it.summary_ja));
+  if (it.summary && S.opts.showOrig) b.appendChild(el('p', 'sumo', it.summary));
+
+  const a = el('a', 'openbtn', '記事を開く ↗');
+  a.href = it.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+  b.appendChild(a);
+
+  /* タグ */
+  b.appendChild(el('div', 'lab', 'タグ'));
+  const te = el('div', 'tagedit');
+  (it.tags || []).forEach(t => te.appendChild(el('span', 'tag', t)));
+  (S.tags[it.id] || []).forEach(t => {
+    const c = el('span', 'tag user', t + ' ×');
+    c.onclick = () => {
+      S.tags[it.id] = (S.tags[it.id] || []).filter(x => x !== t);
+      if (!S.tags[it.id].length) delete S.tags[it.id];
+      save(); openSheet(it); renderList(true);
+    };
+    te.appendChild(c);
+  });
+  const inp = el('input');
+  inp.placeholder = '＋タグを追加'; inp.setAttribute('list', 'taglist');
+  inp.onkeydown = e => {
+    if (e.key !== 'Enter') return;
+    const v = inp.value.trim();
+    if (!v) return;
+    S.tags[it.id] = Array.from(new Set([].concat(S.tags[it.id] || [], [v])));
+    save(); openSheet(it); renderList(true);
+  };
+  te.appendChild(inp);
+  b.appendChild(te);
+
+  const dl = el('datalist'); dl.id = 'taglist';
+  Object.keys(tagCounts()).forEach(t => { const o = el('option'); o.value = t; dl.appendChild(o); });
+  b.appendChild(dl);
+
+  /* メモ */
+  b.appendChild(el('div', 'lab', 'メモ'));
+  const ta = el('textarea', 'memo');
+  ta.value = S.memo[it.id] || '';
+  ta.placeholder = '気づいたこと、引用したい箇所、フォローすべき点など';
+  ta.oninput = () => {
+    const v = ta.value.trim();
+    if (v) S.memo[it.id] = v; else delete S.memo[it.id];
+    save();
+  };
+  b.appendChild(ta);
+
+  /* 操作 */
+  const row = el('div', 'rowbtns');
+  const starB = el('button', S.star[it.id] ? 'on' : '', S.star[it.id] ? '★ 保存済み' : '☆ 保存する');
+  starB.onclick = () => {
+    if (S.star[it.id]) delete S.star[it.id]; else S.star[it.id] = 1;
+    save(); openSheet(it); renderList(true);
+  };
+  const readB = el('button', '', '未読に戻す');
+  readB.onclick = () => { delete S.read[it.id]; save(); updateBadge(); closeSheet(); renderList(true); };
+  const closeB = el('button', '', '閉じる');
+  closeB.onclick = closeSheet;
+  row.append(starB, readB, closeB);
+  b.appendChild(row);
+
+  $('#sheet').classList.add('on'); $('#scrim').classList.add('on');
+  b.scrollTop = 0;
+  renderList(true);
+}
+function closeSheet() {
+  $('#sheet').classList.remove('on'); $('#scrim').classList.remove('on'); sheetItem = null;
+}
+$('#scrim').onclick = closeSheet;
+
+/* ============ タグ画面 ============ */
+function renderTags() {
+  const box = $('#tagsBox'); box.innerHTML = '';
+  const counts = tagCounts();
+  const autoSet = new Set();
+  DATA.items.forEach(it => (it.tags || []).forEach(t => autoSet.add(t)));
+  const auto = Object.keys(counts).filter(t => autoSet.has(t)).sort((a, b) => counts[b] - counts[a]);
+  const user = Object.keys(counts).filter(t => !autoSet.has(t)).sort((a, b) => counts[b] - counts[a]);
+
+  const section = (title, list, isUser) => {
+    if (!list.length) return;
+    box.appendChild(el('div', 'sechead', title));
+    const wrap = el('div', 'taglist');
+    list.forEach(t => {
+      const r = el('div', 'tagrow');
+      r.appendChild(el('b', null, t));
+      r.appendChild(el('span', 'n', counts[t] + ' 件'));
+      if (isUser) {
+        const e = el('button', 'edit', '✎');
+        e.onclick = ev => {
+          ev.stopPropagation();
+          const nv = prompt('タグ名を変更（空欄で削除）', t);
+          if (nv === null) return;
+          const v = nv.trim();
+          Object.keys(S.tags).forEach(id => {
+            if (!S.tags[id].includes(t)) return;
+            S.tags[id] = S.tags[id].filter(x => x !== t);
+            if (v) S.tags[id] = Array.from(new Set(S.tags[id].concat([v])));
+            if (!S.tags[id].length) delete S.tags[id];
+          });
+          if (tagFilter === t) tagFilter = v || null;
+          save(); renderTags(); renderList(true);
+        };
+        r.appendChild(e);
+      }
+      r.onclick = () => setTag(t);
+      wrap.appendChild(r);
+    });
+    box.appendChild(wrap);
+  };
+  section('自動タグ', auto, false);
+  section('自分のタグ', user, true);
+  if (!auto.length && !user.length) box.appendChild(el('div', 'empty', 'タグがまだありません。'));
+}
+
+/* ============ 設定画面 ============ */
+function renderSettings() {
+  const box = $('#setBox'); box.innerHTML = '';
+
+  const stats = el('div', 'stats');
+  const memoN = Object.keys(S.memo).length;
+  [['全記事', DATA.items.length], ['未読', unreadCount()],
+   ['保存', Object.keys(S.star).length], ['メモ', memoN]].forEach(([l, v]) => {
+    const s = el('div', 'stat'); s.appendChild(el('b', null, String(v))); s.appendChild(el('span', null, l));
+    stats.appendChild(s);
+  });
+  box.appendChild(stats);
+
+  const group = () => { const g = el('div', 'set'); box.appendChild(g); return g; };
+  const item = (g, label, sub, ctrl) => {
+    const i = el('div', 'item');
+    const t = el('div', 'lbl'); t.appendChild(el('div', null, label));
+    if (sub) t.appendChild(el('div', 'sub', sub));
+    i.appendChild(t); if (ctrl) i.appendChild(ctrl); g.appendChild(i); return i;
+  };
+  const toggle = (get, set) => {
+    const b = el('button', 'sw' + (get() ? ' on' : ''));
+    b.onclick = () => { set(!get()); save(); b.className = 'sw' + (get() ? ' on' : ''); renderList(true); };
+    return b;
+  };
+  const btn = (label, fn, danger) => {
+    const b = el('button', 'act' + (danger ? ' danger' : ''), label); b.onclick = fn; return b;
+  };
+
+  const g1 = group();
+  item(g1, '最終更新', DATA.updated ? new Date(DATA.updated).toLocaleString('ja-JP') : '—',
+    btn('再取得', async () => {
+      try { await loadNews(true); renderAll(); toast('最新にしました'); }
+      catch (e) { toast('取得できませんでした'); }
+    }));
+  item(g1, '自動更新', '1日4回（8時 / 14時 / 20時 / 深夜2時 サバ時間）');
+
+  const g2 = group();
+  item(g2, '日本語訳を先に表示', 'オフにすると原文の見出しが主になります',
+       toggle(() => S.opts.jaFirst, v => S.opts.jaFirst = v));
+  item(g2, '原文もあわせて表示', '見出しの下に小さく原文を出します',
+       toggle(() => S.opts.showOrig, v => S.opts.showOrig = v));
+
+  const g3 = group();
+  item(g3, 'すべて既読にする', '未読 ' + unreadCount() + ' 件',
+    btn('実行', () => {
+      DATA.items.forEach(it => S.read[it.id] = 1); save();
+      updateBadge(); renderAll(); toast('すべて既読にしました');
+    }));
+  item(g3, 'メモ・タグ・保存を書き出し', 'バックアップ用の JSON をダウンロード',
+    btn('書き出し', () => {
+      const blob = new Blob([JSON.stringify(S, null, 1)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'sabah-watch-backup.json'; a.click();
+      setTimeout(() => URL.revokeObjectURL(a.href), 3000);
+    }));
+  item(g3, '書き出したファイルから復元', '現在のメモ・タグ・保存は置き換わります',
+    btn('復元', () => {
+      const f = document.createElement('input'); f.type = 'file'; f.accept = 'application/json';
+      f.onchange = () => {
+        const file = f.files[0]; if (!file) return;
+        const r = new FileReader();
+        r.onload = () => {
+          try {
+            const o = JSON.parse(r.result);
+            if (!o || typeof o !== 'object' || !('read' in o)) throw new Error('形式が違います');
+            S = Object.assign({}, DEFAULT_STATE, o,
+              { opts: Object.assign({}, DEFAULT_STATE.opts, o.opts || {}) });
+            localStorage.setItem(KEY, JSON.stringify(S));
+            renderAll(); toast('復元しました');
+          } catch (e) { alert('復元できませんでした: ' + e.message); }
+        };
+        r.readAsText(file);
+      };
+      f.click();
+    }));
+
+  const g4 = group();
+  item(g4, '収集元', 'Google アラートの RSS ＋ Google ニュース検索（英語・マレー語）を1日4回まとめて取得し、サバ州の無国籍・難民関連だけを抽出しています。');
+  item(g4, '版', CACHE_LABEL + ' / 記事 ' + DATA.items.length + ' 件');
+}
+
+/* ============ 初回バナー ============ */
+function renderBanner() {
+  const box = $('#banner'); box.innerHTML = '';
+  if (S.seenIntro || !DATA.items.length) return;
+  const b = el('div', 'banner');
+  b.appendChild(el('div', null,
+    `過去の記事 ${DATA.items.length} 件を取り込みました。すべて未読の状態です。`));
+  const row = el('div', 'row');
+  const b1 = el('button', null, 'すべて既読にして新着から追う');
+  b1.onclick = () => {
+    DATA.items.forEach(it => S.read[it.id] = 1);
+    S.seenIntro = true; save(); updateBadge(); renderAll();
+  };
+  const b2 = el('button', null, 'このまま読む');
+  b2.onclick = () => { S.seenIntro = true; save(); renderBanner(); };
+  row.append(b1, b2); b.appendChild(row);
+  box.appendChild(b);
+}
+
+/* ============ タブ ============ */
+function switchTab(name) {
+  tab = name;
+  document.querySelectorAll('nav button').forEach(b => b.classList.toggle('on', b.dataset.tab === name));
+  ['feed', 'saved', 'tags', 'settings'].forEach(v => $('#v-' + v).classList.toggle('on', v === name));
+  if (name !== 'feed' && name !== 'saved') { $('#searchwrap').classList.remove('on'); $('#q').value = ''; query = ''; }
+  renderChips();
+  if (name === 'tags') renderTags();
+  else if (name === 'settings') renderSettings();
+  else renderList(true);
+  window.scrollTo(0, 0);
+}
+document.querySelectorAll('nav button').forEach(b => b.onclick = () => switchTab(b.dataset.tab));
+
+$('#q').oninput = e => { query = e.target.value.trim(); renderList(true); };
+
+function updateBadge() {
+  const n = unreadCount(), b = $('#badge');
+  b.style.display = n ? '' : 'none';
+  b.textContent = n > 99 ? '99+' : n;
+}
+
+function renderAll() {
+  $('#hsub').textContent = DATA.updated
+    ? '更新 ' + ago(DATA.updated) + ' · ' + DATA.items.length + '件'
+    : '—';
+  updateBadge(); renderBanner(); renderChips();
+  if (tab === 'tags') renderTags();
+  else if (tab === 'settings') renderSettings();
+  else renderList(true);
+}
+
+/* ============ 起動 ============ */
+(async function init() {
+  try {
+    await loadNews(false);
+  } catch (e) {
+    $('#list').appendChild(el('div', 'empty',
+      'ニュースを読み込めませんでした。\n通信状況を確認して開き直してください。'));
+    $('#hsub').textContent = 'オフライン';
+    return;
+  }
+  renderAll();
+  // 表示中にバックグラウンドで最新を取りにいく
+  setTimeout(() => loadNews(true).then(() => renderAll()).catch(() => {}), 1200);
+})();
+
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') loadNews(true).then(renderAll).catch(() => {});
+});
+
+if ('serviceWorker' in navigator) {
+  // 初回訪問時は controller が付くだけなので再読み込みしない。
+  // 2回目以降に SW が入れ替わったとき＝アプリ更新時だけ読み直す
+  const hadController = !!navigator.serviceWorker.controller;
+  let reloaded = false;
+  window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+  navigator.serviceWorker.addEventListener('controllerchange', () => {
+    if (!hadController || reloaded) return;
+    reloaded = true; location.reload();
+  });
+}
+</script>
+</body>
+</html>
