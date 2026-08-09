@@ -48,7 +48,7 @@ Google ニュース検索だけでも動くが、アラートを足すと **記�
 python3 -m http.server 8778 --directory .        # http://localhost:8778
 python3 fetch_news.py                            # 取得＋翻訳して news.json を更新
 python3 fetch_news.py --no-translate             # 翻訳を飛ばす（動作確認用）
-python3 make_icon.py                             # アイコンを作り直す
+python3 make_icon.py                             # アイコン（サバ州旗）を作り直す
 ```
 
 macOS の python.org 版で SSL 証明書エラーが出る場合は `SW_INSECURE_SSL=1` を付ける。
@@ -71,6 +71,6 @@ macOS の python.org 版で SSL 証明書エラーが出る場合は `SW_INSECUR
 | `news.json` | 収集結果。Actions が自動更新 |
 | `feeds.json` | 収集元と絞り込みの設定 |
 | `fetch_news.py` | 収集・絞り込み・タグ付け・翻訳 |
-| `make_icon.py` | アイコン生成 |
+| `make_icon.py` | アイコン生成（サバ州旗。`LAYOUT` で正方形への収め方を切替） |
 | `sw.js` | Service Worker（オフライン表示） |
 | `.github/workflows/update.yml` | 1日4回の自動更新 |
