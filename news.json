@@ -1,34 +1,34 @@
 {
- "updated": "2026-08-09T02:02:32Z",
- "count": 160,
+ "updated": "2026-08-10T08:27:48Z",
+ "count": 164,
  "tags": {
-  "入管・摘発": 101,
+  "入管・摘発": 103,
   "市民権": 27,
-  "無国籍": 25,
-  "子ども": 16,
-  "バジャウ": 10,
+  "無国籍": 26,
+  "子ども": 19,
+  "バジャウ": 11,
   "政策・政治": 9,
   "難民": 7,
-  "人権・NGO": 4,
+  "人権・NGO": 5,
+  "教育": 3,
   "ロヒンギャ": 2,
-  "医療・福祉": 2,
-  "教育": 2
+  "医療・福祉": 2
  },
  "sources": {
-  "Sabah Media": 28,
-  "Daily Express Malaysia": 15,
+  "Sabah Media": 29,
+  "Daily Express Malaysia": 16,
   "sabahnews.com.my": 12,
   "Borneo Post": 12,
-  "The Star": 11,
-  "TV Sabah News": 9,
-  "NST Online": 9,
+  "NST Online": 11,
+  "TV Sabah News": 10,
+  "The Star": 10,
   "sabahnewstoday.net": 7,
   "Jesselton Times": 6,
   "Berita Harian": 5,
   "Saluran 122": 5,
   "Sabah Post": 4,
   "Malay Mail": 4,
-  "astroawani.com": 3,
+  "Astro Awani": 3,
   "MalaysiaGazette": 3,
   "Free Malaysia Today": 3,
   "The Vibes": 2,
@@ -37,10 +37,10 @@
   "Harian Metro": 2,
   "Portal Berita RTM": 2,
   "Yahoo": 1,
+  "Newswav": 1,
   "Bernama": 1,
   "Sayang Sabah": 1,
   "Malaysiakini": 1,
-  "sabahmedia.com": 1,
   "Buletin TV3": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
@@ -159,7 +159,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeENKaEV3V1VBYlBRQVRESDUxcFdtUno4VVdTZkVuTl9Nd0oxWlpiVkNVdzQ3MC1keDgtdVh4Znk3VzRCeC1JRGlUc0xnQmZRei1zOTJmLUxjcVZ0aUlGcWI1MGk2SDMxSXUwRi1adkx5Zi0xU2c3Y1ZfTU9LZS1RSnFFZUlaY0hTMVhMRkV0ZUNJU0EwR2pKbFVhU1BWRkF4Q2dmUHQ5bTYxRVZqZjU4bDJoNFFqUQ?oc=5",
    "source": "Sabah Media",
-   "date": "2026-07-31T06:04:32Z",
+   "date": "2026-07-31T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -223,6 +223,23 @@
    "title_ja": "雇用主は敷地内に PATI を置いたとして RM5,000 の罰金を科せられた",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "No detention deaths: Sabah Immigration Department",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ0tiN0g1ekdPTTM5SDJFUU1PX3NOYU10dkpVT1Qtd0pYeXNXMWVBUzdzYU0ycEo0cHJxQkpFckE5eHFCOU56a1Y5VUNheFNCZkRyR3ktSW5KMmR1SGpHb3U4M0s2Q0pTWXFiMjFYbXpINzdvb0FzV2JnNzdDc2hkTW9JSjJnTmh6YzBHdl8zWkl1OTQ?oc=5",
+   "source": "Newswav",
+   "date": "2026-07-27T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "b606215407a4",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "拘留死亡者なし：サバ州入国管理局",
+   "summary_ja": "",
+   "first_seen": "2026-08-10T08:27:43Z"
   },
   {
    "title": "Sabah Immigration denies viral claims of detainee deaths",
@@ -502,7 +519,7 @@
    "title": "208 PATI ditahan dalam operasi Imigresen Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXN0ZkJxMzd0MnJfWk93QklIM0Rxd3pJMVlfTjdlUmVCY3lxRGhzYTdKN09CUGM5WkMtNmFhSlByN0RVSmtwamFsQVN1NzZZUEthLWZCUDIwV2NqdVdYWjJHN3Rqa3pZWHNCbUcxTW82Q2E0QXVSUmdyNS1ER05ibmRlc3FuQQ?oc=5",
-   "source": "astroawani.com",
+   "source": "Astro Awani",
    "date": "2026-07-04T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -739,7 +756,7 @@
    "title": "Talk about Sabah first before the Rohingya",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTU4UGNaQWJIYTRPVmI1a25mazcwM2JTaWY4REhOT2RnX0o4clhiVWt1YjJxUVNrTllLd0w5dUFiMDVHdm95c2hGWGFjVnd5QkppQXhaRGkzalB4Mms5dTlLU3dUSFRmNHVacVY1WmtpMlhTZUhfUVlYMTJFeHROT2NQRQ?oc=5",
-   "source": "sabahmedia.com",
+   "source": "Sabah Media",
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -882,8 +899,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "d9cf307b9450",
    "tags": [
-    "入管・摘発",
     "市民権",
+    "入管・摘発",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -1057,7 +1074,7 @@
    "title": "Pelarian di Sabah mesti ada keinginan berubah, mekanisme penyelesaian perlu holistik – Mufti Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcDB5VXUtaFZaNW5aUTlkWF81SXRUNmR2MW1UaVo4blVXOTRXYXNaRW9PM0QzUVRsUWFZUFg3MGFkV0VlUFZhTWk2N2hteWJSSlo4TlZEZVFQWWtnVkJMOEFmb1VtRkdBb2NJb29hRVYtUzYyZUdGRmdjU3FjY0FHd285RUd1bDdfeW9mMGZpcWNBdmstU3hraGNfY2lwOEthSlBwSHVpS2FtWDJsQ2tLUDZrc3FJTkpTZTlwQ0Y5RDJOU1Y0LUJfeg?oc=5",
-   "source": "astroawani.com",
+   "source": "Astro Awani",
    "date": "2026-05-27T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -1074,7 +1091,7 @@
    "title": "Rakyat Sabah perlu difahamkan isu pelarian melalui lensa kemanusiaan – Mufti Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGlLVnFoTW5MUG94NHlQYmowY1pjQUNUV1p4aG03Rmt4Zko1S2x4d05KWjJLTEZvTEpQaTg5em9rNkFRNnZfNlFaUFBUUlRfYlFBaHV6Z0ZMaGQ4MFRuQ3FpQXNUV3d6SzNWRWVpQktMbk9wTVlmSk1WakpDZ2hSWVpfYmRQaFVjWm8tYXlxX1pkOVQ1VGZRMUdMTzU2RTc2M210X2lrNnFfbndoLUFxWmNuTGw?oc=5",
-   "source": "astroawani.com",
+   "source": "Astro Awani",
    "date": "2026-05-27T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -1419,6 +1436,25 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
+   "title": "Bajau Laut teen’s illegal entry trial set for 2027: His case draws attention on stateless issue in Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYkY3d2F2Q2hwd2diV0dYVk96SXdqNDYxTFdWVU1YOW1NczV1Y290WWVkNl9BNUxxZG1fWnBPLVJzYnlMR3NDZnFTUVNaZWpmZEhVWFVqdnR1bnl2cTV3Q2FFOW1ENkNGVlVVU3BZaUV6eFJDTGZHejhsck1RTFVhNE9qVW15RlQtV243TUV1aFF0TU5FaUVGZWYxS21fUFJwVHQwYWo0dURwRGJEc3pFSEpQR3g3NFJ1eVYtNnBhWjlOcWFQbmprcHNtelRXVU1lenpIS0R2RkhZZDRZSFpYZG53?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-05-08T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "52e8c9b5ce49",
+   "tags": [
+    "バジャウ",
+    "子ども",
+    "無国籍"
+   ],
+   "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
+   "summary_ja": "",
+   "first_seen": "2026-08-10T08:27:43Z"
+  },
+  {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
@@ -1522,6 +1558,43 @@
    "title_ja": "166人のPATIがフィリピンに送り返された",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
+   "source": "NST Online",
+   "date": "2026-04-29T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "32fc62f917b2",
+   "tags": [
+    "子ども",
+    "教育",
+    "無国籍"
+   ],
+   "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
+   "summary_ja": "",
+   "first_seen": "2026-08-10T08:27:43Z"
+  },
+  {
+   "title": "Undocumented children in Sabah trapped by stigma and denied basic rights: NGO",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnY3RllHMzRaaVE2emtmSWthYldlZGZZWnZwZDduQk1jdXRpTWdZN0VQaEVoTUltLWx4Y0psNmtyYnlPSmJGT1hRMkpxRUI3LU81dl9vR29wek9yRWpCMDVEZnEzdjI0MjJzMHdMRUp6YUpwUEEwSnBfWGl0LTZxWVBrRVkyMkE0cTQwSUY3aUhCaGRmYmZZaVl5aDMxb1FHNGtjaUk1d21oSUhqcDFMV3h5ZGZsMEdpMEJRY1Nn0gHDAUFVX3lxTE96Zl9aWUp3TkZWbXdYRGVmT0hBRlYtY3pNZ3NJU0V2MHBFU241RzBDZzhOZ2dSN2lQUEUyckF0X2tCVkdyWW1DN0doUnhJS3FhU29YRkJYYkxhblRfdlR4bzB0b1hOSE1ma1ljbmloTjhIMVN0cW0wNG9Kall4bGpQSWhLdXllUEY3U1dLZFFJSm91dmNXZklYRXhPdGVRSnhKNXJtSGZkUU9tV1hIbUk3RXg4bkxCN2tiTHlvWFIwa2N5aw?oc=5",
+   "source": "NST Online",
+   "date": "2026-04-29T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "63c01c9014e6",
+   "tags": [
+    "人権・NGO",
+    "子ども"
+   ],
+   "title_ja": "サバ州の不法滞在の子供たちが汚名に囚われ、基本的権利を否定される：NGO",
+   "summary_ja": "",
+   "first_seen": "2026-08-10T08:27:43Z"
   },
   {
    "title": "Sabah leader backs MyKAS move for stateless people",
@@ -2298,6 +2371,23 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
+   "title": "64 PATI Ditahan Dalam Operasi Penguatkuasaan Imigresen di Tawau",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQanpKNzRWYXU5MUU0c1JEa1JZRldLeTFWSjN3SW5ZTm5BRG56NWNtYVAtSGxGLUlnZlVGdk92RjdYSUI0RGtXQkJIaEw5YnBFT1haNTBsdEh1eWJMYVpueEJNUmlOQUlQUEowM0p4SW1raGoxdHpfWU1Ub3RRTTVQaURaWW9YSU9qZUhfcUxyU2luZw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2025-12-10T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "e28d1e09d781",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "64 PATI、タワウの入国管理捜査で拘束",
+   "summary_ja": "",
+   "first_seen": "2026-08-10T08:27:43Z"
+  },
+  {
    "title": "Operasi Imigresen Sabah Berjaya Tumpaskan 86 PTI di Tawau",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUEFXQ1FzSGdLeWV4TFhnZTR5MVZsU0YzbV93ZVMwVjhyUFV3SDdzMG50OFhaVUh2QVFHT1VjSmI4Q05JUmVlMW9yc2lncDgzLTJQaXV5eGlHcUJEMkYyMHFkWUNFMzF4YmwxQmU4YlpxQlV3NHR5YlpYUHptT1B6bTBIbjROaUJ1X2tDNXRBT05MZklIdTRwVzMzMA?oc=5",
@@ -2792,23 +2882,6 @@
     "バジャウ"
    ],
    "title_ja": "センポルナのバジャウ・ラウト族は、見られることはあっても歓迎されることはなく、観光ブームで負け続けている",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "New joint committee set up to tackle Sabah’s long-standing statelessness crisis",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOTZHQmdWZHJoTnBBS2MtZFVuMlhvWkFVdjc2cGd3VFltZUx1NDJydVg5Q2RHWEhveVB5MHFWZFB4VGxKOUFINFV1YTZQbnVVZV9SOFVKaU9heExBVFZUdDVFYlBXbFllMTVLaDNEYzU1SFpSRnVQQ0IxUTV5WjBSYVBMUDdVWXFvOTFmTlI0dUN0Xy1zd1lmS0N6bHFMYzQ3SnF1MzdTa0JvUVZXMTlzeUF1aTFsMlE1eXBHMXNIN3lXN2R5Q2J3?oc=5",
-   "source": "The Star",
-   "date": "2025-07-05T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "f05cd0f6ffc8",
-   "tags": [
-    "無国籍"
-   ],
-   "title_ja": "サバ州の長年の無国籍危機に対処するため新たな合同委員会が設立",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   }
