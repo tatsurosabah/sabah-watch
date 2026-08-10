@@ -3,7 +3,8 @@
 サバ州の無国籍・難民に関するニュースを、iPhone のホーム画面から1タップで読むための個人用 PWA。
 
 - 公開URL: https://tatsurosabah.github.io/sabah-watch/
-- Google ニュース検索（英語・マレー語）と Google アラートの RSS を **GitHub Actions が1日4回** 取得し、
+- Google ニュース検索（英語・マレー語）と Google アラートの RSS を **GitHub Actions が1日4回**
+  （サバ時間 8時 / 14時 / 20時 / 深夜2時）取得し、
   サバ州の無国籍・難民関連だけに絞り、日本語訳を付けて `news.json` にコミットする。
 - アプリ（`index.html` 1枚）は同一オリジンの `news.json` を読むだけ。サーバー不要。
 - 既読／保存／タグ／メモは端末内 `localStorage`（キー `sw_state`）にのみ保存される。
@@ -18,6 +19,9 @@
 
 Google ニュース検索だけでも動くが、アラートを足すと **記事の実URLと抜粋** が取れる
 （Google ニュース由来の記事は news.google.com 経由のリンクで、抜粋は付かない）。
+
+なお news.google.com 経由のリンクも、**ブラウザで開けば記事に着地する**（実測で 5/5 成功）。
+収集時に実URLへ変換できないだけで、読む分には支障はない。
 
 1. https://www.google.com/alerts を開く
 2. 追いたいキーワードのアラートで「オプションを表示」→ **配信先: RSS フィード** を選ぶ
