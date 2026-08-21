@@ -1,12 +1,12 @@
 {
- "updated": "2026-08-21T06:21:28Z",
- "count": 202,
+ "updated": "2026-08-21T12:18:52Z",
+ "count": 201,
  "tags": {
   "入管・摘発": 127,
   "市民権": 33,
   "無国籍": 29,
   "子ども": 22,
-  "バジャウ": 14,
+  "バジャウ": 13,
   "政策・政治": 10,
   "人権・NGO": 7,
   "難民": 7,
@@ -22,7 +22,7 @@
   "sabahnews.com.my": 13,
   "The Star": 12,
   "TV Sabah News": 10,
-  "Malay Mail": 9,
+  "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Berita Harian": 6,
   "Saluran 122": 6,
@@ -65,7 +65,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3ptZmhwWE9uMTNoQ1FKZkZ0LW9YTlhscmUtWUxzSEswZnloUHBrb3J4ZEU0NDJ1b05CR3hwek90N0tTbW1HQmQ3d3VVUHNBVkVvVVFYTjh1S192Tm9ObGhBN0J5UzdLLS1vU3RVcXZqT2VCR2hadmp1UHZxY1FxOEdjRWozOEtjTTFVWG5nUldHVVU1Z0Z0NUZNVElCUVNPSlItTWNmZ1o1dHVfNzFHTG9Vd3RGUTY3eDUyUTFfVEE0MjUyd2l3MEJ4RdIB0AFBVV95cUxPVEktSjQtN2xVNC13UEI0TkNGWHBNZUpiMzVkbTBjeG16TDV0VnpvbnFJVnpPVkxxcThrSzkzRXpDbjl1LXo2bVgxcW1mOVRkN255UHMzeUU2elAzako3WG4tRFgyc1NpSVoxNm15LXBfcWpkZE5tck1EVEQ1UjRNZ05EQlZQaElEVjZDM2lCaW8ySnZjcmlaV3ZiSkQ2aUh0SHgxZnEtMWNRS3RxV2NTYzdYd3YzanZDQTZsQnBlbk9iTFh4anZRT2tEZnpqb0tK?oc=5",
    "source": "Malay Mail",
-   "date": "2026-08-21T01:53:29Z",
+   "date": "2026-08-21T05:49:32Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -3518,23 +3518,6 @@
     "入管・摘発"
    ],
    "title_ja": "不法移民に対する作戦が続く中、サンダカンの倉庫は超満員",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Seen but never welcomed, the Bajau Laut of Semporna continue to lose out in tourism boom",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUNXcm1uWWZZM1Rub2pjLXY0empEcERndEdubFRUb3liZkVpb1pCR2owejlMR3c4bjhSQld6ZDdpVkdEMFNvQnJNdUNtdWkwTDNLREhZdFVxNHFud09mOFR4VHJycVNrb0lVamdCVUJOd1JKQy1aYnN4NWtjVWw4RWlRTXVDWkh3dXRsbjBnanpLNlM4WlhDckE1OFZhdUN1Y0VDNW5KMEJlcmhyQmpJb3lnR09HOHAxbTNjWUN3ZkE3X3VJQ0QyVG9xVm1YZ3hYX05sUy0wWklCeldrQ2fSAeMBQVVfeXFMTjVTZXh2ZEJRNENNcHRKRW5EYmVFank4UUNPclJhcjl2U3UzQnQ2Y2tjY2lTTWIzNWh5VmV0MExERHk3VVdlUWhxa0Q5aEZBVHY4YW1IMkk5azhBRkZqSlZrUGxXQ0YxRWhMU0FqeXlMRS1RWVFZQWxleExwNnNTb1V3WHZQLVpPNGhrb0IwR2tKRzVfMlRSNkdkWjJsMGtRaWJmUTVLYm9CMUdqZTNWSmllWVNNWWRLam5PcFkyaGl1enpFZnp1djJHY1VSMmxTN0FmZ0J5TkxJVV9BYTNnVDJZVWM?oc=5",
-   "source": "Malay Mail",
-   "date": "2025-07-17T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "7b4493a7d10e",
-   "tags": [
-    "バジャウ"
-   ],
-   "title_ja": "センポルナのバジャウ・ラウト族は、見られることはあっても歓迎されることはなく、観光ブームで負け続けている",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   }
