@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-21T00:29:17Z",
- "count": 199,
+ "updated": "2026-08-21T06:21:28Z",
+ "count": 202,
  "tags": {
-  "入管・摘発": 125,
-  "市民権": 32,
+  "入管・摘発": 127,
+  "市民権": 33,
   "無国籍": 29,
   "子ども": 22,
   "バジャウ": 14,
@@ -15,20 +15,21 @@
   "医療・福祉": 2
  },
  "sources": {
-  "Sabah Media": 34,
+  "Sabah Media": 35,
   "Daily Express Malaysia": 17,
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
   "The Star": 12,
   "TV Sabah News": 10,
-  "Malay Mail": 8,
+  "Malay Mail": 9,
   "sabahnewstoday.net": 8,
   "Berita Harian": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Free Malaysia Today": 5,
   "Sabah Post": 4,
+  "Buletin TV3": 3,
   "Astro Awani": 3,
   "MalaysiaGazette": 3,
   "Harian Metro": 3,
@@ -36,7 +37,6 @@
   "The Vibes": 2,
   "Sayang Sabah": 2,
   "Sabah Kini2": 2,
-  "Buletin TV3": 2,
   "Portal Berita RTM": 2,
   "Malaysia-China Insight": 1,
   "PressReader": 1,
@@ -60,6 +60,40 @@
   "sabahmedia.com": 1
  },
  "items": [
+  {
+   "title": "Sabah Immigration repatriates 4,750 undocumented migrants so far this year",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3ptZmhwWE9uMTNoQ1FKZkZ0LW9YTlhscmUtWUxzSEswZnloUHBrb3J4ZEU0NDJ1b05CR3hwek90N0tTbW1HQmQ3d3VVUHNBVkVvVVFYTjh1S192Tm9ObGhBN0J5UzdLLS1vU3RVcXZqT2VCR2hadmp1UHZxY1FxOEdjRWozOEtjTTFVWG5nUldHVVU1Z0Z0NUZNVElCUVNPSlItTWNmZ1o1dHVfNzFHTG9Vd3RGUTY3eDUyUTFfVEE0MjUyd2l3MEJ4RdIB0AFBVV95cUxPVEktSjQtN2xVNC13UEI0TkNGWHBNZUpiMzVkbTBjeG16TDV0VnpvbnFJVnpPVkxxcThrSzkzRXpDbjl1LXo2bVgxcW1mOVRkN255UHMzeUU2elAzako3WG4tRFgyc1NpSVoxNm15LXBfcWpkZE5tck1EVEQ1UjRNZ05EQlZQaElEVjZDM2lCaW8ySnZjcmlaV3ZiSkQ2aUh0SHgxZnEtMWNRS3RxV2NTYzdYd3YzanZDQTZsQnBlbk9iTFh4anZRT2tEZnpqb0tK?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-08-21T01:53:29Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "0d1760673aff",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局は今年これまでに4,750人の不法移民を本国に送還",
+   "summary_ja": "",
+   "first_seen": "2026-08-21T06:21:25Z"
+  },
+  {
+   "title": "144 PATI warga Indonesia dihantar pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRURNYTM0NUIxc3NKWmJmaXdMellFRHRZYWlodFdMUHI4RGFGRzJSVVdIVmY2bWQyMkNpMUNNdWljaFhNanJTOGdUVk15UmdPYnVtOEFRMk5BM1luNE9HWjVEeFpkTC12RE9nQ01wZVoxOHVPbnl5QjMwXzh1dHl2UFVDVW54V3BnYWVZeE1Uek83RGdh?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-08-20T21:30:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "f025fe2fa5eb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "PATIインドネシア国民144人が母国に送還された",
+   "summary_ja": "",
+   "first_seen": "2026-08-21T06:21:25Z"
+  },
   {
    "title": "Sabah Immigration repatriates 4,750 illegal immigrants",
    "summary": "",
@@ -671,6 +705,23 @@
    "title_ja": "帰化したフィリピン人260人が国外追放された",
    "summary_ja": "",
    "first_seen": "2026-08-17T18:18:06Z"
+  },
+  {
+   "title": "MHO saran JPN kaji semula syarat MyKAS untuk individu tanpa negara",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1diaERJWlFyWVZhZlVQUHMxTXVNUXZwQTNtYkZsRXdrWDBHbEYtaGZ1X2R5djc4RUJfOHYyVENLQUJ2Z3VNcXpaODFjTFFRVmFCN080ZnA2QWFtSzVudE82RHo5dGFPQ3FmYlhNY1pjOHBVbDUxbGR3Mk9qcGVRNG4tNmxWVmQtYzhrWk9ERTI4OS0zZDQ0TVNGMWtLZ2VydGdYRA?oc=5",
+   "source": "Buletin TV3",
+   "date": "2026-07-16T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "MyKAS OR IMM13 Sabah",
+   "id": "9a17b2707c8c",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "MHOは日本に対し、無国籍者に対するMyKAS条件の見直しを提案",
+   "summary_ja": "",
+   "first_seen": "2026-08-21T06:21:25Z"
   },
   {
    "title": "Lagi 260 PATI Filipina diusir pulang ke negara asal",
