@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-20T18:18:50Z",
- "count": 198,
+ "updated": "2026-08-21T00:29:17Z",
+ "count": 199,
  "tags": {
-  "入管・摘発": 124,
+  "入管・摘発": 125,
   "市民権": 32,
   "無国籍": 29,
   "子ども": 22,
@@ -19,8 +19,8 @@
   "Daily Express Malaysia": 17,
   "NST Online": 15,
   "Borneo Post": 14,
+  "sabahnews.com.my": 13,
   "The Star": 12,
-  "sabahnews.com.my": 12,
   "TV Sabah News": 10,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
@@ -144,9 +144,9 @@
   {
    "title": "Malaysia, Philippines discuss swift repatriation of 5,000 undocumented migrants detained in Sabah depots",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWGlGUUVpaFptS3NMUS1femd3aDFzMWxhVDIzR3JPR01tdFFDdE5DZnp5M2FmNDZXTGZ1NTRwTjM0aUxrdUJqbWZkc0tBQzJGbkIxY2FZQ1pxRGhDLUNKdG9PUnlWOVpGTDdqLXdoY1RwWnhuT0dXcVVBQ24xeUtabnh0aTFNbFo2Qy1uRUFVMExfaEp4UDVuOU1kZ1R4dUxRZlhOZ1dxOVdvbUJEUXpTUVhoWEhuTFhQUnM2SWp3TTIzT01JZ1lVS3R0bXR5V2lCQXpEdWpiSUJfZ1Jqd1FxQjMxTFQxMlhLcnM4MkxOVFJ6QU8yOC1Z0gH3AUFVX3lxTE5YaUZRRWloWm1Lc0xRLV96Z3doMXMxbGFUMjNHck9HTW10UUN0TkNmenkzYWY0NldMZnU1NHBOMzRpTGt1QmptZmRzS0FDMkZuQjFjYVlDWnFEaEMtQ0p0b09SeVY5WkZMN2otd2hjVHBaeG5PR1dxVUFDbjF5S1pueHRpMU1sWjZDLW5FQVUwTF9oSnhQNW45TWRnVHh1TFFmWE5nV3E5V29tQkRRelNRWGhYSG5MWFBSczZJandNMjNPTUlnWVVLdHRtdHlXaUJBekR1amJJQl9nUmp3UXFCMzFMVDEyWEtyczgyTE5UUnpBTzI4LVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEYwOU5oVUNLYXI1SE9TYy1wRlYxZTViQ2JlT1g3N3VCd2pUbFQ4aXFwSGcyQlJUa3FoU1RxOWNJRUwzOGd6ejZzSVpHbnM3cVk2Wnc2aUpEY3Npc0xBMzYtUDUyaGlWeWdQclF6TTBjWGduV0xYdlFsU3NldGtiaFNqaXBSd2tuS1k1MXRITk9GbTFQX0gwaDhzbl80a3JFWnY5b0lqSUJkcjlkY1BPR1FRWXlMQUpOZ3NGNFZHRVh3VU4zeTZFSjBTbEhubGhvSUJhZHdiVkMyeFRZaXQteDcwMjJJWmJHMEFvWU15dFREd9IB9wFBVV95cUxOWGlGUUVpaFptS3NMUS1femd3aDFzMWxhVDIzR3JPR01tdFFDdE5DZnp5M2FmNDZXTGZ1NTRwTjM0aUxrdUJqbWZkc0tBQzJGbkIxY2FZQ1pxRGhDLUNKdG9PUnlWOVpGTDdqLXdoY1RwWnhuT0dXcVVBQ24xeUtabnh0aTFNbFo2Qy1uRUFVMExfaEp4UDVuOU1kZ1R4dUxRZlhOZ1dxOVdvbUJEUXpTUVhoWEhuTFhQUnM2SWp3TTIzT01JZ1lVS3R0bXR5V2lCQXpEdWpiSUJfZ1Jqd1FxQjMxTFQxMlhLcnM4MkxOVFJ6QU8yOC1Z?oc=5",
    "source": "Malay Mail",
-   "date": "2026-08-18T09:45:57Z",
+   "date": "2026-08-18T09:45:55Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1790,9 +1790,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -2481,6 +2481,23 @@
    "title_ja": "10 PATIは4ヶ月の懲役刑",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "91 PATI Ditangkap dalam Operasi JIM di Keningau, Tawau",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXNmZmQ4X1BaSDYtbWdXazRHUGxjbVZfOFJpLV90TVhxZk9sOG5zcHhlemo1V3pWel85QWxsNU94ekQySjlXYi1reW92TUxtYVI1M3pPOVZsYmc0VEtYaWUtVHJjVHduQy1hcXVjbVYtZUZiUlJaMmp2WnJxVnRBQTkxUlNmZw?oc=5",
+   "source": "sabahnews.com.my",
+   "date": "2026-02-14T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "808a718342a5",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "タワウ州ケニンガウのJIM作戦で91人のPATIを逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-08-21T00:29:15Z"
   },
   {
    "title": "61 undocumented Filipino migrants detained in Sabah operation",
