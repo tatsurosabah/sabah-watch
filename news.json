@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-22T18:10:15Z",
+ "updated": "2026-08-23T00:28:37Z",
  "count": 201,
  "tags": {
   "入管・摘発": 127,
@@ -54,7 +54,7 @@
   "Philstar.com": 1,
   "berita.rtm.gov.my": 1,
   "Utusan Malaysia": 1,
-  "Gempak": 1,
+  "gempak.com": 1,
   "The Edge Malaysia": 1,
   "malaysiamadani.gov.my": 1,
   "sabahmedia.com": 1
@@ -1611,11 +1611,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "de8489aec11e",
    "tags": [
-    "入管・摘発",
-    "市民権"
+    "市民権",
+    "入管・摘発"
    ],
    "title_ja": "ミカスのルールを緩めますか？」 — サバ州では移民の失敗やアイデンティティに関する論争が何度もあった",
    "summary_ja": "",
@@ -1920,7 +1920,7 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
@@ -3063,7 +3063,7 @@
    "title": "\"It's A Bad Image Untuk Sabah\" - Azharina Harap PRN Sabah Bawa Perubahan, Minta Basmi Masalah PATI, Dadah & Kebersihan",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObENVSXlQUVJPWDRKM2JMRUxocXpDbmxUQWY2RmdlZ0dwWkNwdXItUi1PZEd1X1FYMTRJZk1MTEdXV2hkTHpuUk1lOEQwbGhqbEdyLWhYWTM2MG44VUdZX3ppYktBM3hCazJOeHhZLXlVaE95NmF3SW9YOF84TVlrYnZRMlUtRXNQM2xRUHdOcFYxN29JaHdDMzY3MlB3T0ZkSmdZMWp1NzJyQVl2N05nSGJnTzY1Zw?oc=5",
-   "source": "Gempak",
+   "source": "gempak.com",
    "date": "2025-11-19T08:00:00Z",
    "lang": "ms",
    "origin": "news",
