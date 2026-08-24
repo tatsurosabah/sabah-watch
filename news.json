@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T12:19:31Z",
+ "updated": "2026-08-24T18:20:00Z",
  "count": 202,
  "tags": {
   "入管・摘発": 128,
@@ -81,7 +81,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRURNYTM0NUIxc3NKWmJmaXdMellFRHRZYWlodFdMUHI4RGFGRzJSVVdIVmY2bWQyMkNpMUNNdWljaFhNanJTOGdUVk15UmdPYnVtOEFRMk5BM1luNE9HWjVEeFpkTC12RE9nQ01wZVoxOHVPbnl5QjMwXzh1dHl2UFVDVW54V3BnYWVZeE1Uek83RGdh?oc=5",
    "source": "Sabah Media",
-   "date": "2026-08-21T01:08:04Z",
+   "date": "2026-08-20T21:30:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -194,7 +194,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T09:31:28Z",
    "lang": "ms",
@@ -1401,9 +1401,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
-    "無国籍",
     "子ども",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -1610,11 +1610,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "de8489aec11e",
    "tags": [
-    "市民権",
-    "入管・摘発"
+    "入管・摘発",
+    "市民権"
    ],
    "title_ja": "ミカスのルールを緩めますか？」 — サバ州では移民の失敗やアイデンティティに関する論争が何度もあった",
    "summary_ja": "",
