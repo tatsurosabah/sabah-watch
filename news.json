@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-24T06:29:54Z",
- "count": 201,
+ "updated": "2026-08-24T12:19:31Z",
+ "count": 202,
  "tags": {
-  "入管・摘発": 127,
+  "入管・摘発": 128,
   "市民権": 33,
   "無国籍": 29,
   "子ども": 22,
@@ -24,7 +24,7 @@
   "TV Sabah News": 10,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
-  "Berita Harian": 6,
+  "Berita Harian": 7,
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Free Malaysia Today": 5,
@@ -3485,6 +3485,23 @@
    "title_ja": "クンダサンでさまざまな罪で40人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-08-19T18:14:15Z"
+  },
+  {
+   "title": "40 PATI ditahan di Kundasang",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZ1dMNlhESEdOVF9ucmZseWZvYVNoZFZtTE9GdTFZX3ZtbTBac3dra1FCOXVWX1Z4SlQwNHN5VUQ1czFaMWZ0THpaLW1BTlFUUWs4VEJsNThCZTk2djFKS05sQ2U0OXhQQ3JLWTJCQUNVNGpHRDMwd2U4d2VxTng0eFpXQUotY25fUWfSAY8BQVVfeXFMT3BRSURWSXJLSHVsNW9tbVAtcmY4RElTRE1HaVBMa0ltd1JRODM5djVvY2VwZk9CRDZNOUVER0hucHY0Vmd0NHRzeGtvNDRQMUJIT0NFVThQdEh4VHY1VkN2QS1IQkhpLWZPanVSVE4xY2NFQXNzR0VKLUhUNXptLVMyNy1ONld0WHh3Wl9DWTQ?oc=5",
+   "source": "Berita Harian",
+   "date": "2025-08-05T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "d096f99832fb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-24T12:19:29Z"
   },
   {
    "title": "Sabah Immigration Dept nabs 141 during major raid in Keningau",
