@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-25T06:21:50Z",
- "count": 203,
+ "updated": "2026-08-25T12:20:01Z",
+ "count": 205,
  "tags": {
-  "入管・摘発": 129,
+  "入管・摘発": 130,
   "市民権": 33,
-  "無国籍": 29,
+  "無国籍": 30,
   "子ども": 22,
   "バジャウ": 13,
   "政策・政治": 10,
@@ -25,9 +25,9 @@
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Berita Harian": 7,
+  "Free Malaysia Today": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
-  "Free Malaysia Today": 5,
   "Sabah Post": 4,
   "Astro Awani": 4,
   "Buletin TV3": 3,
@@ -48,6 +48,7 @@
   "Migrant Times": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
+  "negrosnowdaily.com": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
   "Philstar.com": 1,
@@ -243,6 +244,23 @@
    "first_seen": "2026-08-15T00:26:41Z"
   },
   {
+   "title": "132 PATI dihantar pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHMzJGVjVGaFJDMjV6UjYwMlJnd24zSkI4d3R2dExDUlQyS3NPSmQ2Ym1FN1hqMnVUeUhRczRDcjdoOVpLWlB5WENJd1lhMUdNNl9PZWNiT3pYOGZjMVdSSEtnUGRzX0VMdGh4akN1T1hKQ09COGN0emFUMFpkY3M?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-08-15T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "9ed0668555a1",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "132人のPATIが出身国に送還された",
+   "summary_ja": "",
+   "first_seen": "2026-08-15T00:26:41Z"
+  },
+  {
    "title": "Act on NGO involved in MyKAS assistance",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUlfdFFQckRIMFFuaEFkOU9PMmEyZkUweWI4RU1MUDhJYW9sX01tOWdfQnBOS3pqNEs2RW5ncnR6UXNEa1o5elJ4d2JFWUt1WERzUk9GbWRUQkdCLVdSSEdUdmJUNXZMZUZpWXZwU2xrOFRWTWpoRkJiMHRTX1NiaUw5Vmc0WENqZ3ZvMw?oc=5",
@@ -275,23 +293,6 @@
     "バジャウ"
    ],
    "title_ja": "サバ州のバジャウ族、マレーシアの島嶼観光でより大きな発言権を求める",
-   "summary_ja": "",
-   "first_seen": "2026-08-15T00:26:41Z"
-  },
-  {
-   "title": "132 PATI dihantar pulang ke negara asal",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHMzJGVjVGaFJDMjV6UjYwMlJnd24zSkI4d3R2dExDUlQyS3NPSmQ2Ym1FN1hqMnVUeUhRczRDcjdoOVpLWlB5WENJd1lhMUdNNl9PZWNiT3pYOGZjMVdSSEtnUGRzX0VMdGh4akN1T1hKQ09COGN0emFUMFpkY3M?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-08-14T22:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "9ed0668555a1",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "132人のPATIが出身国に送還された",
    "summary_ja": "",
    "first_seen": "2026-08-15T00:26:41Z"
   },
@@ -1646,7 +1647,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -2446,7 +2447,7 @@
   {
    "title": "NGO condemns stateless child's arrest during Raya programme for the needy in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFXd1g4TnlOX3EtMGVGRW4tTDVQQVBJTUlaZEs4UU9mT1p3dW0wdmQybHZYck45RXN3TkRQUEhTVk1sb0E5NUFPU2w3UWtSR2E5ZXpwYWN4NUlkQXVUQ2FWT1ZKSXZFOG8wakg1dU05dU11UVVIVkdjZkhiOVdJYndZWUU0STlFMV9qNGtkTF9xbS1TVUZmVkNGaldaVk1zSXliZkl1Mmc5Vkd2dWE3c1ZNMXBwRTl4Q1dWMExXR1JIa2I4QmNHS1dYWjFHTnct0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBWLWQ2Ny1MMWhlS2xGbGFuUjg2LVBHRXk1Q2x3WmJpWUN6NjU2MTg3OGNNWDZsRFhRcTFLZXFJVWJ5d0lCVm9lb2drOGJYVW5lOG9ETnRqRGFXU29YWHNUZVRyWUlnckQtOWx1ckdfa2RLSDJsSUozZlV6N2pMaFJYMl9URWtucy1rakhXNHR4dk1aQ0lFbEI4UWVPZU45ZzRvYkdvSmRJOXBib3k5SWhOeEdaSERacTFyMktn0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
    "source": "NST Online",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
@@ -2531,6 +2532,23 @@
    "title_ja": "10 PATIは4ヶ月の懲役刑",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "Stateless in Sabah: Lives on the Margin",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JUHdVVEhPQ2lmY2lkV01wVm5oVW9JMEgyRWEzSXV0X0RiVms1a0xYY1pSYVI3QnZ2NmNLMDBLWHduNjNzTkpIaE9lZVo1NzE3SG9lUDdPdS1VX21fNk5vam00dW45QlZOdHpZVnY0bDNQcHVn?oc=5",
+   "source": "negrosnowdaily.com",
+   "date": "2026-02-19T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "ff1ad50a41d0",
+   "tags": [
+    "無国籍"
+   ],
+   "title_ja": "サバ州の無国籍者：ギリギリの生活",
+   "summary_ja": "",
+   "first_seen": "2026-08-25T12:19:58Z"
   },
   {
    "title": "91 PATI Ditangkap dalam Operasi JIM di Keningau, Tawau",
@@ -3021,6 +3039,23 @@
    "title_ja": "サバ州の有権者にとって移民、道路、電力供給が最重要課題となっている",
    "summary_ja": "",
    "first_seen": "2026-08-10T18:38:09Z"
+  },
+  {
+   "title": "PRN Sabah: Masalah Pati, kemudahan asas kekal isu utama pengundi",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQXctLXhBRWFqQ0xXeE0xVzJDSWhTWUFoUWU3bFQtT0Q3S0NNOG5NY0J6THQxY2NOa0lEUnQwWDJKMVZ1YUpkdkZiOEVRN181a3p1UThic21vWHlpMzJLVFJ0Tm4yRm1EMjY4TGsyMWUwbW1RaXFSNGpqZlZCVTZXTTNvS2p6dnFoWmh1eXp1ZXpjUkVDV09DYmJiRHhiaXJ3dE9kQWF4WG9jMVVQV3pBUHk2WWZFZkQtRFJyZHlJSzh3U19RNWZWdVJNem8?oc=5",
+   "source": "Free Malaysia Today",
+   "date": "2025-11-22T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "7e2da3d661d7",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州ＰＲＮ：パティの問題、基本的な施設は依然として有権者にとっての主要な問題である",
+   "summary_ja": "",
+   "first_seen": "2026-08-25T12:19:58Z"
   },
   {
    "title": "Sabah children without documentation can apply for citizenship under joint Home Ministry-state panel, says Saifuddin Nasution",
