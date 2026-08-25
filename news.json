@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-24T18:20:00Z",
+ "updated": "2026-08-25T00:27:39Z",
  "count": 202,
  "tags": {
   "入管・摘発": 128,
@@ -226,6 +226,23 @@
    "first_seen": "2026-08-17T18:18:06Z"
   },
   {
+   "title": "Imigresen Sabah pergiat operasi, 164 PATI ditahan dalam tiga hari",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTklvSTA0WDduWEVDeS1BcTZtUlh5Uk5fSmItbnFTY090RXc2a1lvWlBOanAwdktTTjg1SlItc1VvQWJqVmcwRk9rcFdQd2ZvcW9sUHZtdlpkOGIydEZwWDdUaGZvUm9iSmoyLUlNTmxLOGdTWUxoLTljam5tWDFwTThwSXJicFRDdHlhMF9HRWp6cnVEY2FGaTgyZGp6Zy1F?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-08-15T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "337fc6904bfd",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州の入国管理が強化、3日間で不法滞在者164人が逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-08-15T00:26:41Z"
+  },
+  {
    "title": "Act on NGO involved in MyKAS assistance",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUlfdFFQckRIMFFuaEFkOU9PMmEyZkUweWI4RU1MUDhJYW9sX01tOWdfQnBOS3pqNEs2RW5ncnR6UXNEa1o5elJ4d2JFWUt1WERzUk9GbWRUQkdCLVdSSEdUdmJUNXZMZUZpWXZwU2xrOFRWTWpoRkJiMHRTX1NiaUw5Vmc0WENqZ3ZvMw?oc=5",
@@ -243,23 +260,6 @@
    "title_ja": "MyKAS 支援に関与する NGO に関する法律",
    "summary_ja": "",
    "first_seen": "2026-08-15T06:15:33Z"
-  },
-  {
-   "title": "Imigresen Sabah pergiat operasi, 164 PATI ditahan dalam tiga hari",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTklvSTA0WDduWEVDeS1BcTZtUlh5Uk5fSmItbnFTY090RXc2a1lvWlBOanAwdktTTjg1SlItc1VvQWJqVmcwRk9rcFdQd2ZvcW9sUHZtdlpkOGIydEZwWDdUaGZvUm9iSmoyLUlNTmxLOGdTWUxoLTljam5tWDFwTThwSXJicFRDdHlhMF9HRWp6cnVEY2FGaTgyZGp6Zy1F?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-08-14T23:30:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "337fc6904bfd",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州の入国管理が強化、3日間で不法滞在者164人が逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-08-15T00:26:41Z"
   },
   {
    "title": "Sabah's Bajau seek a greater say in Malaysia's island tourism",
@@ -1646,7 +1646,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
