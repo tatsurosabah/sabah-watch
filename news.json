@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-25T18:19:28Z",
- "count": 205,
+ "updated": "2026-08-26T00:28:55Z",
+ "count": 206,
  "tags": {
-  "入管・摘発": 130,
+  "入管・摘発": 131,
   "市民権": 33,
   "無国籍": 30,
   "子ども": 22,
@@ -33,6 +33,7 @@
   "Buletin TV3": 3,
   "MalaysiaGazette": 3,
   "Harian Metro": 3,
+  "PressReader": 2,
   "tvsabahnews.com": 2,
   "The Vibes": 2,
   "Nabalu News": 2,
@@ -40,7 +41,6 @@
   "Sabah Kini2": 2,
   "Portal Berita RTM": 2,
   "Malaysia-China Insight": 1,
-  "PressReader": 1,
   "Nikkei Asia": 1,
   "Yahoo": 1,
   "Newswav": 1,
@@ -174,6 +174,23 @@
    "title_ja": "マレーシアとフィリピン、サバ州の不法滞在者の本国送還の加速について協議",
    "summary_ja": "",
    "first_seen": "2026-08-19T18:14:15Z"
+  },
+  {
+   "title": "Malaysia, Filipina bincang percepat hantar pulang 5,000 PATI di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU1J3c2YzOHdWNlhHSkhjTkhqWF9IY3BCZmZnQXZXQjdnQmowV0RfalF3bWhhcDJMUXZFcGxSODRpVUU5X3ZSYVltWkc0ZVhvdmlFY3h4UENrd0pnek9pelhrT0RWODYwUWgyM0VkZDRyT18wYU91UWJtaEt5RDFja0dvekxGVHlDWG1Rdg?oc=5",
+   "source": "PressReader",
+   "date": "2026-08-18T21:50:57Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "126ce03328ae",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-26T00:28:53Z"
   },
   {
    "title": "Malaysia, Philippines discuss swift repatriation of 5,000 undocumented migrants detained in Sabah depots",
