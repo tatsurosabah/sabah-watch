@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-26T19:27:38Z",
- "count": 206,
+ "updated": "2026-08-27T05:12:32Z",
+ "count": 207,
  "tags": {
-  "入管・摘発": 131,
+  "入管・摘発": 132,
   "市民権": 33,
   "無国籍": 30,
   "子ども": 22,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 35,
-  "Daily Express Malaysia": 17,
+  "Daily Express Malaysia": 18,
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
@@ -97,12 +97,12 @@
   {
    "title": "Sabah Immigration repatriates 4,750 illegal immigrants",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjZhMUNtd3kzQ0VrTVJ6NU9PUHdoYnJnbzFUY01aakZZZG4xTXJmQzhPRjdyRG01dHdKME9lYUtJNlVmX08wZUxoUmRuSTRWVHRkNmJDYWpCNE84eDVlU3owVTVqX29UWVV1MzBPRlBrQ0VwVDFsTGZlaDlqRFU5RklJcTkycU9MSDREX0JxYm5IT2VaTzdjY2tWWmNCYVhYZVVSeGpNeVRLQdIBrwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWVXNGZiSFQtMkZWSkVQRFpjOHA3ZmI4M2w5T0JWM1lGZjZkWjNVT2FpUGpndmFaNGd6WGwxNVZNcFg4MWhacm1nOThhT0xBT0lrVUNIZ1ZhWmc0bU9tMkVhbi0xMkc2SENDOTIycG45elMyZ2pLdTVBYUhsUnA1ZU9zNXNxa0xuTk9XdVRkVzlnWl9hVDBDNUFoS2pEUG5jSmRVWEVCZFo4VVhqSHA4SHpmWGxiT25kMUxqLdIBrwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv?oc=5",
    "source": "NST Online",
    "date": "2026-08-20T14:05:56Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah immigration detention OR deportation",
    "id": "d8c99f87101b",
    "tags": [
     "入管・摘発"
@@ -318,7 +318,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEdyaEE3RE9JZkthc3d4eEhfS0xMc3Q2VVBnMURYSnpvRVFiYlVUSUJ5YVhNWDEwQUJaYm5qWkdzY3Uxb1RrcEt1ZEtnd1d5YlJBSUN5bHVpM1VER0lsVzBQLU1UZllEclp2bVkyN0VrRGgwbDE1R3dDVXp5Y25qckJudk4wTmdMVDNEaVZES29rQlRK?oc=5",
    "source": "Saluran 122",
-   "date": "2026-08-14T08:54:00Z",
+   "date": "2026-08-14T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -2617,6 +2617,23 @@
    "title_ja": "ESSCOM 統合運用によりセンポルナで 61 PATI を保持",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "Undocumented migrants arrested in KK, Lahad Datu operations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc1phb0gzeDRTbDVXVTBoMGpLZTd4Zlk3YncyelhfU1pieGlUR2lrbUxsQzZUQnhTX3dfcF9yaWt3WndwdDdmbk9rQ3V2VnoyelVsZDJvRkZRME12QjdhMDFPLVJEREVpcmczX3VIR3FxdDBKZHpLUDZITUlUUDdUWG54RWZnS3NZUkpVeTV1RV8wRklaemstbjZXaUZkblVTZ0lCa2NR?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-02-13T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "65007de494b9",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "KK、ラハダトゥ作戦で不法移民を逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-08-27T05:12:31Z"
   },
   {
    "title": "Imigresen Sabah tahan 86 PATI dalam operasi bersepadu",
