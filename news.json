@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-27T05:12:32Z",
- "count": 207,
+ "updated": "2026-08-27T16:53:18Z",
+ "count": 208,
  "tags": {
-  "入管・摘発": 132,
+  "入管・摘発": 133,
   "市民権": 33,
   "無国籍": 30,
   "子ども": 22,
@@ -21,7 +21,7 @@
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
   "The Star": 12,
-  "TV Sabah News": 10,
+  "TV Sabah News": 11,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Berita Harian": 7,
@@ -97,7 +97,7 @@
   {
    "title": "Sabah Immigration repatriates 4,750 illegal immigrants",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWVXNGZiSFQtMkZWSkVQRFpjOHA3ZmI4M2w5T0JWM1lGZjZkWjNVT2FpUGpndmFaNGd6WGwxNVZNcFg4MWhacm1nOThhT0xBT0lrVUNIZ1ZhWmc0bU9tMkVhbi0xMkc2SENDOTIycG45elMyZ2pLdTVBYUhsUnA1ZU9zNXNxa0xuTk9XdVRkVzlnWl9hVDBDNUFoS2pEUG5jSmRVWEVCZFo4VVhqSHA4SHpmWGxiT25kMUxqLdIBrwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcjZhMUNtd3kzQ0VrTVJ6NU9PUHdoYnJnbzFUY01aakZZZG4xTXJmQzhPRjdyRG01dHdKME9lYUtJNlVmX08wZUxoUmRuSTRWVHRkNmJDYWpCNE84eDVlU3owVTVqX29UWVV1MzBPRlBrQ0VwVDFsTGZlaDlqRFU5RklJcTkycU9MSDREX0JxYm5IT2VaTzdjY2tWWmNCYVhYZVVSeGpNeVRLQdIBrwFBVV95cUxOUEU2WUFialQxRkltZjZiOEJLRWxsT25ROXZ6b3FsQUpiZXA4RXN0YzF3UmZiMEV0WTk5OUhyYXdXZ0J6MW81T09lWVRxUFVhX3JXekFyVHJKZ2JPNUs5NGFpUzkwYk9WcEs3d1ViMnMwNlEwTUU1SDhpX0VacVJXRFpITElmUU1TVHpQbXVMRjA1N2llYTluU3B2LVNycGstbllVWjMxS1RFZS15VWxv?oc=5",
    "source": "NST Online",
    "date": "2026-08-20T14:05:56Z",
    "lang": "en",
@@ -979,6 +979,23 @@
    "first_seen": "2026-08-14T18:36:48Z"
   },
   {
+   "title": "44 Undocumented Immigrants Detained In Sandakan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBkSDJoQXk2R2RJQXNlQ0xJcThjeWQzSVhSaVBFcTNVSFlZMlVjS3ROWHdyWjMzbkVFR0tpSGVOOXVaLWJUYmxFZ3JPSWlBQkI2eTRiLWZmTTNHczJyclRaX1FMeDYzYUpJTXFqVjc1cl9EUUp5QlFianhHMng?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-06-29T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "c085dd057e94",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サンダカンで不法移民44人が拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-08-27T16:53:17Z"
+  },
+  {
    "title": "91 PATI ditahan dalam operasi bersepadu di empat daerah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeE5OSDhnY2dnM20tb2lIQk55cmJ3VlZXRnBLZHZMV0hvWWgzZHpnZ0xxdDBVWDB4X1NCbzhBbnIzSE1DbkVDWHllWk81a09WVFktNDJvMEpTS3prQmJkQ1JiSGlYR1NMUWstZ0JPNlNET0REV25wQU4wektSM0N4MmxZRnJxZFF5STF6WHc2SEtVRXpv?oc=5",
@@ -1286,7 +1303,7 @@
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNNIBpgFBVV95cUxOWDBrb2tMQ1VRTWlIcldjZVNESTN0eGloSmdjb0ZvRDkxSmZNc2wzai03TUs1RVJfX2s3NEFiUHJEX2xxZGdGcDBMQl91VVFJWWZSWloyd19ocnZnMkJtMXhob2VLN1VlTHRyWndndjRMQTQ1WVNwSXM4cDJ4eWVLcmZDaTBKTmRScDlnUFpUejBTWV9SRTQ1UTgybnYzNGpQQ2pzNXdR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNA?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-12T07:00:00Z",
    "lang": "ms",
