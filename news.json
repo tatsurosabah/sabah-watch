@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-29T01:12:30Z",
- "count": 214,
+ "updated": "2026-08-29T11:49:48Z",
+ "count": 215,
  "tags": {
   "入管・摘発": 139,
   "市民権": 33,
-  "無国籍": 30,
+  "無国籍": 31,
   "子ども": 22,
   "バジャウ": 13,
   "政策・政治": 10,
@@ -16,12 +16,12 @@
  },
  "sources": {
   "Sabah Media": 37,
-  "Daily Express Malaysia": 19,
+  "Daily Express Malaysia": 20,
+  "TV Sabah News": 16,
   "NST Online": 15,
-  "TV Sabah News": 14,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
-  "The Star": 12,
+  "The Star": 11,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Berita Harian": 7,
@@ -29,8 +29,8 @@
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sabah Post": 4,
-  "Astro Awani": 4,
   "Buletin TV3": 3,
+  "Astro Awani": 3,
   "MalaysiaGazette": 3,
   "Harian Metro": 3,
   "PressReader": 2,
@@ -165,7 +165,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQanczWjhJTmQ5VldLVGdkMjlfU25iWlNERTJkWUFGU3lGdWdILVEwbmw0ZzFqVEZ2enJqbTJhWjcxcFhuV0hMUEhpZndodDZGWU82Rmw0TVZJSHV4WFNFTDZBMHBYU25DR29nQUxSaU5PYzdPMWNsTEUtSTJLSTI4NndlVGVwbHlZNk9mbTZPWkZibTRfLWdNWDFQSWxROHctN3VtTWRydFFyaUZlR0hTZE44eXk4enQ2d1NBVU9QVQ?oc=5",
    "source": "The Star",
-   "date": "2026-08-20T03:11:00Z",
+   "date": "2026-08-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -656,6 +656,23 @@
    "first_seen": "2026-08-16T12:11:55Z"
   },
   {
+   "title": "11 PATI dipindahkan pulang ke Pakistan, Filipina dan China",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYTZ5N29vak0wVmtTbzROWVFzTGhBTUlmaUFEalNEOExuWkxPRHlZVmhTWFFOY2ptTmdZaXNTODUyMk8tbzBiZ0lqSUh2amVOYUVodkVLaFZ4T2w2RU5kbTI3YWFpeDR2YlFNRWdkMnFPVGQyekE0R0czeXZrQzhUX1B3aGRaR2JydXc?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-07-26T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "e323282ff2ac",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T11:49:32Z"
+  },
+  {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths in overcrowded depots",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0s3VjE4SHVtYjN1Sml1R1lnbDZMMjdqWTY2akdXd2pBc1RXWGo1cmljSVNIaFhQa2lYY3V2dmlTTDk3RXBKX204WjY4Z2wxS21WNE9OQUFIOE5BazFYV1hlYjBpZEItX1FhVkRhdndUYkNpeEhrNy1rdzNrWWEyaTNXSjF6WHBod1pRcUxyeGt3Rk5xeHBUSG1GQ19fdlJBTHFHV3U1ak5vMWROSW96TUNR0gG3AUFVX3lxTE5aaERaaEo5RUdGZVJaYzFGRUpDY25mOXctNnozNkFIR3ZvR2l1aS1rYUprRGN3ZWhVYjIxd3Npa09UczNWQk5KOXpGZjFOeDc1a1EzcmFEVFZhVHktRTk0bFVUb0pkQUcySWNGOXQ2MEpoUWlnV3JINHZxOGVRdlVVcmFtZFk5djlVM3pFZ3V2eTFpSE13VzN6ZVVYUDM0aXplOTZWc01BOHVDdXNpNWhiTkxycW1xNA?oc=5",
@@ -1098,7 +1115,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3U?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -2957,6 +2974,23 @@
    "first_seen": "2026-08-13T07:05:47Z"
   },
   {
+   "title": "60 PATI Ditahan Di Tawau",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQNUdrb0FuWE1CZ2lTRWhSNXZmeWU3TWRJTkxZODVhS2xnVGVsT1c4ZVlib1hmRHEzekwwUjdCYnpWNWMyRVpTNXdSQ09zMG1DUl8xTTJBQTFrY3VjY3c?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-01-10T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "9ccd4a343540",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T11:49:32Z"
+  },
+  {
    "title": "FROM STATELESS TO SYABU: A Human Rights Crisis at Sabah’s Crossroads",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGdQdjlUYmNGUkZ3SGFCQ3JqU0U3dldpNGdVT3BkZWJPX1ZyR0VERDVJN0F1aWR4d3pVc3hiUGJtV3cwa1pYV0JJVG9haGZnb09weVNKRnBNRHcyazk1ZDJTMFl3ZDVJckd0LUlFdmQ5SU1DZF9zQlMyOXZINjNGOTN2cXA4aGtrdmVlMUR4dUpndDAwMGg0WE52c2Y3SEM0V3FCQmxQcmXSAa4BQVVfeXFMT1JFT3JHRHBqSkVtbTV0SUd2NDZZTzNjamF4UDBvRWVjV05SNTdtOXBsSlg1RERKLWRFVkhfZm9ObndyMm5OUDlxNTFOcDVwVFJreThNUHB1dkVJN2VxY1ZqLUlhSmpBTmtGanhTdm04TzR5a3JvVGkyWnBOWjdaam1yVjVHRzRUTVAxZUNlQ1Y3bU1fMDUyUzNiUEU2Q3E0aUVvc0I3R0FidXFRZGZn?oc=5",
@@ -3279,6 +3313,23 @@
    "title_ja": "IMM13 文書保持者にとって、路上での食事は通常の生活です",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "New party Parti Perpaduan Rakyat Sabah to help stateless get documents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1FoRld5VWs4Tm9Fc1ZDRDF6WnN2MmlNenV6dGxNNy0tS2ZMUlR1WmFxTDZxOXE5WUU4cDUzQ0o0b2VlY0pMVVVnM1BQbGlPQ3g1czhKdGZWOVB6SFA5em1VVzY1ak9qaWltaTFXejNiRmhVSkI1UWNrTUo4TzhPM3VOMjVTX3Q1SURLbHZiYTA3bEljY2gwZHFwc2FHRDBjeDR1bUtBYWt4TWVIVk1tQzg5dlp1dw?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2025-11-14T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "37af1fa5f321",
+   "tags": [
+    "無国籍"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T11:49:32Z"
   },
   {
    "title": "12 PATI Ditahan Dalam Operasi Imigresen Di Sandakan Dan Sipitang",
@@ -3707,40 +3758,6 @@
    "title_ja": "サバ州入国管理局、ケニンガウの大規模捜索で141人を逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Overcrowding at Sandakan depot as ops continue against undocumented migrants",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEl0M1VxS010V01xZnVHQkJncVF3SWFGa0JGZzBXSlplQjZDYS02WC0wSkl0WkcxUlpybzd1dHpwMVN0OTJMSThSYnR3eDN1cmYyaUE4VEpQQ1psVERsUl9kemxwOS12bEhsSFF2SmlEVVZMeEJHMjZDdzI0Q2YzZWFndmVhRWhhUExYVGNmWUdycms0N2F6MVRPbGkwbDJrOVJfcXdWLXNJUERjSHhmM1BERi1JZ0tvZFdOTGdKSmlrNFVF?oc=5",
-   "source": "The Star",
-   "date": "2025-07-25T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "b87c6e3b66aa",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "不法移民に対する作戦が続く中、サンダカンの倉庫は超満員",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Depot imigresen Sandakan sesak, lebih 1,500 PATI ditahan",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSVpTS0d4R2hrdDFQLUdhekhMMzI5QmhIS1J5a2JHczloeU5DMlBDMDNXMVRsOFJ5d1lfTkV3TW1DbzFzaU9vRmJqU0RtWWxwbnZsZTZRM2RIV0xuRk5mYlk3RDdFVDI4VE5LdmNvanVsZmdGblBZS182UE1vVEJRRmFhY04xTlFwVGJnamtzZTNZYmlvWUEzdWtBYlFQS2loWVh2M216M3pKZ0diTE8tRDRWUmhLZw?oc=5",
-   "source": "Astro Awani",
-   "date": "2025-07-25T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "ceb2aa47a9e0",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サンダカン入国審査場は超満員、1,500人以上のPATIが拘束される",
-   "summary_ja": "",
-   "first_seen": "2026-08-25T06:21:47Z"
   }
  ]
 }
