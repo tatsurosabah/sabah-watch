@@ -1,8 +1,8 @@
 {
- "updated": "2026-08-29T11:49:48Z",
- "count": 215,
+ "updated": "2026-08-29T15:47:29Z",
+ "count": 220,
  "tags": {
-  "入管・摘発": 139,
+  "入管・摘発": 144,
   "市民権": 33,
   "無国籍": 31,
   "子ども": 22,
@@ -16,8 +16,8 @@
  },
  "sources": {
   "Sabah Media": 37,
+  "TV Sabah News": 21,
   "Daily Express Malaysia": 20,
-  "TV Sabah News": 16,
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
@@ -668,7 +668,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "11人のPATIがパキスタン、フィリピン、中国に送還された",
    "summary_ja": "",
    "first_seen": "2026-08-29T11:49:32Z"
   },
@@ -1045,6 +1045,23 @@
    "title_ja": "サンダカンで不法移民44人が拘束される",
    "summary_ja": "",
    "first_seen": "2026-08-27T16:53:17Z"
+  },
+  {
+   "title": "44 PATI Ditahan Di Sandakan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXNWVLV1NBX04yY2ZaSFBNemk5TUdFOG55Z1BxeVZuYWd6ODRVX3B2NXZLSnRPdkVEWTZsZV9ERjY4WWxqNE1kVVBXRzVMV0xlVlpFZWV5dW53QXJaY0tYZkxB?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-06-29T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "7c4d57297942",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "44 PATI、サンダカンで逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T15:47:13Z"
   },
   {
    "title": "91 PATI ditahan dalam operasi bersepadu di empat daerah",
@@ -2075,7 +2092,7 @@
   {
    "title": "From sea gypsies to street kids: Sabah's stateless children fighting to survive",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdXRYZFlkczRUYUQzbUE2THAxM1RXZFhtQUMxUkw2SUlDUmFRT2NJR2dPSThTdWVTNGVrX3puMVFfVGNJUGU1VEItMy1GRmVfaGdYQURMb1hXMFd4Ni1yMl8yajhGZ1R6NGI1dUQ0dzVSS3p4Z25jVHZpMENCeXBzR2h6V0p3c2hGWnMyWi12NExxTkF0aGhlVjZoT3FGS0VKeDltQ2Z1b29hSGJ1T1ktWHRURzJDdVNlM3UtRDlHWG00TTRUeHFsMEpLUUYwOWtUVFhYUS1Sb2dSRENSZmZKdGdwR1gzdnhDNHkxY3pnemZzUC1mcTEyQzFSRVVTeWx3a3VGUFJ0TEx2MWtudlE4RXdDN3F1SFU1MmhxOS1YbEU3dVFDRTcyR09YVF9RSDdRY2pN?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdXRYZFlkczRUYUQzbUE2THAxM1RXZFhtQUMxUkw2SUlDUmFRT2NJR2dPSThTdWVTNGVrX3puMVFfVGNJUGU1VEItMy1GRmVfaGdYQURMb1hXMFd4Ni1yMl8yajhGZ1R6NGI1dUQ0dzVSS3p4Z25jVHZpMENCeXBzR2h6V0p3c2hGWnMyWi12NExxTkF0aGhlVjZoT3FGS0VKeDltQ2Z1b29hSGJ1T1ktWHRURzJDdVNlM3UtRDlHWG00TTRUeHFsMEpLUUYwOWtUVFhYUS1Sb2dSRENSZmZKdGdwR1gzdnhDNHkxY3pnemZzUC1mcTEyQzFSRVVTeWx3a3VGUFJ0TEx2MWtudlE4RXdDN3F1SFU1MmhxOS1YbEU3dVFDRTcyR09YVF9RSDdRY2pN0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -2345,7 +2362,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "クンダサンでの移民作戦で31人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-08-29T01:12:22Z"
   },
@@ -2382,6 +2399,23 @@
    "title_ja": "ラブア移民強制捜査で不法移民6人拘束",
    "summary_ja": "",
    "first_seen": "2026-08-28T17:44:56Z"
+  },
+  {
+   "title": "55 PATI ditahan dalam operasi JIM di sekitar Kota Kinabalu",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOTUtVVVoTVBodkRhckd1bHdjYXZLZmtiQTZmMkViM2dmZEpCSFdEQ2t2VGRZVlBOR3FDNFBVNWdYcVltSkZPblRXTEJMbFNZaHIySXFRSV9XdFFBZnlOQW9yWEFhZjUxVTZYc1hEVkdzY3pnQmdHX2NTMEc1YlpyZzVsbEY5TURUOUVj?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-04-11T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "cb89aa7ae874",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "コタキナバル周辺のJIM作戦で55人のPATIが拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T15:47:13Z"
   },
   {
    "title": "Stateless Bajau Laut teen granted bail after proving he was born in Sabah",
@@ -2449,7 +2483,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "不法移民（PATI）を隠す違法建造物23棟が取り壊された",
    "summary_ja": "",
    "first_seen": "2026-08-29T01:12:22Z"
   },
@@ -2665,7 +2699,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "コタキナバルでの作戦で不法滞在者44人が逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-29T01:12:22Z"
   },
@@ -2787,6 +2821,23 @@
    "title_ja": "サバ州入国管理局、統合作戦で不法滞在者86人を拘束",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "14 PATI ditahan atas pelbagai kesalahan termasuk dadah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUTIxdmgyOE96aGpFLWhvb3VXOWw4aVlIa1lmazVpLV9ZV1NtVTBMTGlka3BiZGdaOWJlS0RyRFpMSkhBT05BRDA3dU9CUE9TUE9NSGt1Z3Jpa1lEaFpkWDFRbVZraGlMaFN4OUtPUnk1SUdqWU1GVTZGaG5KMlM0YVdBR0hyZw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-02-07T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "c02d5fc5e3f9",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "14人のPATIが麻薬を含むさまざまな犯罪で逮捕された",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T15:47:13Z"
   },
   {
    "title": "53 PTI Ditahan Dalam Ops Kutip dan Ops Sapu di Sekitar KK dan Tuaran",
@@ -2986,7 +3037,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "60 PATIがタワウで逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-29T11:49:32Z"
   },
@@ -3327,7 +3378,7 @@
    "tags": [
     "無国籍"
    ],
-   "title_ja": "",
+   "title_ja": "新党ペルパドゥアン・ラクヤット・サバ党、無国籍者の書類入手を支援",
    "summary_ja": "",
    "first_seen": "2026-08-29T11:49:32Z"
   },
@@ -3364,6 +3415,23 @@
    "title_ja": "94人のインドネシア人PATIがタワウ経由で帰国",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "8 PATI Ditahan Dalam Operasi Imigresen",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94cXFxXzVTWEM4NThXUVA1VTVKZVNCS1NybDdCQWhPeEo1REZENUg2d2drNWN5RklXd2VMNkFnZ3lCc2ZwUV9FbUJFblk3Sm1QajFyOHFJM2IzYkVsLW1FMElpS2FYd1l5Ym5HdXlnYmU?oc=5",
+   "source": "TV Sabah News",
+   "date": "2025-11-07T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "9ea70d182d77",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "8 PATI、入国管理業務で拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T15:47:13Z"
   },
   {
    "title": "Young Voices: The lottery of birth: Sabah’s stateless youth",
@@ -3536,6 +3604,23 @@
    "title_ja": "「ダンシング・ウィズ・ザ・ウェーブズ」：アーティストのデニス・チャイが、無国籍のバジャウ・ラウト族の子どもたちの生活を感動的なポートレートで捉えている",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "66 PATI Ditahan dalam Operasi Imigresen Sekitar Kota Kinabalu",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRW5SUGc0SkxfaktjVHJ2UDJNemd6aGREbGplM0otU05jb2VRVkZkZWd2TDJQRGRwUWFnalMtSmtRRUlIbmtZN1RIM255ZGVCQ1cxX3E0Nl8tREdjcmJvX1J0NXI1ei1QZjJQSlBCWEhWNnlPb2dFTkVMblRsQllZZVkxTFRIZVdYa1dMLVFJTQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2025-09-27T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "98e9a17a2103",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "66 PATI、コタキナバル周辺の入国管理で拘束",
+   "summary_ja": "",
+   "first_seen": "2026-08-29T15:47:13Z"
   },
   {
    "title": "43 PATI China Ditahan Dalam Operasi Imigresen Ranau",
