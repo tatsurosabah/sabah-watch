@@ -1,9 +1,9 @@
 {
- "updated": "2026-08-30T10:46:07Z",
- "count": 224,
+ "updated": "2026-08-30T15:31:30Z",
+ "count": 225,
  "tags": {
   "入管・摘発": 147,
-  "市民権": 33,
+  "市民権": 34,
   "無国籍": 31,
   "子ども": 22,
   "バジャウ": 13,
@@ -15,7 +15,7 @@
   "医療・福祉": 2
  },
  "sources": {
-  "Sabah Media": 37,
+  "Sabah Media": 38,
   "TV Sabah News": 23,
   "Daily Express Malaysia": 20,
   "NST Online": 15,
@@ -117,7 +117,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRURNYTM0NUIxc3NKWmJmaXdMellFRHRZYWlodFdMUHI4RGFGRzJSVVdIVmY2bWQyMkNpMUNNdWljaFhNanJTOGdUVk15UmdPYnVtOEFRMk5BM1luNE9HWjVEeFpkTC12RE9nQ01wZVoxOHVPbnl5QjMwXzh1dHl2UFVDVW54V3BnYWVZeE1Uek83RGdh?oc=5",
    "source": "Sabah Media",
-   "date": "2026-08-20T21:30:00Z",
+   "date": "2026-08-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -181,7 +181,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSVVTVmM0Vk82R05hMGxKREl6SThMVzBPVWs5MllLb2pMdm1VY25XcVlKOTc1YW1jUUk4LUw5ei1rb05KdS1wdlZnd0tvNFpJWEd4NWlXaV9jeDl2bjVGbmpVZ2Y3Y08xN0NoeVl4SUpMb0xzSU02dzFSTngwc2tLRWxnWTY5MzBF?oc=5",
    "source": "Sabah Media",
-   "date": "2026-08-19T23:00:00Z",
+   "date": "2026-08-20T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -1820,12 +1820,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "32e62c602edb",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -1958,12 +1958,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -2602,7 +2602,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
@@ -2635,7 +2635,7 @@
   {
    "title": "NGO condemns stateless child's arrest during Raya programme for the needy in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFXd1g4TnlOX3EtMGVGRW4tTDVQQVBJTUlaZEs4UU9mT1p3dW0wdmQybHZYck45RXN3TkRQUEhTVk1sb0E5NUFPU2w3UWtSR2E5ZXpwYWN4NUlkQXVUQ2FWT1ZKSXZFOG8wakg1dU05dU11UVVIVkdjZkhiOVdJYndZWUU0STlFMV9qNGtkTF9xbS1TVUZmVkNGaldaVk1zSXliZkl1Mmc5Vkd2dWE3c1ZNMXBwRTl4Q1dWMExXR1JIa2I4QmNHS1dYWjFHTnct0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBWLWQ2Ny1MMWhlS2xGbGFuUjg2LVBHRXk1Q2x3WmJpWUN6NjU2MTg3OGNNWDZsRFhRcTFLZXFJVWJ5d0lCVm9lb2drOGJYVW5lOG9ETnRqRGFXU29YWHNUZVRyWUlnckQtOWx1ckdfa2RLSDJsSUozZlV6N2pMaFJYMl9URWtucy1rakhXNHR4dk1aQ0lFbEI4UWVPZU45ZzRvYkdvSmRJOXBib3k5SWhOeEdaSERacTFyMktn0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
    "source": "NST Online",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
@@ -3092,6 +3092,23 @@
    "title_ja": "60 PATIがタワウで逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-29T11:49:32Z"
+  },
+  {
+   "title": "Bilangan penduduk bukan warganegara di Sabah menurun 0.32 peratus pada 2025",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOblFJdVkwZTFaUjlkT1N5NkplbUN5LUVDeDRDOTNITWRjOFVuRWFjOU1KWGU5WGlnd1d0ajlVbnNVbmViWGRfZERaTzkwS3g4dGxFa0d1WWJheV9tWXFnN0pLaEpGaVY3TEo3QS1rbndpWVVUajViNVVYZzFPT2JvQ2dBTDBUbmFTbzJ0WjFYOHRrdGpHQXg2R0JNY0d0VlZySzRqenJteHNZRzNzSWQ1TW1rNUh3eThTcWU4cGZB?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-01-08T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah tanpa kewarganegaraan",
+   "id": "f942a65c4840",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-30T15:31:28Z"
   },
   {
    "title": "FROM STATELESS TO SYABU: A Human Rights Crisis at Sabah’s Crossroads",
@@ -3625,11 +3642,11 @@
    "date": "2025-10-06T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "b22185d5de98",
    "tags": [
-    "子ども",
-    "市民権"
+    "市民権",
+    "子ども"
    ],
    "title_ja": "汚染された楽園：観光客がセンポルナのゴミと無国籍の子供たちの現実を暴露",
    "summary_ja": "",
