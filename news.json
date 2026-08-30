@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-30T01:51:16Z",
- "count": 223,
+ "updated": "2026-08-30T10:46:07Z",
+ "count": 224,
  "tags": {
   "入管・摘発": 147,
   "市民権": 33,
@@ -38,6 +38,7 @@
   "The Vibes": 2,
   "Nabalu News": 2,
   "Sayang Sabah": 2,
+  "Malaysiakini": 2,
   "Sabah Kini2": 2,
   "Portal Berita RTM": 2,
   "Malaysia-China Insight": 1,
@@ -45,7 +46,6 @@
   "Yahoo": 1,
   "Newswav": 1,
   "facebook.com": 1,
-  "Malaysiakini": 1,
   "Migrant Times": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
@@ -57,7 +57,7 @@
   "Utusan Malaysia": 1,
   "Gempak": 1,
   "The Edge Malaysia": 1,
-  "malaysiamadani.gov.my": 1,
+  "Malaysia MADANI": 1,
   "sabahmedia.com": 1
  },
  "items": [
@@ -134,7 +134,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU0FZR2hhZjZ3eWFJN2RxRXhjNlFiY2lYUktyVU1YM3RZZ3JOdWhnTF9MLUxIM3RlX0F4a1hqMlVIakxNUV91Rk9NOTRKSUU1dFNhVVRQbUtWbHNFVGxFUXZnVDZlLTJiTUZweHM1bEtpX1hvcGhqWEFzNlVJbXV0dm1iaHNaWW9QajM1eE1rYWhwQ2JTWld0Mk5tallrZmZQdmlmUHVtNjhhdw?oc=5",
    "source": "Free Malaysia Today",
-   "date": "2026-08-20T13:09:00Z",
+   "date": "2026-08-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -2635,7 +2635,7 @@
   {
    "title": "NGO condemns stateless child's arrest during Raya programme for the needy in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBWLWQ2Ny1MMWhlS2xGbGFuUjg2LVBHRXk1Q2x3WmJpWUN6NjU2MTg3OGNNWDZsRFhRcTFLZXFJVWJ5d0lCVm9lb2drOGJYVW5lOG9ETnRqRGFXU29YWHNUZVRyWUlnckQtOWx1ckdfa2RLSDJsSUozZlV6N2pMaFJYMl9URWtucy1rakhXNHR4dk1aQ0lFbEI4UWVPZU45ZzRvYkdvSmRJOXBib3k5SWhOeEdaSERacTFyMktn0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFXd1g4TnlOX3EtMGVGRW4tTDVQQVBJTUlaZEs4UU9mT1p3dW0wdmQybHZYck45RXN3TkRQUEhTVk1sb0E5NUFPU2w3UWtSR2E5ZXpwYWN4NUlkQXVUQ2FWT1ZKSXZFOG8wakg1dU05dU11UVVIVkdjZkhiOVdJYndZWUU0STlFMV9qNGtkTF9xbS1TVUZmVkNGaldaVk1zSXliZkl1Mmc5Vkd2dWE3c1ZNMXBwRTl4Q1dWMExXR1JIa2I4QmNHS1dYWjFHTnct0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
    "source": "NST Online",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
@@ -3299,6 +3299,21 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
+   "title": "COMMENT | How undocumented migration sits quietly beneath Sabah polls",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sVGhFYzFQUGQxTDZDZG9DSWJMUEpTc1R2VldpcG1keVMzWHgtRUZ1OWk5M2E4dlF2QUhJZmtDNE41Skl4ZndfVDVHUmFTazJLLWdsWkln?oc=5",
+   "source": "Malaysiakini",
+   "date": "2025-11-27T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "3fac51ca6ed1",
+   "tags": [],
+   "title_ja": "コメント |サバ州の世論調査で不法移民が静かに埋もれている様子",
+   "summary_ja": "",
+   "first_seen": "2026-08-30T10:46:06Z"
+  },
+  {
    "title": "JIM Sabah Hantar Pulang 699 PTI Filipina Ke Negara Asal",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQUVfWW5fVlVMMEppb3pLVUhfRU9qZWZoaFFGMjlWcXlpT194WmlKNm93OFZFb3FyWnEzd1JhMGVmazRiRXA4M2dlQXlHbTI3YVlQRW10b0RuVW1aWHQzRlI1MnJhelY3eVM5ZElQRXBFTFpFdmw0N0R3aTl1QkZuNnZoQTZYRkdYZnF5QzlFdEw4aE9yaU13?oc=5",
@@ -3746,7 +3761,7 @@
    "title": "Isu kewarganegaraan kanak-kanak Sabah, keselamatan negara tetap diutamakan",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUUttUzRNNlhURHM1LWphTmxkNHVsS0FCLWUtZVUtNGQyY2tGb2hpN0RtdTZjTFNhRTEzNHFDd3A1d21fd0cyRkV3RC03eGdudncyYlJfSTZadUE3bUVaUHRSX2FTdTgyc2hzakZMdDJmOU9HVzBBNWJfdGE3eVNGOTVGeVM2TENKVjU3amZYR2lTRjdFWWRjWnExVW1vYXlJbW1XeXFrNlRCRVBLYVgzZEJn?oc=5",
-   "source": "malaysiamadani.gov.my",
+   "source": "Malaysia MADANI",
    "date": "2025-08-15T07:00:00Z",
    "lang": "ms",
    "origin": "news",
