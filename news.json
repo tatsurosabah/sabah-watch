@@ -1,10 +1,10 @@
 {
- "updated": "2026-08-30T20:08:33Z",
- "count": 225,
+ "updated": "2026-08-31T01:46:22Z",
+ "count": 228,
  "tags": {
-  "入管・摘発": 147,
+  "入管・摘発": 149,
   "市民権": 34,
-  "無国籍": 31,
+  "無国籍": 32,
   "子ども": 22,
   "バジャウ": 13,
   "政策・政治": 10,
@@ -16,8 +16,8 @@
  },
  "sources": {
   "Sabah Media": 38,
-  "TV Sabah News": 23,
-  "Daily Express Malaysia": 20,
+  "TV Sabah News": 25,
+  "Daily Express Malaysia": 21,
   "NST Online": 15,
   "Borneo Post": 14,
   "sabahnews.com.my": 13,
@@ -1885,7 +1885,7 @@
   {
    "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXfSAa4BQVVfeXFMTklja3F3VVhHbHQ3MlR2dnU0VHJVT18yLUNaVVFzTjVzWGRJV3pydVBjYUc4UTBWS19nWjExNUxKY09PRGhlU2wzQjRJTHhiU2l5QjdOaG1ZSVk0cUJyZzd6UHVuYldWclVhMlh2VnlLdGx5NVNRQzNWVW5TYWppMVJwQV96Q2J3QWllclMyQU8yM1luYWZTLTFLM21HZ0JoM2JvY2pOSXRuYU9TaEdn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXc?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-14T07:00:00Z",
    "lang": "ms",
@@ -1936,7 +1936,7 @@
   {
    "title": "156 PATI warga Indonesia dihantar pulang",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0gtckk5d1p5cmd6c2lydzF1NXBhNndxU3ZXQVA4U1liaEJPQUlkZlpxVXZUXzBZSEh0ZTU0MC1raDFZSmtwQmpTNVh4Y0dJd2V6S0pkbUQ1SGZsa0tXSDhtSGJSWndhdFUwMUxSR2duUmdpbHNQS0prYjFua09DNGJHUVNLTTJ3bGNpVm8xN3JrNVlpSEVyT2ttM0J0aGRaUTNCdUhiSlE?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-11T07:00:00Z",
    "lang": "ms",
@@ -1958,12 +1958,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -2635,7 +2635,7 @@
   {
    "title": "NGO condemns stateless child's arrest during Raya programme for the needy in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXBWLWQ2Ny1MMWhlS2xGbGFuUjg2LVBHRXk1Q2x3WmJpWUN6NjU2MTg3OGNNWDZsRFhRcTFLZXFJVWJ5d0lCVm9lb2drOGJYVW5lOG9ETnRqRGFXU29YWHNUZVRyWUlnckQtOWx1ckdfa2RLSDJsSUozZlV6N2pMaFJYMl9URWtucy1rakhXNHR4dk1aQ0lFbEI4UWVPZU45ZzRvYkdvSmRJOXBib3k5SWhOeEdaSERacTFyMktn0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeGFXd1g4TnlOX3EtMGVGRW4tTDVQQVBJTUlaZEs4UU9mT1p3dW0wdmQybHZYck45RXN3TkRQUEhTVk1sb0E5NUFPU2w3UWtSR2E5ZXpwYWN4NUlkQXVUQ2FWT1ZKSXZFOG8wakg1dU05dU11UVVIVkdjZkhiOVdJYndZWUU0STlFMV9qNGtkTF9xbS1TVUZmVkNGaldaVk1zSXliZkl1Mmc5Vkd2dWE3c1ZNMXBwRTl4Q1dWMExXR1JIa2I4QmNHS1dYWjFHTnct0gHDAUFVX3lxTE52RF9pRU9wZGdGNkRyUDJxZHNBZnFILWhjcElEdEVxZHoxYkFDbGhjUnd1V1JEWjg2LVVweEVPdFVBRllFc2JURWQwbGJ0S1hscGk0eFB0RUtXcUh5TWpEeVNTbDd0Y3pWbDNCQ1VWa1U5YTVfWHNkV2c5ejVLeDE0bkJ5c0NQU1M1Unk2WDRUTlJqRHphWWlXdUZFeWxPREhTUE91b3A1SEx4eW1fc3d1RnY4d0hnN3ZqQ0h2RWo2LVluVQ?oc=5",
    "source": "NST Online",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
@@ -3348,6 +3348,23 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
+   "title": "Amendments must benefit thousands Sabah stateless",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV1EzWXFjVF9JZ0lQalBjWEJwZWtJTnk4LUNhbXJhcWtwTExGdzRXUlJlWU5CWDZvUGV2R3B6bnJhMXh1T0xpbWZHT3hLVzRUMmtFNGRJN1dHaUh2UDNvSFhMX09UUnFBR2x1QzhJOGc5MnJXVDk4cFFucXJuUGRJZGZDSURQSUZGRjJIdjkyV09QNmY5WEow?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2025-11-23T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "f65a7a212818",
+   "tags": [
+    "無国籍"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-31T01:46:12Z"
+  },
+  {
    "title": "Migrants, roads, power supply among top issues for Sabah voters",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeDFkblVOWWJOMmYtaTM2Vy01cFV2dzlYVEhIaUlaS0VmNjBXc2R4cVBGWmtMemtxcVhfVFJzcnBmaVhzZVR2THEtYVRURmxTcHVUSDlTTTVxVUFXU3R2US1xb090cV9OWmltVVFqeExNazA1bHZGMk5mS2M0bEVyQVN1QmFnQm1QcEVjLS13Z05sbzFEeXQ1Vzk0cF9IZHZOMjhTZXBIaTRIMGw0YnhnSk51eUwwN1EtNmVyaXlVSDQ?oc=5",
@@ -3550,6 +3567,23 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
+   "title": "616 Warga Filipina Dihantar Pulang Melalui Program Pemindahan PATI Siri 18",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUNSX1M2RjM0RmowRDZyTXEtelVScEZ2YW1oczdiNW5hOTc1Uk1YVV9ObFZpV3JyMllwRDBHdVlDem8wdnhqMHhHTFlYVGpMZ01vQXRrNHhoel9nYWJYVHY5bXFnSnlkc1VwbnNOODBiRFVEV0pGUFAwX05HX2RnalBVdl94WXByTGRmeXk5b2xaVTQtS3p3NDJsemw1UjJR?oc=5",
+   "source": "TV Sabah News",
+   "date": "2025-10-24T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "57f22201a474",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-31T01:46:12Z"
+  },
+  {
    "title": "255 PATI Indonesia dihantar pulang ke negara asal",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0hnYU5ZUlBVa2lMOENHSnpienpZaXVtU0dOS1ZyVWxxOVY1V3JtTTdHb3VJLVViSkI1QlpzLUFTcDNDUkswdndpY283Y3BTb09SQTBmVUFUbGUza21CNm9Kakp1LU9XSGVIWGdkVFBDMk1lVFRkNy1zMlc1Q3VlSm0yOE5PdjgtdjExTw?oc=5",
@@ -3599,6 +3633,23 @@
    "title_ja": "サバ州の統合移民作戦で不法滞在者29人が逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "Program Pemindahan PATI Melalui Lapangan Terbang Antarabangsa Kota Kinabalu",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDAycTVwZlB3bkxBVE16MTBET2NxU0NPUkl0bjFxcGZsUjkxQU9CZm5nT2h3bGx5X0FyamdjTVZTZzk5NWoxajljZXpfeGwwZm9ReDQ4MS13VTI1UGY4cWo1Ym51dFBtQ0RsVFFQNkhvYjRtb2dVYUFsd0VxSWo2Y0dOVmEyeGJyNFU3QldxNkRkLUE0Wmxxc0dsQjZMVlhlb0E?oc=5",
+   "source": "TV Sabah News",
+   "date": "2025-10-10T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b54adab181e0",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-08-31T01:46:12Z"
   },
   {
    "title": "21 PATI ditahan dalam operasi JIM di Tawau",
