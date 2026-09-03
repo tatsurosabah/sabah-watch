@@ -1,9 +1,9 @@
 {
- "updated": "2026-09-02T20:09:56Z",
- "count": 237,
+ "updated": "2026-09-03T01:36:16Z",
+ "count": 239,
  "tags": {
-  "入管・摘発": 157,
-  "市民権": 35,
+  "入管・摘発": 158,
+  "市民権": 36,
   "無国籍": 32,
   "子ども": 22,
   "バジャウ": 13,
@@ -22,18 +22,17 @@
   "NST Online": 14,
   "sabahnews.com.my": 13,
   "The Star": 11,
+  "Malay Mail": 8,
   "sabahnewstoday.net": 8,
-  "Malay Mail": 7,
   "Free Malaysia Today": 6,
   "Berita Harian": 6,
   "Saluran 122": 6,
   "tvsabahnews.com": 6,
   "Jesselton Times": 6,
   "Sabah Post": 4,
-  "Buletin TV3": 3,
+  "Buletin TV3": 4,
   "Portal Berita RTM": 3,
   "Astro Awani": 3,
-  "MalaysiaGazette": 3,
   "Harian Metro": 3,
   "PressReader": 2,
   "The Vibes": 2,
@@ -41,14 +40,15 @@
   "Sayang Sabah": 2,
   "Malaysiakini": 2,
   "Sabah Kini2": 2,
-  "Newswav": 1,
+  "malaysiagazette.com": 2,
   "Bernama": 1,
   "nst.com.my": 1,
   "Malaysia-China Insight": 1,
   "Nikkei Asia": 1,
   "Yahoo": 1,
   "facebook.com": 1,
-  "Migrant Times": 1,
+  "migrantimes.com": 1,
+  "THE MALAYSIA PRESS": 1,
   "bharian.com.my": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
@@ -60,6 +60,7 @@
   "Utusan Malaysia": 1,
   "Gempak": 1,
   "The Edge Malaysia": 1,
+  "MalaysiaGazette": 1,
   "Malaysia MADANI": 1
  },
  "items": [
@@ -151,9 +152,9 @@
   {
    "title": "Sabah Immigration repatriates 4,750 undocumented migrants so far this year",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN054WE9STUZFTUtMcHdZWDlKUzVDQmhnNVB2dUs3c0FVelBaVTJKWFBtRFlnOXNTaklZY2xsSFBZZ2gwWlRZbU5ZX1BBVUpHNUdGeDB3b21FNGppYTJVS0lmdWhySkxncmppRFJrWTk3ejdaN2pjcnZsT0dHSkNHRUNCWHdjdWlSNXhobmdnWDVOd3RVaHpoanNMeHAxU2N6QVhMMnREOFpKSHVvYkhFOVZiYjloQQ?oc=5",
-   "source": "Newswav",
-   "date": "2026-08-21T01:48:28Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd3ptZmhwWE9uMTNoQ1FKZkZ0LW9YTlhscmUtWUxzSEswZnloUHBrb3J4ZEU0NDJ1b05CR3hwek90N0tTbW1HQmQ3d3VVUHNBVkVvVVFYTjh1S192Tm9ObGhBN0J5UzdLLS1vU3RVcXZqT2VCR2hadmp1UHZxY1FxOEdjRWozOEtjTTFVWG5nUldHVVU1Z0Z0NUZNVElCUVNPSlItTWNmZ1o1dHVfNzFHTG9Vd3RGUTY3eDUyUTFfVEE0MjUyd2l3MEJ4RdIB0AFBVV95cUxPVEktSjQtN2xVNC13UEI0TkNGWHBNZUpiMzVkbTBjeG16TDV0VnpvbnFJVnpPVkxxcThrSzkzRXpDbjl1LXo2bVgxcW1mOVRkN255UHMzeUU2elAzako3WG4tRFgyc1NpSVoxNm15LXBfcWpkZE5tck1EVEQ1UjRNZ05EQlZQaElEVjZDM2lCaW8ySnZjcmlaV3ZiSkQ2aUh0SHgxZnEtMWNRS3RxV2NTYzdYd3YzanZDQTZsQnBlbk9iTFh4anZRT2tEZnpqb0tK?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-08-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -729,7 +730,7 @@
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths in overcrowded depots",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0s3VjE4SHVtYjN1Sml1R1lnbDZMMjdqWTY2akdXd2pBc1RXWGo1cmljSVNIaFhQa2lYY3V2dmlTTDk3RXBKX204WjY4Z2wxS21WNE9OQUFIOE5BazFYV1hlYjBpZEItX1FhVkRhdndUYkNpeEhrNy1rdzNrWWEyaTNXSjF6WHBod1pRcUxyeGt3Rk5xeHBUSG1GQ19fdlJBTHFHV3U1ak5vMWROSW96TUNR0gG3AUFVX3lxTE5aaERaaEo5RUdGZVJaYzFGRUpDY25mOXctNnozNkFIR3ZvR2l1aS1rYUprRGN3ZWhVYjIxd3Npa09UczNWQk5KOXpGZjFOeDc1a1EzcmFEVFZhVHktRTk0bFVUb0pkQUcySWNGOXQ2MEpoUWlnV3JINHZxOGVRdlVVcmFtZFk5djlVM3pFZ3V2eTFpSE13VzN6ZVVYUDM0aXplOTZWc01BOHVDdXNpNWhiTkxycW1xNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0s3VjE4SHVtYjN1Sml1R1lnbDZMMjdqWTY2akdXd2pBc1RXWGo1cmljSVNIaFhQa2lYY3V2dmlTTDk3RXBKX204WjY4Z2wxS21WNE9OQUFIOE5BazFYV1hlYjBpZEItX1FhVkRhdndUYkNpeEhrNy1rdzNrWWEyaTNXSjF6WHBod1pRcUxyeGt3Rk5xeHBUSG1GQ19fdlJBTHFHV3U1ak5vMWROSW96TUNR?oc=5",
    "source": "NST Online",
    "date": "2026-07-25T07:00:00Z",
    "lang": "en",
@@ -814,7 +815,7 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUnZYYU1DaEFYdG5kX3pLZzRGdi1ZNGVIdW5LQi15MGFVSEY4bkpzTV9faVozcFg4SEhsS2RDYTR2N0tmbzJ0NlVNblNRRGt0dTJfM0dtcHlvZmNLMlF1eUNmelhidVpRa2dtNDRYbWhXVm9zaHNIcmhKMFJTckFJa2ZrYldJXzZHbG01bElsSDdFaWVoVU1JNjk2eXo2ZnY4RVZxWnlGTnQ4R3E2QXZUS0wzU09qRkE3c2J5clR3ek5pb01VRzNJamhyTktKVlJka2t4ag?oc=5",
    "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
@@ -1106,7 +1107,7 @@
    "title": "Sabah Detains Indonesians, Filipinos in Recent Migrant Sweep",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2owY2NvczJPMG9BcmpObEplWlJQTC1mUWZ1Y1E0N1RiYk1mNlJ6SW11UjJ3R2hRM3VQcU12YWtIWTNvM2lDX0FJUnRYcGFTMTFnanUtMk1LX1VnZzJHaWg3cHFmZzR5SGt3bUl3VENnTkg0dFlfWFNVdkliQzF3Tk9ZdTI0TjVmSFJPZWVfLUpObFpSRk1hbjlUYUtwS3FnRHRkQkFiQUxJR2c?oc=5",
-   "source": "Migrant Times",
+   "source": "migrantimes.com",
    "date": "2026-06-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -1379,7 +1380,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -1426,7 +1427,7 @@
    "title": "64 PATI ditahan dalam operasi bersepadu ESSCOM di Lahad Datu",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0VFTTdPVFQ2Y0NDbDZRRlpKTGhwOTFKb1NQOXFJT0pDWGRTY0hLcGtYZFJZTDFaQ2JScWpqXzJqOXM2d2N5UWdkcUJyRkVoZGQ3dnUzdkFlYXdGV2pJZ052LVlqa0FTdDFGcXdrS1RJTEJzazJHb19OajhPamhWZ0NRa29IYmpxckpoVlVDeUJZZHB4LU5JV0N5RHNKUDdDeFE?oc=5",
-   "source": "MalaysiaGazette",
+   "source": "malaysiagazette.com",
    "date": "2026-06-18T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -1455,6 +1456,23 @@
    "title_ja": "ここで生まれたが認識されていない: サバ州での市民権をめぐる戦い",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "114 PATI ditahan di 3 daerah di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtOUVIX19pQUlVQk9ZSXdiYm1jQU9CN3YxTnBaZGVmS19BMlRyS1dqU191dXBvUl91NWc5YTIxZnl4c2RYUkFKM0EtakFHMmNNWEVaSVFDanVUUERQWGtibXRUYk9oVTh0b1J3bXVLNGg2ZE4yVDJMUVdaUlZaZw?oc=5",
+   "source": "Buletin TV3",
+   "date": "2026-06-13T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "f140641aee40",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州の3つの地域で114人のPATIが拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-09-03T01:36:13Z"
   },
   {
    "title": "SABAH MUST NOT BECOME ANOTHER CASE OF “TOO LITTLE, TOO LATE” — THE FAILURE TO IMPLEMENT THE RCI RECOMMENDATIONS HAS ALLOWED THE PTI PROBLEM TO PERSIST",
@@ -1559,6 +1577,23 @@
    "title_ja": "IMM13 問題: 請願は徹底的に検討する必要がある: ムスタファ",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "Petisyen ‘usir’ pemegang IMM13 ke negara asal perlu dikaji – Mustapha",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaXVTN25tbUNYTlpMNy1NMzJSaF9EdWNVRWxwVzVwTnYwTzR6ZUFna21Cdy10Q1JQN2tQTTNEREdFd0hqcTNpNWY4TV9GckRWbHVCaXRYc28zUXVBOHdpUWpoZnJXUjFIUTA4N2M0VmZHQWpLbktESVZkdTV4bXF4SnJONjNoTjNYenk5Ti1jN0x5QWdEX1VGNXVDZTVkWVJfZHBjaHA5eWdlQQ?oc=5",
+   "source": "THE MALAYSIA PRESS",
+   "date": "2026-06-09T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "MyKAS OR IMM13 Sabah",
+   "id": "f9b143804ae2",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "IMM13保有者を出身国に「強制送還」する請願は検討される必要がある - ムスタファ",
+   "summary_ja": "",
+   "first_seen": "2026-09-03T01:36:13Z"
   },
   {
    "title": "Study: Disabled, stateless children among most vulnerable in Sabah",
@@ -2023,7 +2058,7 @@
   {
    "title": "156 PATI warga Indonesia dihantar pulang",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0gtckk5d1p5cmd6c2lydzF1NXBhNndxU3ZXQVA4U1liaEJPQUlkZlpxVXZUXzBZSEh0ZTU0MC1raDFZSmtwQmpTNVh4Y0dJd2V6S0pkbUQ1SGZsa0tXSDhtSGJSWndhdFUwMUxSR2duUmdpbHNQS0prYjFua09DNGJHUVNLTTJ3bGNpVm8xN3JrNVlpSEVyT2ttM0J0aGRaUTNCdUhiSlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2c?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-11T07:00:00Z",
    "lang": "ms",
@@ -2041,7 +2076,7 @@
    "title": "Kerajaan digesa longgar syarat MyKas bantu golongan stateless Sabah – MHO",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWI4ZVFKdng2XzdvSGtySEVDYmozeU5jaHh4ckllendma2hDd0w3SzlTaVNwaEFobW9yc0RkSTZyeTJFanExX0o0b0h3WWFYdVhsQkF3TmxfMU85QTY3Tk85ZG92MnBmS1RfOWZOV1lBVXBWTVFmREl2TXpjOVRQTWlEeVBhWUVYNUJtWm0ybWpQeWlKN1Joc0psTU9idS1IRnJIUmJ3VmhKcWlxbHNlZw?oc=5",
-   "source": "MalaysiaGazette",
+   "source": "malaysiagazette.com",
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3848,11 +3883,11 @@
    "date": "2025-10-06T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "b22185d5de98",
    "tags": [
-    "子ども",
-    "市民権"
+    "市民権",
+    "子ども"
    ],
    "title_ja": "汚染された楽園：観光客がセンポルナのゴミと無国籍の子供たちの現実を暴露",
    "summary_ja": "",
