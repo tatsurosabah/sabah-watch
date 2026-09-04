@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03T20:10:58Z",
+ "updated": "2026-09-04T01:29:51Z",
  "count": 239,
  "tags": {
   "入管・摘発": 157,
@@ -38,6 +38,7 @@
   "The Vibes": 2,
   "Nabalu News": 2,
   "Sayang Sabah": 2,
+  "Malaysiakini": 2,
   "Bernama": 1,
   "nst.com.my": 1,
   "pressreader.com": 1,
@@ -46,7 +47,6 @@
   "Nikkei Asia": 1,
   "Yahoo News UK": 1,
   "facebook.com": 1,
-  "malaysiakini.com": 1,
   "Migrant Times": 1,
   "sabahkini2.org": 1,
   "THE MALAYSIA PRESS": 1,
@@ -58,7 +58,6 @@
   "mkn.gov.my": 1,
   "Philstar.com": 1,
   "berita.rtm.gov.my": 1,
-  "Malaysiakini": 1,
   "Utusan Malaysia": 1,
   "Gempak": 1,
   "The Edge Malaysia": 1,
@@ -394,7 +393,7 @@
    "date": "2026-08-14T22:37:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -479,7 +478,7 @@
    "date": "2026-08-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah PATI",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "5608fa55904f",
    "tags": [
     "入管・摘発"
@@ -731,7 +730,7 @@
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths in overcrowded depots",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0s3VjE4SHVtYjN1Sml1R1lnbDZMMjdqWTY2akdXd2pBc1RXWGo1cmljSVNIaFhQa2lYY3V2dmlTTDk3RXBKX204WjY4Z2wxS21WNE9OQUFIOE5BazFYV1hlYjBpZEItX1FhVkRhdndUYkNpeEhrNy1rdzNrWWEyaTNXSjF6WHBod1pRcUxyeGt3Rk5xeHBUSG1GQ19fdlJBTHFHV3U1ak5vMWROSW96TUNR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMElpeHRPSEdyTEV0VWRiTmVraDZPUGN3UVBhN3c2T09ySFBxZDJoRFhvYVpXOWNjd1Uzc3hXcEFSSHQwRFpMNnQwZW9DVXJ4MzRNNC1ON3BNb0xTcWFCb1ltUS1sbUIwX3MyNm5lakZpSWNyZFBjenNhYTJiWGRHRUFoc0xTSFVGTGZ5WDRXQ2ZhNUJLd285c0c5RDJmTVVxb3p4OG1UZDZBWkgwcWdXdm14Z2M0RTZlS1dYOGxFVGRQeVFH0gG3AUFVX3lxTE5aaERaaEo5RUdGZVJaYzFGRUpDY25mOXctNnozNkFIR3ZvR2l1aS1rYUprRGN3ZWhVYjIxd3Npa09UczNWQk5KOXpGZjFOeDc1a1EzcmFEVFZhVHktRTk0bFVUb0pkQUcySWNGOXQ2MEpoUWlnV3JINHZxOGVRdlVVcmFtZFk5djlVM3pFZ3V2eTFpSE13VzN6ZVVYUDM0aXplOTZWc01BOHVDdXNpNWhiTkxycW1xNA?oc=5",
    "source": "NST Online",
    "date": "2026-07-25T07:00:00Z",
    "lang": "en",
@@ -1004,7 +1003,7 @@
    "title": "PARLIAMENT | Sabah MP calls for Refugees Act; good response to diesel quota hike - PM",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OcTZHV1ZNQjdjamx2akNoV0taa00zVXJLS0RieU04Z3UxWnJuenM2RUVJOVJacXU0UGdtN294T1dRd1VKaUxtYTd5c1pNdDdzV3c?oc=5",
-   "source": "malaysiakini.com",
+   "source": "Malaysiakini",
    "date": "2026-07-07T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -1398,7 +1397,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -1905,7 +1904,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -1940,7 +1939,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -2074,7 +2073,7 @@
   {
    "title": "156 PATI warga Indonesia dihantar pulang",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR0gtckk5d1p5cmd6c2lydzF1NXBhNndxU3ZXQVA4U1liaEJPQUlkZlpxVXZUXzBZSEh0ZTU0MC1raDFZSmtwQmpTNVh4Y0dJd2V6S0pkbUQ1SGZsa0tXSDhtSGJSWndhdFUwMUxSR2duUmdpbHNQS0prYjFua09DNGJHUVNLTTJ3bGNpVm8xN3JrNVlpSEVyT2ttM0J0aGRaUTNCdUhiSlE?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-11T07:00:00Z",
    "lang": "ms",
@@ -2283,7 +2282,7 @@
   {
    "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWQ?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -2302,7 +2301,7 @@
   {
    "title": "Undocumented children in Sabah trapped by stigma and denied basic rights: NGO",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnY3RllHMzRaaVE2emtmSWthYldlZGZZWnZwZDduQk1jdXRpTWdZN0VQaEVoTUltLWx4Y0psNmtyYnlPSmJGT1hRMkpxRUI3LU81dl9vR29wek9yRWpCMDVEZnEzdjI0MjJzMHdMRUp6YUpwUEEwSnBfWGl0LTZxWVBrRVkyMkE0cTQwSUY3aUhCaGRmYmZZaVl5aDMxb1FHNGtjaUk1d21oSUhqcDFMV3h5ZGZsMEdpMEJRY1Nn0gHDAUFVX3lxTE96Zl9aWUp3TkZWbXdYRGVmT0hBRlYtY3pNZ3NJU0V2MHBFU241RzBDZzhOZ2dSN2lQUEUyckF0X2tCVkdyWW1DN0doUnhJS3FhU29YRkJYYkxhblRfdlR4bzB0b1hOSE1ma1ljbmloTjhIMVN0cW0wNG9Kall4bGpQSWhLdXllUEY3U1dLZFFJSm91dmNXZklYRXhPdGVRSnhKNXJtSGZkUU9tV1hIbUk3RXg4bkxCN2tiTHlvWFIwa2N5aw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnY3RllHMzRaaVE2emtmSWthYldlZGZZWnZwZDduQk1jdXRpTWdZN0VQaEVoTUltLWx4Y0psNmtyYnlPSmJGT1hRMkpxRUI3LU81dl9vR29wek9yRWpCMDVEZnEzdjI0MjJzMHdMRUp6YUpwUEEwSnBfWGl0LTZxWVBrRVkyMkE0cTQwSUY3aUhCaGRmYmZZaVl5aDMxb1FHNGtjaUk1d21oSUhqcDFMV3h5ZGZsMEdpMEJRY1Nn?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -2651,7 +2650,7 @@
    "date": "2026-04-02T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah undocumented",
    "id": "3305b28ddbe1",
    "tags": [
     "子ども"
