@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-04T01:29:51Z",
- "count": 239,
+ "updated": "2026-09-04T10:01:11Z",
+ "count": 240,
  "tags": {
-  "入管・摘発": 157,
+  "入管・摘発": 158,
   "市民権": 36,
   "無国籍": 32,
   "子ども": 22,
@@ -21,14 +21,14 @@
   "Borneo Post": 14,
   "NST Online": 14,
   "sabahnews.com.my": 13,
-  "The Star": 10,
+  "The Star": 11,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Berita Harian": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
   "tvsabahnews.com": 6,
-  "Jesselton Times": 6,
+  "Jesselton Times": 5,
   "Sabah Post": 4,
   "Buletin TV3": 4,
   "Portal Berita RTM": 3,
@@ -45,10 +45,11 @@
   "Malaysia-China Insight": 1,
   "PressReader": 1,
   "Nikkei Asia": 1,
-  "Yahoo News UK": 1,
+  "Yahoo": 1,
   "facebook.com": 1,
   "Migrant Times": 1,
   "sabahkini2.org": 1,
+  "jesseltontimes.com": 1,
   "THE MALAYSIA PRESS": 1,
   "Sabah Kini2": 1,
   "South China Morning Post": 1,
@@ -478,7 +479,7 @@
    "date": "2026-08-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "Sabah PATI",
    "id": "5608fa55904f",
    "tags": [
     "入管・摘発"
@@ -507,8 +508,8 @@
   {
    "title": "Decade-old image misrepresented as Filipinos arrested in Sabah migrant crackdown",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMmFERlI4TEV6RU1lY01lcldEMm9PNWhXRlU1S3JyYl9FM25UMEtLV1NRT1BOUlp3eVRzTElNa3hvRFFVcmJYdzhVdk1aMlFEbEsxZFZUSkdyM2UzUl8zNXVuVG9VR1pVR0hTV1prZnpHeHVWdmdzYXlBdW1UZ2prYk1TWEdkaGtXVmc?oc=5",
-   "source": "Yahoo News UK",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR3FBMnBlYmNpblk0OE1LczNqY09MYnZMdGt5WENpUDB3aXllcC1xcExKZjh3TzhmZlBpdF9QTFItSWFWeDNHVkRTcF9nOW56MWJ2VXVySksySkE2QVJzT2c0NDJlSEc2X2ZjWDBLcXdsNWNDRWJVZzJfOEFhVzZ3b1U1cXlubFhMbGw5NkVqVDN4ajF3eFdZcmZfQ3dscnM?oc=5",
+   "source": "Yahoo",
    "date": "2026-08-02T07:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -728,9 +729,26 @@
    "first_seen": "2026-08-29T11:49:32Z"
   },
   {
+   "title": "Social media claims of immigration depot deaths untrue, says Sabah Immigration director",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGZlWm15TERzREZPQ29lc29tcE1KUDQ4andZUlF5T3d4NW5iQ1FrVS1sWEtWTzhMQ0c2R0pnbWFtcjJCU2ZqYm1HOEtMTmtkYm9qUm9PbWE2b3pGdFZWV1FWVi1McGlNYU1SbUxtVW5KUG5oOUhsM3pRYnJLcDFFRnRyX3c1R2x1MVVLd2tlQlByelp1Mk5jRFRzdndfM0l1bXBtc3dmTzk0SnhtVXplSUFDYlR4Nzh4ZURPb1Axb18wZw?oc=5",
+   "source": "The Star",
+   "date": "2026-07-26T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "e21d22848a77",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "入国審査場で死亡したというソーシャルメディアの主張は事実ではないとサバ州入国管理局長が語る",
+   "summary_ja": "",
+   "first_seen": "2026-09-04T10:01:09Z"
+  },
+  {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths in overcrowded depots",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMElpeHRPSEdyTEV0VWRiTmVraDZPUGN3UVBhN3c2T09ySFBxZDJoRFhvYVpXOWNjd1Uzc3hXcEFSSHQwRFpMNnQwZW9DVXJ4MzRNNC1ON3BNb0xTcWFCb1ltUS1sbUIwX3MyNm5lakZpSWNyZFBjenNhYTJiWGRHRUFoc0xTSFVGTGZ5WDRXQ2ZhNUJLd285c0c5RDJmTVVxb3p4OG1UZDZBWkgwcWdXdm14Z2M0RTZlS1dYOGxFVGRQeVFH0gG3AUFVX3lxTE5aaERaaEo5RUdGZVJaYzFGRUpDY25mOXctNnozNkFIR3ZvR2l1aS1rYUprRGN3ZWhVYjIxd3Npa09UczNWQk5KOXpGZjFOeDc1a1EzcmFEVFZhVHktRTk0bFVUb0pkQUcySWNGOXQ2MEpoUWlnV3JINHZxOGVRdlVVcmFtZFk5djlVM3pFZ3V2eTFpSE13VzN6ZVVYUDM0aXplOTZWc01BOHVDdXNpNWhiTkxycW1xNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMElpeHRPSEdyTEV0VWRiTmVraDZPUGN3UVBhN3c2T09ySFBxZDJoRFhvYVpXOWNjd1Uzc3hXcEFSSHQwRFpMNnQwZW9DVXJ4MzRNNC1ON3BNb0xTcWFCb1ltUS1sbUIwX3MyNm5lakZpSWNyZFBjenNhYTJiWGRHRUFoc0xTSFVGTGZ5WDRXQ2ZhNUJLd285c0c5RDJmTVVxb3p4OG1UZDZBWkgwcWdXdm14Z2M0RTZlS1dYOGxFVGRQeVFH?oc=5",
    "source": "NST Online",
    "date": "2026-07-25T07:00:00Z",
    "lang": "en",
@@ -1238,7 +1256,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3c?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -1397,7 +1415,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -1443,7 +1461,7 @@
   {
    "title": "Born here, but unrecognised: The fight for citizenship in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVno2S2pRN1pKS0NEdThDRGZzMVR6am0yM28xdzQtZnJjTnk4SW9lR1hUbGt5UkxLb0tObF9ndlZYdkZ0WDJlSlNhMDhHaFBlV0xibUdiNmRLb1RDdHh4MV9xdm5NZC1XbXUzZEtUTUxQd3ZGdlhua25LbWVQVkg2bzV0bHQ2eGpkMW5MbncxbDNDM0lYQmFVbkJ4N1Q5UmQ20gGmAUFVX3lxTE0wYndjUWdsZlBJWE4xaGlhWE9ZQkY0YzBwOEpacEFCRnJtbldCZmhKTEU2Z0lFaWJaWTYzcHJnTEJfN0R1RzdYUEYtVVczeXY0RFp1ajZRUzBEcWNHekxiU21TcEhXYjczTnhkV013d0lROU9jS0xqa0ZPdHJOdkhIRFl2Zi1tTlhzVllGZWlUWlNJdEhqN1dJOFdqeGxmQVVxRjJYUlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVno2S2pRN1pKS0NEdThDRGZzMVR6am0yM28xdzQtZnJjTnk4SW9lR1hUbGt5UkxLb0tObF9ndlZYdkZ0WDJlSlNhMDhHaFBlV0xibUdiNmRLb1RDdHh4MV9xdm5NZC1XbXUzZEtUTUxQd3ZGdlhua25LbWVQVkg2bzV0bHQ2eGpkMW5MbncxbDNDM0lYQmFVbkJ4N1Q5UmQ2?oc=5",
    "source": "NST Online",
    "date": "2026-06-13T07:00:00Z",
    "lang": "en",
@@ -1478,7 +1496,7 @@
    "title": "SABAH MUST NOT BECOME ANOTHER CASE OF “TOO LITTLE, TOO LATE” — THE FAILURE TO IMPLEMENT THE RCI RECOMMENDATIONS HAS ALLOWED THE PTI PROBLEM TO PERSIST",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPLVROckwyUHZ6dnNWR0d4RXJVTFdLVU84OFJjLUk0VUNDOVFjQXJmY2Nrb0l2N1d4eW40TzNGLWZ2YXVnV1dkNkc3V2ZoWHBLOERsblZOb2YwMm52UWVyQjhKeEVwOUszaGdsNWNYdEo2UWUxbExPYWZJSmlIcG5NYXpMb2RneFdTSzJ0ODlDc2c0clE2d2l4NzBqN2F5V2J5aVdySEhtRXRwcmhpT2VsZk0zQ2JHM1ZIR0dMSzFKdzdQckFFbVVWUnlxMWNMMXFLcV9rNUh3aDByVXFMdTdfZGpWZXlmLUxuRWNaSl95Nk1iYXlZS0U3Q2dYVUpsTmJMb2dtZGE5b1YxNk4wdkFHclBR0gGXAkFVX3lxTE9jTWMydDVSYmJlbUFWa2w5ajhRYW9hQXFnTWQ5bURFenlGeEQxVXNHclRHNmVhSE8xVjNRS2ZEamp4NUF2cllMejJaZmNGaVF6TVhvRGlxSFlleVVHTDBxX09TdjJrS3huaVQtN2lqRXh6MGd4MmdXWW82VTdxY0UzUDBJc1E5ZUFsa2VCQnR4bmdrblJGOS1Wc0o5cHhkT192a2plTkp6anV5R2RzSjltQ0ZGdHlJdHlJclZMelUwYlZ6aUp4TlhsUUNTa1ZtYlRUVDRGTUtMaVpXTDhfSUw3RHlZenVSQ3dVaWRQaVZ2NUhjREZuUjF4XzdNWXpNbU0tNG4tOGtWcDhkX3ZuN3o0blJxZ1A0MA?oc=5",
-   "source": "Jesselton Times",
+   "source": "jesseltontimes.com",
    "date": "2026-06-12T23:54:41Z",
    "lang": "en",
    "origin": "news",
@@ -1904,7 +1922,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -1921,11 +1939,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -1939,7 +1957,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -1971,7 +1989,7 @@
   {
    "title": "Immigration rounds up 54 illegal immigrants in Sabah crackdown",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdzlXeVFYZ1VJLU9OaS1hb0Q1RVFwVWFOa1ZDZi13amdrOFlPajlXME9RRUwzb2prMGhfWG1HYUdiUVd6aVFYVVJsSWVZR1psNVJzMXllQmdySjlkYkJiQ3JFZ2g3TFZjRENFckRkREphR1ZWVzYzeDdtMG55Tko5MVE5WmVlNWwwUHp5c3I2QkwtUnlId1N0Mm12MEI3YWVvOVROcGhZTG13SmVTNkHSAbMBQVVfeXFMUHlad2FOWldKUlNsTHZKclV1MXB2ZzB4NE0ycDQwNGdGV2ZkczRhN1VZS1lFOE1EeXdvMXBHd0JJQXdoaUZKemdnb2JpQzNudHVjalFBZnhtMjdTRTZxTFNaNFNjZzZZckItRE1tSVNXMDhzTl8wX2gtdnZxMVFIYzNrME5qVlQ5TU5ob0lZU0dmMnZTRmZVeHZEdE9Cb19rcjJxY3JnTURHeEZxTHZublc3dmM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONGU1NGpMYzlPMVhDYU91djV4MF9oSTBsZWk4SEo0N29PZkFyWjBZb0FBMWxSM005ckMxcnZnT1RjTGFiVGxoQUJIc25UMFFscEhpbDA0dDIwTzFDcDc3RUpfRXBVUlYzSU55U3UwSVNfdnVkaHMzQ3VmY1ozWlFLSWhvdmlqZk9zcjRUV0p4V3diM2djZ0xtR0hiT0lYcV9CYWE0UGdaSGxrZnZ5QzQ0YWF6QlNSNG4xWEJqeUZtZlHSAbMBQVVfeXFMUHlad2FOWldKUlNsTHZKclV1MXB2ZzB4NE0ycDQwNGdGV2ZkczRhN1VZS1lFOE1EeXdvMXBHd0JJQXdoaUZKemdnb2JpQzNudHVjalFBZnhtMjdTRTZxTFNaNFNjZzZZckItRE1tSVNXMDhzTl8wX2gtdnZxMVFIYzNrME5qVlQ5TU5ob0lZU0dmMnZTRmZVeHZEdE9Cb19rcjJxY3JnTURHeEZxTHZublc3dmM?oc=5",
    "source": "NST Online",
    "date": "2026-05-15T07:00:00Z",
    "lang": "en",
@@ -2177,7 +2195,7 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmdw?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
@@ -2247,7 +2265,7 @@
   {
    "title": "From sea gypsies to street kids: Sabah's stateless children fighting to survive",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRUwtbDY3bnhNTHhockdDV0tuMXhuNXhBYmpTV1ZIMkZVenMxenVHN0NTQkdhOHhNbDRRYVdwckhfYkFTLUhvRGZZRHNsb2dHQkcxbnhxc3BPU1ZXSGRLZGpZOFpEc2U4WFFGN2ZNYTVOMUpXSWFYS1RBTUJCWkVFSjItNk5NNmlLa29ISlRob1JXVHBXeWZBYWFKb1NyU3h0cFg0LVVoMHg2M05YT1dDNkFQeVpZTUcxSDgyWG5ERzBSazZYMUNCaUxGONIBvgFBVV95cUxOTl9FUjhVdlVFa0Rvd3VHdjVDVGUxTnI4NzBfUXVlMHpSejFJYnN6Y19iX2l5SFd3VjRzdXFDUnJ1TkxhM19GY21FX0VwazlHU28wbnZZTzVzenBoRjQ5MHBxZ0l4WFlDN3VtX1gydGxBMGR6TGFzb1JQRHo0enFianFmZ2FGNkRhTHIwT2ZpWDQ0Zkt3MGJnT0ktSjVUZ2xvejJzcXlRT2U1QVRWWGtzSlVsRlVmNlZlREpObW13?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdXRYZFlkczRUYUQzbUE2THAxM1RXZFhtQUMxUkw2SUlDUmFRT2NJR2dPSThTdWVTNGVrX3puMVFfVGNJUGU1VEItMy1GRmVfaGdYQURMb1hXMFd4Ni1yMl8yajhGZ1R6NGI1dUQ0dzVSS3p4Z25jVHZpMENCeXBzR2h6V0p3c2hGWnMyWi12NExxTkF0aGhlVjZoT3FGS0VKeDltQ2Z1b29hSGJ1T1ktWHRURzJDdVNlM3UtRDlHWG00TTRUeHFsMEpLUUYwOWtUVFhYUS1Sb2dSRENSZmZKdGdwR1gzdnhDNHkxY3pnemZzUC1mcTEyQzFSRVVTeWx3a3VGUFJ0TEx2MWtudlE4RXdDN3F1SFU1MmhxOS1YbEU3dVFDRTcyR09YVF9RSDdRY2pN?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -2255,8 +2273,8 @@
    "query": "Sabah stateless",
    "id": "715ca1e86aec",
    "tags": [
-    "無国籍",
-    "子ども"
+    "子ども",
+    "無国籍"
    ],
    "title_ja": "海のジプシーからストリートチルドレンまで：生き残るために戦うサバ州の無国籍の子供たち",
    "summary_ja": "",
@@ -2650,7 +2668,7 @@
    "date": "2026-04-02T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "3305b28ddbe1",
    "tags": [
     "子ども"
