@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T02:32:45Z",
+ "updated": "2026-09-30T11:25:47Z",
  "count": 265,
  "tags": {
   "入管・摘発": 181,
@@ -25,18 +25,18 @@
   "tvsabahnews.com": 11,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
-  "Berita Harian": 6,
+  "Berita Harian": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Harian Metro": 4,
-  "MalaysiaGazette": 4,
   "Sabah Post": 4,
   "Portal Berita RTM": 4,
   "THE MALAYSIA PRESS": 3,
+  "malaysiagazette.com": 3,
+  "nabalunews.com": 3,
   "Astro Awani": 3,
   "The Vibes": 2,
-  "Nabalu News": 2,
   "Buletin TV3": 2,
   "Sayang Sabah": 2,
   "Malaysiakini": 2,
@@ -50,7 +50,6 @@
   "Nikkei Asia": 1,
   "AFP Fact Check": 1,
   "facebook.com": 1,
-  "bharian.com.my": 1,
   "Migrant Times": 1,
   "sabahkini2.org": 1,
   "hmetro.com.my": 1,
@@ -59,14 +58,14 @@
   "sabahkini2.com": 1,
   "South China Morning Post": 1,
   "Options, The Edge": 1,
-  "nabalunews.com": 1,
   "negrosnowdaily.com": 1,
   "MindaNews": 1,
   "mkn.gov.my": 1,
   "Philstar.com": 1,
   "Utusan Malaysia": 1,
   "Gempak": 1,
-  "The Edge Malaysia": 1
+  "The Edge Malaysia": 1,
+  "MalaysiaGazette": 1
  },
  "items": [
   {
@@ -168,23 +167,6 @@
    "title_ja": "タワウで不法滞在の外国人が13歳少女への性的虐待容疑で逮捕される",
    "summary_ja": "",
    "first_seen": "2026-09-22T10:24:31Z"
-  },
-  {
-   "title": "Imigresen Sabah serbu kilang gaji PATI, 39 ditahan",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTBBd1NmaUw2aURESmt2bmFBSnc2Vm43ejZYRnFnQ21wb0hldl9Ud2JZdnpKSGgweWZ4eTBXSUxQT1BsZ0J3dlczcmZYVmRIcDNfbWRLNkpGNkVpNDJVbFlxQUZhUW5XYWdWU2N0ZDQ1RjdYZkZuc0s4WGNOODBFcmxWQUcxU3ZLQXRZQkdkZmVhWjEyd3lRUFh3dGlMNzJLYVZseEZ3?oc=5",
-   "source": "Berita Harian",
-   "date": "2026-09-21T12:46:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "0518f4fb86cb",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局がPATI給与工場を襲撃、39人逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-09-21T21:16:20Z"
   },
   {
    "title": "Keeping the Bajau Laut boat-building craft alive",
@@ -441,7 +423,7 @@
    "title": "133 PATI ditahan dalam 20 operasi imigresen Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTNCamtRN1BRY21fVndWYmF5VUtJdmdoRXotM2t1ZlY4NnJmSGoxNDdvLVJkSHVuUzJFY01FYzl3Tlk3Ym94dEVtSzJ5LXFrNE41c1Q4NkZILU5hUk9MN3NpWjhtOEFoaVJMTW9KcnpUSFJiczN6NlJsa2pBTXNJNmZTZXAtWUdaT0FPLUY2dDd5azg?oc=5",
-   "source": "MalaysiaGazette",
+   "source": "malaysiagazette.com",
    "date": "2026-09-06T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -1257,7 +1239,7 @@
    "title": "130 PATI Ditahan Dalam Serbuan Imigresen Di Lima Daerah Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOHlWa2FvR3JZREdMa2hSQ1NTUlpUYUNpQ2gwWE5qaDlkSXJKUTB3Nk4zdHRJa3I0bnFIcmNJamNfTmFqTTBIMXVPRWRTb2Y1Vy1ITHVNUTFKZlpfSjZMdHBlWTBsXzZncXZ0Z1k3NWpqZDBOMUhBQjl1VXpoMjRFUVN4QjBua2RwWVc1TllCd1UwWGczVVpSRg?oc=5",
-   "source": "Nabalu News",
+   "source": "nabalunews.com",
    "date": "2026-07-23T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -1291,7 +1273,7 @@
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZw?oc=5",
-   "source": "bharian.com.my",
+   "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -1747,7 +1729,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3U?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -1906,7 +1888,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -1953,7 +1935,7 @@
    "title": "64 PATI ditahan dalam operasi bersepadu ESSCOM di Lahad Datu",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0VFTTdPVFQ2Y0NDbDZRRlpKTGhwOTFKb1NQOXFJT0pDWGRTY0hLcGtYZFJZTDFaQ2JScWpqXzJqOXM2d2N5UWdkcUJyRkVoZGQ3dnUzdkFlYXdGV2pJZ052LVlqa0FTdDFGcXdrS1RJTEJzazJHb19OajhPamhWZ0NRa29IYmpxckpoVlVDeUJZZHB4LU5JV0N5RHNKUDdDeFE?oc=5",
-   "source": "MalaysiaGazette",
+   "source": "malaysiagazette.com",
    "date": "2026-06-18T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -2670,7 +2652,7 @@
    "title": "Kerajaan digesa longgar syarat MyKas bantu golongan stateless Sabah – MHO",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWI4ZVFKdng2XzdvSGtySEVDYmozeU5jaHh4ckllendma2hDd0w3SzlTaVNwaEFobW9yc0RkSTZyeTJFanExX0o0b0h3WWFYdVhsQkF3TmxfMU85QTY3Tk85ZG92MnBmS1RfOWZOV1lBVXBWTVFmREl2TXpjOVRQTWlEeVBhWUVYNUJtWm0ybWpQeWlKN1Joc0psTU9idS1IRnJIUmJ3VmhKcWlxbHNlZw?oc=5",
-   "source": "MalaysiaGazette",
+   "source": "malaysiagazette.com",
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3264,7 +3246,7 @@
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
@@ -3810,6 +3792,23 @@
    "first_seen": "2026-08-13T07:05:47Z"
   },
   {
+   "title": "Imigresen Sabah serbu kilang gaji PATI, 39 ditahan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFk2WUdxcUhKUXE4czZvc29SOVFOUVhfU29oNURMM3BOdHJWVkJDc0x6aV9Eb18xaXhibzBHeXVjV0RjZ3MtWC1iQ2g3WEtEcDFLWWVhWWY5b3E5S3RjRGY2SHZ2dXVROWlKNEtOZnZiUDNOdXA1U0tNXzRBTGIydTRmMjRJTWdZMG0wYnZMc1JwMjBTazNyOHZETVZ6NG16RmRTSlRMREk3SHdaNUJub0FvYlYySnFLUVZkRVNrWlQzdGQ4WmdyYTljVlhBZVB3Q1E?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-01-17T01:48:28Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "0518f4fb86cb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局がPATI給与工場を襲撃、39人逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-09-21T21:16:20Z"
+  },
+  {
    "title": "60 PATI Ditahan Di Tawau",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQNUdrb0FuWE1CZ2lTRWhSNXZmeWU3TWRJTkxZODVhS2xnVGVsT1c4ZVlib1hmRHEzekwwUjdCYnpWNWMyRVpTNXdSQ09zMG1DUl8xTTJBQTFrY3VjY3c?oc=5",
@@ -4018,7 +4017,7 @@
    "title": "JIM Hantar Pulang 218 PATI Indonesia",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oS3k4eUoyaFFFeUIyb0RBTnBFc21qcEhXUEhEMHZTaUFZSGNlT1BXME4tQTNvSkM2V0EzbFV1UjhVVHVra1g0SEZRNjBYSXhzankxSEFWZXBaNTdTS0ppX3VlYV9ERmF4eVd1SEtlYy1aQ3NhT0dj?oc=5",
-   "source": "Nabalu News",
+   "source": "nabalunews.com",
    "date": "2025-12-16T08:00:00Z",
    "lang": "ms",
    "origin": "news",
