@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:16:10Z",
+ "updated": "2026-10-06T21:55:24Z",
  "count": 276,
  "tags": {
   "入管・摘発": 187,
@@ -20,9 +20,9 @@
   "Daily Express Malaysia": 23,
   "NST Online": 18,
   "The Star": 14,
-  "sabahnews.com.my": 14,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
+  "sabahnews.com.my": 11,
   "Malay Mail": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
@@ -37,7 +37,8 @@
   "THE MALAYSIA PRESS": 3,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
-  "sabahkini2.com": 2,
+  "Sabah News": 3,
+  "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
@@ -61,7 +62,7 @@
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
   "MindaNews": 1,
-  "mkn.gov.my": 1,
+  "Majlis Keselamatan Negara (MKN)": 1,
   "Philstar.com": 1,
   "Utusan Malaysia": 1,
   "Gempak": 1,
@@ -174,7 +175,7 @@
    "title": "JIM Sabah hantar pulang 87 PTI warga Indonesia",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFdleEQ0RVZuTWNucl9XcUtVR2dCd2lvZEFVLVVoejFLNUwxZUc5VkUyRWZfaFNTYkhKOEU4LXhZUC15M0JXLU1HeDZLa195QjNxWUg3QkZXY0Q0TWN5aFBnNFA0ZWoyTzVMNmRFVVhpaDhHM3NtdWh3XzdMV1RjdVJULUNJc0R5dDg2eTFtczk?oc=5",
-   "source": "sabahkini2.com",
+   "source": "Sabah Kini2",
    "date": "2026-09-30T09:59:29Z",
    "lang": "ms",
    "origin": "news",
@@ -203,23 +204,6 @@
    "title_ja": "サバ州で不法滞在のバジャウ・ラウト族の若者が搾取に直面",
    "summary_ja": "",
    "first_seen": "2026-09-29T11:38:21Z"
-  },
-  {
-   "title": "156 PATI ditahan dalam operasi empat hari di Sabah",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW03am5SbUlZaXlSNmF5eDBFZkdLa0t0SlpJcjhYRG82cnNOSlBiVF9HRHJPQTRCMlAybVRlcTg0ZG9LNkMyejkzajlUU01xWV9ra1ZLVXQtYVIzWXJCREVjSmtYTVhvTkNvWGMxWklJbExfWFc1LWRqVDk3UTk1ZkRPRzNMaUVTVV9obWR3?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-09-26T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "3e9d9a21c7e9",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州での4日間の作戦で不法滞在者156人が逮捕された",
-   "summary_ja": "",
-   "first_seen": "2026-09-25T20:47:08Z"
   },
   {
    "title": "Operasi penguatkuasaan Imigresen Sabah tahan 156 PATI",
@@ -254,6 +238,23 @@
    "title_ja": "JIMサバ作戦でPATIフィリピン人140人が拘束される",
    "summary_ja": "",
    "first_seen": "2026-09-26T02:07:10Z"
+  },
+  {
+   "title": "156 PATI ditahan dalam operasi empat hari di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW03am5SbUlZaXlSNmF5eDBFZkdLa0t0SlpJcjhYRG82cnNOSlBiVF9HRHJPQTRCMlAybVRlcTg0ZG9LNkMyejkzajlUU01xWV9ra1ZLVXQtYVIzWXJCREVjSmtYTVhvTkNvWGMxWklJbExfWFc1LWRqVDk3UTk1ZkRPRzNMaUVTVV9obWR3?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-09-25T20:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "3e9d9a21c7e9",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州での4日間の作戦で不法滞在者156人が逮捕された",
+   "summary_ja": "",
+   "first_seen": "2026-09-25T20:47:08Z"
   },
   {
    "title": "Undocumented foreigner nabbed in Tawau over alleged molest of 13-year-old girl",
@@ -2119,7 +2120,7 @@
   {
    "title": "Born here, but unrecognised: The fight for citizenship in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVno2S2pRN1pKS0NEdThDRGZzMVR6am0yM28xdzQtZnJjTnk4SW9lR1hUbGt5UkxLb0tObF9ndlZYdkZ0WDJlSlNhMDhHaFBlV0xibUdiNmRLb1RDdHh4MV9xdm5NZC1XbXUzZEtUTUxQd3ZGdlhua25LbWVQVkg2bzV0bHQ2eGpkMW5MbncxbDNDM0lYQmFVbkJ4N1Q5UmQ2?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVno2S2pRN1pKS0NEdThDRGZzMVR6am0yM28xdzQtZnJjTnk4SW9lR1hUbGt5UkxLb0tObF9ndlZYdkZ0WDJlSlNhMDhHaFBlV0xibUdiNmRLb1RDdHh4MV9xdm5NZC1XbXUzZEtUTUxQd3ZGdlhua25LbWVQVkg2bzV0bHQ2eGpkMW5MbncxbDNDM0lYQmFVbkJ4N1Q5UmQ20gGmAUFVX3lxTE0wYndjUWdsZlBJWE4xaGlhWE9ZQkY0YzBwOEpacEFCRnJtbldCZmhKTEU2Z0lFaWJaWTYzcHJnTEJfN0R1RzdYUEYtVVczeXY0RFp1ajZRUzBEcWNHekxiU21TcEhXYjczTnhkV013d0lROU9jS0xqa0ZPdHJOdkhIRFl2Zi1tTlhzVllGZWlUWlNJdEhqN1dJOFdqeGxmQVVxRjJYUlE?oc=5",
    "source": "NST Online",
    "date": "2026-06-13T07:00:00Z",
    "lang": "en",
@@ -2580,7 +2581,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -2647,7 +2648,7 @@
    "title": "MHO Gesa Pembaharuan Dasar MyKAS, Isu ‘Stateless’ Sabah Semakin Membimbangkan",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcE9kbkFoMkpobzhVdExfby1uZjBMdXpmd1lNLWVEc3RUM1NHdkk2dllvNElPQXNuZEltRE96bHp5QXFsZ0VjcEdnUFBJNERUR05lcTljc2JVSG81U21JZ25WNkxRS1ZHa21ZazE0VGl0eDJmRzdiUmdjdE9GNVc3RGhQSDRWb3hPOVZTRVhxRUJpZEltOHh0bjU2T0xhQ1NtUGc?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3170,7 +3171,7 @@
    "title": "Imigresen Tahan 19 PATI Dalam Operasi di Sipitang",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXpQZlpmMlQxSEMySVpZdDM4Tk9IMEl4XzdnTGE3MXFFMVVVV1NvUFNyMlBKQ084cEt1LUVFdlNoVi1CVWhFRTN2Y3d3YUt3bXFPdVozTlZEaDhjZ1ZmWDJ1VjZTTWdPNzhaNDdrMWpETDluMkU1MFgwQzNsM3QxRg?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2026-04-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3482,7 +3483,7 @@
    "title": "NIKO tiada IC: Imigresen Sabah digesa serbu Sekolah Alternatif digerakkan Mukmin Nantang jadi pelindung PTI di Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaDRaUXh2Nkpic3FQNWhGbFdSWW1OSU1ncTkwbG5uUTY1eXVva0wwR1k0dU80U0gza1lnbHZ4SDFPd1c2cjJfN0VhbE9YeHNiZnpLbjlHY0ZKekdSUk9QUzhvR1Nqd0xOWGYzMmFaMFlPR0J5YUY4d3JDY0JhX3B1MWV6NG9pNHUwUVl6amhQRkYyTWhLUnk3ZzVFQndfTk5wMXNUM1NhdTlHUlFLYXdvaUtNVjBJMXpBb2FXc3VaczlhaVNkWjUzMmJaOGRtM1hnWVpGVmZzMWNKdnFWTldBQUdZbnJOdnJuS1d6UQ?oc=5",
-   "source": "sabahkini2.com",
+   "source": "Sabah Kini2",
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3913,7 +3914,7 @@
    "title": "77 PATI DITAHAN DALAM OPERASI IMIGRESEN DI KOTA KINABALU, KENINGAU",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUNGby1BYThILWw1aV9CLXR4OUZyYkg4MnZuT1ZNRVExNlVZTElSWHFzaW9OOVZlci1NNk9Ga1NGd0RKVG5OZ1VycGl0WEc5SVFnUUkwU1RtLXhwSEVrdnA4THNCTVNUYXpHbjByQU10ZHNLSFF5c1BzQTEyTURQMTVtWjFDWlR6WlU2cFUtVGJFYjh4aFpleGE3OTVHZWxkYndudFdjX3V4aDQ?oc=5",
-   "source": "mkn.gov.my",
+   "source": "Majlis Keselamatan Negara (MKN)",
    "date": "2026-01-28T08:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -4692,7 +4693,7 @@
    "title": "Syurga Tercemar: Pelancong Dedah Realiti Sampah, Anak Tanpa Warganegara di Semporna",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd21rdUVNaWxMa3RsMU9SVGppTkdoYk1KVzhhSHVGTnZzUVNNVWtfMmlwVmFzZktGUEtwM1hoUV8yNUJUZFhxT3lMd19KUUFqaEZOMWJGcEFOaUtuWEEtOFQ0di05MG1ZNG9rbEMwQ2dicnFQTVQzQVl0Y3djNWY2bElzWFY1S1l0b2ZSdDJ3T214MjEtWENuQk4wTFB3NzhtNjQtTFdCb1NTc0U?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2025-10-06T07:00:00Z",
    "lang": "ms",
    "origin": "news",
