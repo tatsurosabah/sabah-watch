@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-06T21:55:24Z",
- "count": 276,
+ "updated": "2026-10-07T02:48:49Z",
+ "count": 277,
  "tags": {
   "入管・摘発": 187,
-  "市民権": 37,
+  "市民権": 38,
   "無国籍": 33,
   "子ども": 22,
   "バジャウ": 14,
   "政策・政治": 11,
   "難民": 8,
   "人権・NGO": 7,
+  "医療・福祉": 3,
   "教育": 3,
-  "ロヒンギャ": 2,
-  "医療・福祉": 2
+  "ロヒンギャ": 2
  },
  "sources": {
-  "Sabah Media": 43,
+  "Sabah Media": 44,
   "TV Sabah News": 37,
   "Daily Express Malaysia": 23,
   "NST Online": 18,
@@ -69,6 +69,24 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah catat tunggakan bil hospital bukan warganegara tertinggi, menurut KKM",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY29TbWFRRmotQUpyZDZraHBJbUFOaUQxa0RhVHlabF8zbDlLMjRBc3BKVTJoSDQ1VWhISUlxUTYtUFdyRkx2U0FoS1NVNGRRRHB6VldfTVhKdXpBaEpiUWgybGNwckhydXVwTzJXUUhJRkQ1bzZzaThuaC1xbHF1bmo0NzdmWXNzTE5oWjdiSEVnNzZGQlVZT0dRcGk1bHJwN2dIY2RFSGttUlA3T0E?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-06T23:30:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah tanpa kewarganegaraan",
+   "id": "4bab477a714e",
+   "tags": [
+    "市民権",
+    "医療・福祉"
+   ],
+   "title_ja": "保健省によると、サバ州は非国民の病院代滞納額としては最高額を記録した",
+   "summary_ja": "",
+   "first_seen": "2026-10-07T02:48:48Z"
+  },
   {
    "title": "Permohonan kewarganegaraan di Sabah, Sarawak ambil masa bertahun-tahun – Jeffrey",
    "summary": "",
@@ -189,6 +207,24 @@
    "first_seen": "2026-10-02T21:28:11Z"
   },
   {
+   "title": "Imigresen hantar pulang 156 PATI warga Indonesia termasuk 11 kanak-kanak melalui Tawau",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjZpWUJuLXVxeUp1MTFXcGNXaFdqYXRTckVHRXhmOTBPMnZyam9mbUhTNXFGVGxNUnpkTnNPX3JVby1KNE1uMlRVQUZjaU9IUkJqYmNEN3Q3VS0tcHJlOVhMWVo2cmE3OS1GeXRFYW9VdGVGTjNjM1FvdF91bkN0VG9PYi1UM0ZVMnVJMk82SmRBQ0dyX2Y2NUpqcUROVmx4X09NVDR4THFNY2ppakNXVnNBMXAzYXZGWW5kSmF6WWFRSl9W?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-09-29T19:31:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "53a167cf6d82",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "移民局はタワウ経由で子供11人を含むインドネシア移民156人を帰国させた",
+   "summary_ja": "",
+   "first_seen": "2026-09-16T10:21:00Z"
+  },
+  {
    "title": "Undocumented Bajau Laut youths face exploitation in Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFV0U3NpMnpfR1FxSXRQZnozSGI4M3UxaGxoRlJqT09vQnZRd3hxNTU4RmNYN3R5Mk4wQzM3VExFYmd3UFluQkRTMWExcjhhdDNWYS1hdEQ0NldkREg4TEpERWRxYm9QQUR1T1dUSE9aVHJoNHQycmItUTBOY3hlLWptNjJOakkxSDNHUEYzMm1kUFhwaHZsZUUtUElyNXY4T1N6NFU0UTJKRWM?oc=5",
@@ -204,6 +240,23 @@
    "title_ja": "サバ州で不法滞在のバジャウ・ラウト族の若者が搾取に直面",
    "summary_ja": "",
    "first_seen": "2026-09-29T11:38:21Z"
+  },
+  {
+   "title": "156 PATI ditahan dalam operasi empat hari di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW03am5SbUlZaXlSNmF5eDBFZkdLa0t0SlpJcjhYRG82cnNOSlBiVF9HRHJPQTRCMlAybVRlcTg0ZG9LNkMyejkzajlUU01xWV9ra1ZLVXQtYVIzWXJCREVjSmtYTVhvTkNvWGMxWklJbExfWFc1LWRqVDk3UTk1ZkRPRzNMaUVTVV9obWR3?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-09-26T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "3e9d9a21c7e9",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州での4日間の作戦で不法滞在者156人が逮捕された",
+   "summary_ja": "",
+   "first_seen": "2026-09-25T20:47:08Z"
   },
   {
    "title": "Operasi penguatkuasaan Imigresen Sabah tahan 156 PATI",
@@ -238,23 +291,6 @@
    "title_ja": "JIMサバ作戦でPATIフィリピン人140人が拘束される",
    "summary_ja": "",
    "first_seen": "2026-09-26T02:07:10Z"
-  },
-  {
-   "title": "156 PATI ditahan dalam operasi empat hari di Sabah",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWW03am5SbUlZaXlSNmF5eDBFZkdLa0t0SlpJcjhYRG82cnNOSlBiVF9HRHJPQTRCMlAybVRlcTg0ZG9LNkMyejkzajlUU01xWV9ra1ZLVXQtYVIzWXJCREVjSmtYTVhvTkNvWGMxWklJbExfWFc1LWRqVDk3UTk1ZkRPRzNMaUVTVV9obWR3?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-09-25T20:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "3e9d9a21c7e9",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州での4日間の作戦で不法滞在者156人が逮捕された",
-   "summary_ja": "",
-   "first_seen": "2026-09-25T20:47:08Z"
   },
   {
    "title": "Undocumented foreigner nabbed in Tawau over alleged molest of 13-year-old girl",
@@ -427,7 +463,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlEzZ0dkUC1PMHN0NTRhVE9BZ2pEamt0N3JHUEZ0TkVGaUlkaXZKdmhVUk5Md05PV1Vlc09GMWtibEY4ZDhIOHUyV09LbXpuMGxDYmh3U3IxM2xCalppSW5ZYkNjVjRwWUV2N09YTHhNQlpWMkZNU0lLOUltaWxNaEhqd1ozWHMyUFBrWEFsN29mbER3eVZ3?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-09-12T14:22:29Z",
+   "date": "2026-09-12T14:22:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -2171,7 +2207,7 @@
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNNIBpgFBVV95cUxOWDBrb2tMQ1VRTWlIcldjZVNESTN0eGloSmdjb0ZvRDkxSmZNc2wzai03TUs1RVJfX2s3NEFiUHJEX2xxZGdGcDBMQl91VVFJWWZSWloyd19ocnZnMkJtMXhob2VLN1VlTHRyWndndjRMQTQ1WVNwSXM4cDJ4eWVLcmZDaTBKTmRScDlnUFpUejBTWV9SRTQ1UTgybnYzNGpQQ2pzNXdR?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-12T07:00:00Z",
    "lang": "ms",
@@ -2783,24 +2819,6 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
-   "title": "Imigresen hantar pulang 156 PATI warga Indonesia termasuk 11 kanak-kanak melalui Tawau",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjZpWUJuLXVxeUp1MTFXcGNXaFdqYXRTckVHRXhmOTBPMnZyam9mbUhTNXFGVGxNUnpkTnNPX3JVby1KNE1uMlRVQUZjaU9IUkJqYmNEN3Q3VS0tcHJlOVhMWVo2cmE3OS1GeXRFYW9VdGVGTjNjM1FvdF91bkN0VG9PYi1UM0ZVMnVJMk82SmRBQ0dyX2Y2NUpqcUROVmx4X09NVDR4THFNY2ppakNXVnNBMXAzYXZGWW5kSmF6WWFRSl9W?oc=5",
-   "source": "Berita Harian",
-   "date": "2026-05-11T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "53a167cf6d82",
-   "tags": [
-    "入管・摘発",
-    "子ども"
-   ],
-   "title_ja": "移民局はタワウ経由で子供11人を含むインドネシア移民156人を帰国させた",
-   "summary_ja": "",
-   "first_seen": "2026-09-16T10:21:00Z"
-  },
-  {
    "title": "Kerajaan digesa longgar syarat MyKas bantu golongan stateless Sabah – MHO",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLWI4ZVFKdng2XzdvSGtySEVDYmozeU5jaHh4ckllendma2hDd0w3SzlTaVNwaEFobW9yc0RkSTZyeTJFanExX0o0b0h3WWFYdVhsQkF3TmxfMU85QTY3Tk85ZG92MnBmS1RfOWZOV1lBVXBWTVFmREl2TXpjOVRQTWlEeVBhWUVYNUJtWm0ybWpQeWlKN1Joc0psTU9idS1IRnJIUmJ3VmhKcWlxbHNlZw?oc=5",
@@ -3050,7 +3068,7 @@
   {
    "title": "Sabah leader backs MyKAS move for stateless people",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWE3TDd3cUZGRW9GZnZFbk5fWERINjJZdDB1b1hhWV9qdENaTVFrcHdMWFZuNUdJWnF2QlNOdXpNRUxsdVhSYURVT0J6aWxTR2x3b0RuVUxVUFNfNjMyNk1POTBGMkdudU1oRE1pSGtlMnBQdWdRTGFNdHBtY2dPOVMtZk1XeEpQem84M3B2ZF9KY0RKRWk4WW5tQnFsa0x5?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWE3TDd3cUZGRW9GZnZFbk5fWERINjJZdDB1b1hhWV9qdENaTVFrcHdMWFZuNUdJWnF2QlNOdXpNRUxsdVhSYURVT0J6aWxTR2x3b0RuVUxVUFNfNjMyNk1POTBGMkdudU1oRE1pSGtlMnBQdWdRTGFNdHBtY2dPOVMtZk1XeEpQem84M3B2ZF9KY0RKRWk4WW5tQnFsa0x50gGmAUFVX3lxTFA4aHE3UlpFTHIzYmNJTkZsMkdWc1MwY1lzaWlnQy1qNnlkM3VaLWQtQzh4Z1ZKMTZqbVBlZ1Bma004UVNVRUlkcWUwQ0dIalFNTEFBZE5rWTUwd1EzNmdUNnh3ZVFlWnljYW9QNHN6b0ZwQVBqLUY4QURsZ0ItNUt1dHNaNF9Sbm82T3VMTmJGWEYxNndENjR4Mno0eW1ja2JVZmg3cVE?oc=5",
    "source": "NST Online",
    "date": "2026-04-27T07:00:00Z",
    "lang": "en",
@@ -3433,7 +3451,7 @@
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
