@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-08T12:23:56Z",
- "count": 278,
+ "updated": "2026-10-08T22:31:48Z",
+ "count": 279,
  "tags": {
   "入管・摘発": 188,
   "市民権": 38,
@@ -8,7 +8,7 @@
   "子ども": 22,
   "バジャウ": 14,
   "政策・政治": 11,
-  "難民": 8,
+  "難民": 9,
   "人権・NGO": 7,
   "医療・福祉": 3,
   "教育": 3,
@@ -42,6 +42,7 @@
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
+  "Borneo Daily Bulletin": 1,
   "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -67,6 +68,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Ewon bangkitkan risiko keselamatan berkaitan pelarian dan pendatang asing di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkV6Ui05WW03Z0loTzh5ZFhpUWlYbUM1Y2YwdG5jam93ZENUWFN6d0JUMndWOTNWejd6UktwanZkTGVFWVdpTTYzZzktUG13U2UwdHh4UDE1SUU0QVNuYk1BMTZnU0hybGl1S0E2ZjF0SDBxU0diNU84U0FYbE1jR0RrT3R0Z0ppZ1pqNUVCbmZCazZYVGFYVVpQZjNkR3B2R09XbzlnUkJXZzdzQ3d0d3g4T05fTEYwSEhZ?oc=5",
+   "source": "Borneo Daily Bulletin",
+   "date": "2026-10-08T15:09:55Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "343192a33bb1",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "イウォン氏はサバ州の難民と外国人移民に関連する安全保障上のリスクを提起した",
+   "summary_ja": "",
+   "first_seen": "2026-10-08T22:31:47Z"
+  },
   {
    "title": "Sabah catat tunggakan bil hospital bukan warganegara tertinggi, menurut KKM",
    "summary": "",
@@ -1356,7 +1374,7 @@
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths in overcrowded depots",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0s3VjE4SHVtYjN1Sml1R1lnbDZMMjdqWTY2akdXd2pBc1RXWGo1cmljSVNIaFhQa2lYY3V2dmlTTDk3RXBKX204WjY4Z2wxS21WNE9OQUFIOE5BazFYV1hlYjBpZEItX1FhVkRhdndUYkNpeEhrNy1rdzNrWWEyaTNXSjF6WHBod1pRcUxyeGt3Rk5xeHBUSG1GQ19fdlJBTHFHV3U1ak5vMWROSW96TUNR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0s3VjE4SHVtYjN1Sml1R1lnbDZMMjdqWTY2akdXd2pBc1RXWGo1cmljSVNIaFhQa2lYY3V2dmlTTDk3RXBKX204WjY4Z2wxS21WNE9OQUFIOE5BazFYV1hlYjBpZEItX1FhVkRhdndUYkNpeEhrNy1rdzNrWWEyaTNXSjF6WHBod1pRcUxyeGt3Rk5xeHBUSG1GQ19fdlJBTHFHV3U1ak5vMWROSW96TUNR0gG3AUFVX3lxTE5aaERaaEo5RUdGZVJaYzFGRUpDY25mOXctNnozNkFIR3ZvR2l1aS1rYUprRGN3ZWhVYjIxd3Npa09UczNWQk5KOXpGZjFOeDc1a1EzcmFEVFZhVHktRTk0bFVUb0pkQUcySWNGOXQ2MEpoUWlnV3JINHZxOGVRdlVVcmFtZFk5djlVM3pFZ3V2eTFpSE13VzN6ZVVYUDM0aXplOTZWc01BOHVDdXNpNWhiTkxycW1xNA?oc=5",
    "source": "NST Online",
    "date": "2026-07-25T07:00:00Z",
    "lang": "en",
@@ -2205,7 +2223,7 @@
   {
    "title": "114 PATI ditahan, Tawau catat tangkapan tertinggi",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFBGSGI3ekduTTYtSjNvRC01M3AtRFNaQzkwN0VBekd2RW14RkU3MHJpR1ZOLWdFWTlvNE9pR2J3dER1LXRvSF9YdUU3Y0JzY1JqeFRxNUpCa2diZS1lSGI5S2NXQ3gxa1NWejV5S1hzanJORmx3Z2lyUVI5Y1Y4dVlTSllSQnRyYWNoaGMxZEY0TW9xVFBLR1p2ZXlQOXBOWF9NMV95OHFOOHNfRC1HeUpCNNIBpgFBVV95cUxOWDBrb2tMQ1VRTWlIcldjZVNESTN0eGloSmdjb0ZvRDkxSmZNc2wzai03TUs1RVJfX2s3NEFiUHJEX2xxZGdGcDBMQl91VVFJWWZSWloyd19ocnZnMkJtMXhob2VLN1VlTHRyWndndjRMQTQ1WVNwSXM4cDJ4eWVLcmZDaTBKTmRScDlnUFpUejBTWV9SRTQ1UTgybnYzNGpQQ2pzNXdR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNWcwYUpTVmN2VUtSUU5EZWRlczJOTlluWE02aHk1Z0NGUG81alR6b1ZLQnRZakgyNDl6VWZIM2xIRDFvTkRhRUtycXRtekNZV2pKZlFkaDJsUW5QRWhDUDlqNlBublN0X2FxWVBlQ2J6OEYxdEQtd0VtRHRFWTd4M0hIMGhKM2FRcVFXQm9ST3lrZW5BT0xpdWxUSGt5ZUxD0gGmAUFVX3lxTE5YMGtva0xDVVFNaUhyV2NlU0RJM3R4aWhKZ2NvRm9EOTFKZk1zbDNqLTdNSzVFUl9fazc0QWJQckRfbHFkZ0ZwMExCX3VVUUlZZlJaWjJ3X2hydmcyQm0xeGhvZUs3VWVMdHJad2d2NExBNDVZU3BJczhwMnh5ZUtyZkNpMEpOZFJwOWdQWlR6MFNZX1JFNDVRODJudjM0alBDanM1d1E?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-12T07:00:00Z",
    "lang": "ms",
@@ -2906,7 +2924,7 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
@@ -3676,7 +3694,7 @@
   {
    "title": "61 undocumented Filipino migrants detained in Sabah operation",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmI0RGhxS0UtektHMzJsR3JlSXZKUks0ZzZiZ3U4RzRRa0tDNGFSc3Blb1ZFczJOVjZjMWFmQ2JQNlI4aU4xRzNSd3psWWlnalZERll0X1Y2SzlVWW9YZzVwNjB6VGlyMmdUcVZEOVAyS3lVTEdWd0hBM1Zqbl90M1ZYWmYxa0tHSUNUNDJiLUlQMlA2MjBlVkNiTTZ1T2ZpZmZCbUtKSXFsc0tWay1iNtIBtgFBVV95cUxNZ3I4aUg2NzRzdjU5aXV4ZGlITk5feC1fRDd2UTNVTjRaa0d6a2ViSHBiSWV5T2hDa1JCdngzZ3NfbWU0LU5Ca2t5aVdnVkJTRUc2dWMwNlNicGRJcEZJajVDaDc1bWZGTUxPQmN0c2Y5UzdxM2lOUkllM0o3REpHRGk4YlJ5WVI4VnppTVpScnZTQUN0cURiTGRnRjRDN1N2NW9WajNVejFIZ3R5TTdtTFBhM3dyUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmI0RGhxS0UtektHMzJsR3JlSXZKUks0ZzZiZ3U4RzRRa0tDNGFSc3Blb1ZFczJOVjZjMWFmQ2JQNlI4aU4xRzNSd3psWWlnalZERll0X1Y2SzlVWW9YZzVwNjB6VGlyMmdUcVZEOVAyS3lVTEdWd0hBM1Zqbl90M1ZYWmYxa0tHSUNUNDJiLUlQMlA2MjBlVkNiTTZ1T2ZpZmZCbUtKSXFsc0tWay1iNg?oc=5",
    "source": "NST Online",
    "date": "2026-02-13T08:00:00Z",
    "lang": "en",
@@ -4748,7 +4766,7 @@
    "date": "2025-10-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "ad90f71bf69e",
    "tags": [
     "入管・摘発",
