@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-08T22:31:48Z",
- "count": 279,
+ "updated": "2026-10-09T03:13:00Z",
+ "count": 281,
  "tags": {
   "入管・摘発": 188,
   "市民権": 38,
   "無国籍": 33,
   "子ども": 22,
   "バジャウ": 14,
+  "難民": 11,
   "政策・政治": 11,
-  "難民": 9,
   "人権・NGO": 7,
   "医療・福祉": 3,
   "教育": 3,
@@ -30,6 +30,7 @@
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
+  "Sabah News": 4,
   "Astro Awani": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
@@ -37,11 +38,11 @@
   "THE MALAYSIA PRESS": 3,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
-  "Sabah News": 3,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
+  "Utusan Borneo Online": 1,
   "Borneo Daily Bulletin": 1,
   "Bernama": 1,
   "pressreader.com": 1,
@@ -68,6 +69,40 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Ewon Bangkitkan Risiko Keselamatan Kehadiran Pelarian, Pendatang Asing Filipina di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lwaU1NaGZydEtqM0ZtTFlqUVBmOUNBb0t3UU9nbW9Gb09NdVAxdkhJdENXb2k5UFVXZm9VRWg0YlN4QVJyNEo2bnpYMUxlTTN1VXY0YVdnQWxqajZkSzZZcXdzM2ZhMGZCNXpjY0NyQ0NtX0J5bUYyT0ZWb3U0TEZMOG5oTXNFNGlsQjlKeUlrd3M4bEFLWVdtSWpMUkZwRWIyZWMtY0NfTHp4bE03MDd6UQ?oc=5",
+   "source": "Sabah News",
+   "date": "2026-10-09T01:01:17Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "7731967ff90f",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "イウォン氏、サバ州に難民やフィリピン人移民が存在することによる安全保障上のリスクを提起",
+   "summary_ja": "",
+   "first_seen": "2026-10-09T03:12:58Z"
+  },
+  {
+   "title": "Risiko keselamatan berkaitan pelarian dan pendatang asing di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0QzQm1qenVfTDdwRGlXaTJmZG5sa0pvVHFpUnk3UGg2MjJ0T0N5Y2tXOXBTbHVuNFRpa0c4UVlhenlFRjdkU3pmZUQwWFhsLTljWFJ6QTNQSmNEOE8yMVcyY3lScW8yVUIwak9scmlOd3RqYVh1QXJfNk8zRVBSdlJzRUJBUTNOZlZUTDF5Y0VPR3FSNXB3YjI1S0p2cERDWHY1cVpCMkxlaHdtV1E?oc=5",
+   "source": "Utusan Borneo Online",
+   "date": "2026-10-08T23:56:46Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "85403dd2a148",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "サバ州の難民と移民に関連する安全上のリスク",
+   "summary_ja": "",
+   "first_seen": "2026-10-09T03:12:58Z"
+  },
   {
    "title": "Ewon bangkitkan risiko keselamatan berkaitan pelarian dan pendatang asing di Sabah",
    "summary": "",
@@ -3694,7 +3729,7 @@
   {
    "title": "61 undocumented Filipino migrants detained in Sabah operation",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmI0RGhxS0UtektHMzJsR3JlSXZKUks0ZzZiZ3U4RzRRa0tDNGFSc3Blb1ZFczJOVjZjMWFmQ2JQNlI4aU4xRzNSd3psWWlnalZERll0X1Y2SzlVWW9YZzVwNjB6VGlyMmdUcVZEOVAyS3lVTEdWd0hBM1Zqbl90M1ZYWmYxa0tHSUNUNDJiLUlQMlA2MjBlVkNiTTZ1T2ZpZmZCbUtKSXFsc0tWay1iNg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmI0RGhxS0UtektHMzJsR3JlSXZKUks0ZzZiZ3U4RzRRa0tDNGFSc3Blb1ZFczJOVjZjMWFmQ2JQNlI4aU4xRzNSd3psWWlnalZERll0X1Y2SzlVWW9YZzVwNjB6VGlyMmdUcVZEOVAyS3lVTEdWd0hBM1Zqbl90M1ZYWmYxa0tHSUNUNDJiLUlQMlA2MjBlVkNiTTZ1T2ZpZmZCbUtKSXFsc0tWay1iNtIBtgFBVV95cUxNZ3I4aUg2NzRzdjU5aXV4ZGlITk5feC1fRDd2UTNVTjRaa0d6a2ViSHBiSWV5T2hDa1JCdngzZ3NfbWU0LU5Ca2t5aVdnVkJTRUc2dWMwNlNicGRJcEZJajVDaDc1bWZGTUxPQmN0c2Y5UzdxM2lOUkllM0o3REpHRGk4YlJ5WVI4VnppTVpScnZTQUN0cURiTGRnRjRDN1N2NW9WajNVejFIZ3R5TTdtTFBhM3dyUQ?oc=5",
    "source": "NST Online",
    "date": "2026-02-13T08:00:00Z",
    "lang": "en",
