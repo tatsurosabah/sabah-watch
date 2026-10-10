@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T16:25:04Z",
- "count": 283,
+ "updated": "2026-10-10T20:45:42Z",
+ "count": 284,
  "tags": {
-  "入管・摘発": 188,
+  "入管・摘発": 189,
   "市民権": 39,
   "無国籍": 34,
   "子ども": 22,
@@ -38,13 +38,13 @@
   "THE MALAYSIA PRESS": 3,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
+  "Bernama": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
   "Utusan Borneo Online": 1,
   "Borneo Daily Bulletin": 1,
-  "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -70,6 +70,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
+   "source": "Bernama",
+   "date": "2026-10-10T20:05:16Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "66e43be8696d",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "2027年予算：入国管理官の福利厚生を強化するため、サバ州ペラ州に新地区を建設",
+   "summary_ja": "",
+   "first_seen": "2026-10-10T20:45:41Z"
+  },
   {
    "title": "Ewon Bangkitkan Risiko Keselamatan Sabah Berhubung Pendatang Asing Filipina",
    "summary": "",
