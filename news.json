@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-10T20:45:42Z",
- "count": 284,
+ "updated": "2026-10-11T02:21:20Z",
+ "count": 286,
  "tags": {
-  "入管・摘発": 189,
+  "入管・摘発": 191,
   "市民権": 39,
   "無国籍": 34,
   "子ども": 22,
@@ -15,7 +15,7 @@
   "ロヒンギャ": 2
  },
  "sources": {
-  "Sabah Media": 44,
+  "Sabah Media": 45,
   "TV Sabah News": 38,
   "Daily Express Malaysia": 23,
   "NST Online": 18,
@@ -23,7 +23,7 @@
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
   "sabahnews.com.my": 11,
-  "Malay Mail": 8,
+  "Malay Mail": 9,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
   "Berita Harian": 7,
@@ -70,6 +70,40 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Budget 2027: New immigration quarters planned for Perak, Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORm5sQl9DQlgzYmJldFdLNWp3LWFsVlFhRG1jWHpTWXdqb3llZnUxUVFYZHVoeDV5a2JWcE9ZRllWQUxVSmdST09jbVozUDE2UEpKaWpDQk9NZUlfQ0VaVlM3LVZzZFFrVTFER1owa3VmbmNaLTdiTGlSZFc0aUhPSHpLUkJqUG15Ukp0anhLRHBrbWp0MnFTYS1oSWRsSDJHNWJ3a21HV0kyYjYtUXZkSHJpNEw1TkNoNlHSAb8BQVVfeXFMUF9Ed3lxSGZucVpjNlBvWWNXRy1CY1hhOHRLWmtDR2hLQ0pmU3BIUGx6TF9XZ2hCdGZwMUZ6cDI4Sm5zdDVUS1pCZ3ZtZFVsVE1oOTQ4bl9uRERMb0p5OFdqQzNIZWt2eDlUdEhzMWJLbzdrbktyMXRNWThqb3hRUlZ5Z3lHZDZQSVFoZHVQZFpsdFJIbUlqQnVuNExad2llZUNGd1dnT1JmMVQ0VmdQMU1RMzdMcUhmRmF4VEE5NWc?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-10-11T01:47:41Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "2cd18ab66b7f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-10-11T02:21:15Z"
+  },
+  {
+   "title": "Pengarah JIM Sabah ketuai operasi, 84 PATI ditahan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMi10QkE4LXJvQTl1SXU2MVhid0NZSlFGM1VUV2RaalI2NGJBX2o4WXpuNGd0TGpYZzhfYTZCX1lOT085VnpkNm5RMVdNRHlaZHNVV2pwdUQ4d2FUUFRzS1ctVmVLQXJxd0YtN18tNDNmcVdJeWpWLUNuRUFhX2lqWmxPZnNRVGwxRE5XRg?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-11T01:31:15Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "c9a55e0e9c92",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-10-11T02:21:15Z"
+  },
   {
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
@@ -511,7 +545,7 @@
   {
    "title": "Lima negeri kegemaran geng seludup PATI",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnBpQnRDNFVkM0N1UVVOUXUwVFNtSzJQZTFwVWp1bi0yT1FFMUhLQnpMQ3JiaHVfMXYtX1NnZk56UzlTTXVOd3FYX0ZpRVFSOHpYZ3pmNnN4bXF1RGFheWN2SVBrbFJDMkVleDc2YUUzTTRDWkwwSm8td2VzRVEwU05IOWtmWWlQTlE5YV9PUGdObWx3SW92MWRSMTRvZDBGNGx3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1HcE9XUGJYN3R5RW51a2ZNVGFnTjNlVmdDVS1WdVhmX0FZZ2lxREYzQUZpdTVVYnhUVVRoYk5zVUtlVmR2UjY5cEwyUWNockNmVmw0RGY4UmZGNTVoQzVlVG5fR2N0NkFMdXZsOWJXbk1yNW14dlBncGExV1IxVm5qbVlFMDV2VW5DSG85YnM?oc=5",
    "source": "Harian Metro",
    "date": "2026-09-17T07:00:00Z",
    "lang": "ms",
@@ -2453,7 +2487,7 @@
   {
    "title": "Parliamentary symposium to spotlight Sabah's stateless children",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXJzTHV6UlNXSV81RTlqc2htZFFTUm0tT3NJV1g4Rmw1b2M1M21IdDMyRWxFalN0clRWWjlXcFZ5NDlMVlpjc1U4NEFfOXlGVUxwWlJtNG15QmtYcFEzWFJNX1ZJLWZlT2pMdnZhRFE0bEFNNjZiM2tzc0hLOFZkT3pzUzJpRGFpbXFWN1ROVEVDd1lBS0tKNlFaRjBsSGJwMnJoRE93aXRybGs4bmRyQV9R?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXJzTHV6UlNXSV81RTlqc2htZFFTUm0tT3NJV1g4Rmw1b2M1M21IdDMyRWxFalN0clRWWjlXcFZ5NDlMVlpjc1U4NEFfOXlGVUxwWlJtNG15QmtYcFEzWFJNX1ZJLWZlT2pMdnZhRFE0bEFNNjZiM2tzc0hLOFZkT3pzUzJpRGFpbXFWN1ROVEVDd1lBS0tKNlFaRjBsSGJwMnJoRE93aXRybGs4bmRyQV9R0gG3AUFVX3lxTE5WcGU2WGd2NnRyLW9qUjlRQXdXcHBOYll0N0NiM0hyYWpKcm1RNlhSNmRpTnpKNzVoT3R2YkJVUGs1akNUMTFGVVNSdDdPdkdnbS15T015RjdkUHZZcWhwdFNubjBjcmJ2UDhNUGJPZnhsYUhyNUtpUUlYdFlUTkFZV3pfZXkzYWw4bmx4OV9mVmFPWlctMnF3R1VHUkVSVElISGY3ZlhBVFJkT2doYldJTjJVNjdMSQ?oc=5",
    "source": "NST Online",
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
