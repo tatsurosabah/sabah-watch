@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-13T13:00:09Z",
- "count": 289,
+ "updated": "2026-10-13T22:00:02Z",
+ "count": 291,
  "tags": {
-  "入管・摘発": 194,
-  "市民権": 39,
+  "入管・摘発": 195,
+  "市民権": 40,
   "無国籍": 34,
   "子ども": 22,
   "バジャウ": 14,
@@ -30,20 +30,20 @@
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
+  "Astro Awani": 5,
   "Sabah News": 5,
   "Harian Metro": 5,
-  "Astro Awani": 4,
   "Sabah Post": 4,
   "Portal Berita RTM": 4,
   "THE MALAYSIA PRESS": 3,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
   "Bernama": 2,
+  "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
-  "Utusan Borneo": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -70,11 +70,28 @@
  },
  "items": [
   {
+   "title": "JIM Sabah hantar pulang 5,915 PATI ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTkxpUUE0WC1QTHZFdlpNSzdhaUNiRmhpUEpYRDlIb3ZFbWtWN1lLUlU3OFYtd2wyOG5GUk1NdFUydzNlNTZWNDRGVWZtSzhQREg0cjY0VVBLUG83M1RONDdBbHQ4QkM4SGZvY0pTZmRnYUJ0dGg0Rml5aWVtdUhQX1lRMFB5dkd0?oc=5",
+   "source": "Astro Awani",
+   "date": "2026-10-13T16:24:44Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "a3b976fedc6c",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州は5,915人のPATIを出身国に送り返した",
+   "summary_ja": "",
+   "first_seen": "2026-10-13T21:59:59Z"
+  },
+  {
    "title": "5,915 PATI Dipindahkan Pulang ke Negara Asal Sepanjang 2026",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR01QeHAxRl9VM2Uwa19HeDE0cmNmWVF6cWljNmJZVHd5NXBSNTUtMnBtckkydWdIYUFzYzZaS24wZDZRblQxZ3Z1TUlxdWFUUVNUN3o1TTVabDBUUnNSeTF6MUctMlZOZW5UNTZxdnRQaUZVV25VUC1CVW5JR1dFSkhvanl1V1dsYVIxeHkxYzBEOURKU3U2bzREak1SSkprd3c?oc=5",
    "source": "Sabah News",
-   "date": "2026-10-13T07:06:59Z",
+   "date": "2026-10-13T15:06:27Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -577,7 +594,7 @@
   {
    "title": "Lima negeri kegemaran geng seludup PATI",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSnBpQnRDNFVkM0N1UVVOUXUwVFNtSzJQZTFwVWp1bi0yT1FFMUhLQnpMQ3JiaHVfMXYtX1NnZk56UzlTTXVOd3FYX0ZpRVFSOHpYZ3pmNnN4bXF1RGFheWN2SVBrbFJDMkVleDc2YUUzTTRDWkwwSm8td2VzRVEwU05IOWtmWWlQTlE5YV9PUGdObWx3SW92MWRSMTRvZDBGNGx3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1HcE9XUGJYN3R5RW51a2ZNVGFnTjNlVmdDVS1WdVhmX0FZZ2lxREYzQUZpdTVVYnhUVVRoYk5zVUtlVmR2UjY5cEwyUWNockNmVmw0RGY4UmZGNTVoQzVlVG5fR2N0NkFMdXZsOWJXbk1yNW14dlBncGExV1IxVm5qbVlFMDV2VW5DSG85YnM?oc=5",
    "source": "Harian Metro",
    "date": "2026-09-17T07:00:00Z",
    "lang": "ms",
@@ -1092,6 +1109,23 @@
    "title_ja": "MyKAS: Dino のオファーに騙されないでください",
    "summary_ja": "",
    "first_seen": "2026-08-17T18:18:06Z"
+  },
+  {
+   "title": "Warga Indonesia jangan terpedaya tawaran MyKAS",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjRHX193NFBTMWpYVjc2NFh1eW9ZdGhMcDJzMkxreGVkYkRqM1BNNjVvUk1icG9wTG15Y2dkeTNOQ1NuaW1OVE1sdFI0bDg1VV9PdlkyMGtFX1dUR1k3VnhlM05naDBUMlgyUHdsUXlhSFFPVkFkVzd4UGt6QndoQ195T1BycW1CS3dOQVdRWGh3bE0?oc=5",
+   "source": "Utusan Borneo",
+   "date": "2026-08-17T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "MyKAS OR IMM13 Sabah",
+   "id": "1470dd014dd3",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "インドネシア国民はMyKASのオファーに騙されるべきではない",
+   "summary_ja": "",
+   "first_seen": "2026-10-13T21:59:59Z"
   },
   {
    "title": "Imigresen Sabah pergiat operasi, 164 PATI ditahan dalam tiga hari",
