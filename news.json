@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-13T04:02:24Z",
- "count": 288,
+ "updated": "2026-10-13T13:00:09Z",
+ "count": 289,
  "tags": {
-  "入管・摘発": 193,
+  "入管・摘発": 194,
   "市民権": 39,
   "無国籍": 34,
   "子ども": 22,
@@ -30,8 +30,8 @@
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
+  "Sabah News": 5,
   "Harian Metro": 5,
-  "Sabah News": 4,
   "Astro Awani": 4,
   "Sabah Post": 4,
   "Portal Berita RTM": 4,
@@ -70,6 +70,23 @@
  },
  "items": [
   {
+   "title": "5,915 PATI Dipindahkan Pulang ke Negara Asal Sepanjang 2026",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR01QeHAxRl9VM2Uwa19HeDE0cmNmWVF6cWljNmJZVHd5NXBSNTUtMnBtckkydWdIYUFzYzZaS24wZDZRblQxZ3Z1TUlxdWFUUVNUN3o1TTVabDBUUnNSeTF6MUctMlZOZW5UNTZxdnRQaUZVV25VUC1CVW5JR1dFSkhvanl1V1dsYVIxeHkxYzBEOURKU3U2bzREak1SSkprd3c?oc=5",
+   "source": "Sabah News",
+   "date": "2026-10-13T07:06:59Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "fd6fdb61d716",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "2026 年を通じて 5,915 件の PATI が原産国に送還される",
+   "summary_ja": "",
+   "first_seen": "2026-10-13T13:00:08Z"
+  },
+  {
    "title": "84 Undocumented Migrants Held In 15 Immigration Operations In Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZ1bHg1elNtNHJuckxMU01vZXh5ZGhGZVBCNC15aThJLWJNemxjRGx0VW1nX21UNGkyeWhEcEVXREpfZUhyY3dYd21QYktTRkZMT1N3dVozdEhFbEVlU25SdFZsY1dQeVVaaFlONnVJUTJsSXNFdjdKYjJwaHR3VzB5NXZlT1o4VzRpMFNZZ1ZqOC1PN3FJ?oc=5",
@@ -106,9 +123,9 @@
   {
    "title": "Budget 2027: New immigration quarters planned for Perak, Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0R3eXFIZm5xWmM2UG9ZY1dHLUJjWGE4dEtaa0NHaEtDSmZTcEhQbHpMX1dnaEJ0ZnAxRnpwMjhKbnN0NVRLWkJndm1kVWxUTWg5NDhuX25ERExvSnk4V2pDM0hla3Z4OVR0SHMxYktvN2tuS3IxdE1ZOGpveFFSVnlneUdkNlBJUWhkdVBkWmx0UkhtSWpCdW40TFp3aWVlQ0Z3V2dPUmYxVDRWZ1AxTVEzN0xxSGZGYXhUQTk1Z9IBvwFBVV95cUxQX0R3eXFIZm5xWmM2UG9ZY1dHLUJjWGE4dEtaa0NHaEtDSmZTcEhQbHpMX1dnaEJ0ZnAxRnpwMjhKbnN0NVRLWkJndm1kVWxUTWg5NDhuX25ERExvSnk4V2pDM0hla3Z4OVR0SHMxYktvN2tuS3IxdE1ZOGpveFFSVnlneUdkNlBJUWhkdVBkWmx0UkhtSWpCdW40TFp3aWVlQ0Z3V2dPUmYxVDRWZ1AxTVEzN0xxSGZGYXhUQTk1Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORm5sQl9DQlgzYmJldFdLNWp3LWFsVlFhRG1jWHpTWXdqb3llZnUxUVFYZHVoeDV5a2JWcE9ZRllWQUxVSmdST09jbVozUDE2UEpKaWpDQk9NZUlfQ0VaVlM3LVZzZFFrVTFER1owa3VmbmNaLTdiTGlSZFc0aUhPSHpLUkJqUG15Ukp0anhLRHBrbWp0MnFTYS1oSWRsSDJHNWJ3a21HV0kyYjYtUXZkSHJpNEw1TkNoNlHSAb8BQVVfeXFMUF9Ed3lxSGZucVpjNlBvWWNXRy1CY1hhOHRLWmtDR2hLQ0pmU3BIUGx6TF9XZ2hCdGZwMUZ6cDI4Sm5zdDVUS1pCZ3ZtZFVsVE1oOTQ4bl9uRERMb0p5OFdqQzNIZWt2eDlUdEhzMWJLbzdrbktyMXRNWThqb3hRUlZ5Z3lHZDZQSVFoZHVQZFpsdFJIbUlqQnVuNExad2llZUNGd1dnT1JmMVQ0VmdQMU1RMzdMcUhmRmF4VEE5NWc?oc=5",
    "source": "Malay Mail",
-   "date": "2026-10-11T01:48:28Z",
+   "date": "2026-10-11T01:47:41Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -977,7 +994,7 @@
   {
    "title": "Malaysia, Philippines discuss swift repatriation of 5,000 undocumented migrants detained in Sabah depots",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEYwOU5oVUNLYXI1SE9TYy1wRlYxZTViQ2JlT1g3N3VCd2pUbFQ4aXFwSGcyQlJUa3FoU1RxOWNJRUwzOGd6ejZzSVpHbnM3cVk2Wnc2aUpEY3Npc0xBMzYtUDUyaGlWeWdQclF6TTBjWGduV0xYdlFsU3NldGtiaFNqaXBSd2tuS1k1MXRITk9GbTFQX0gwaDhzbl80a3JFWnY5b0lqSUJkcjlkY1BPR1FRWXlMQUpOZ3NGNFZHRVh3VU4zeTZFSjBTbEhubGhvSUJhZHdiVkMyeFRZaXQteDcwMjJJWmJHMEFvWU15dFREdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEYwOU5oVUNLYXI1SE9TYy1wRlYxZTViQ2JlT1g3N3VCd2pUbFQ4aXFwSGcyQlJUa3FoU1RxOWNJRUwzOGd6ejZzSVpHbnM3cVk2Wnc2aUpEY3Npc0xBMzYtUDUyaGlWeWdQclF6TTBjWGduV0xYdlFsU3NldGtiaFNqaXBSd2tuS1k1MXRITk9GbTFQX0gwaDhzbl80a3JFWnY5b0lqSUJkcjlkY1BPR1FRWXlMQUpOZ3NGNFZHRVh3VU4zeTZFSjBTbEhubGhvSUJhZHdiVkMyeFRZaXQteDcwMjJJWmJHMEFvWU15dFREd9IB9wFBVV95cUxOWGlGUUVpaFptS3NMUS1femd3aDFzMWxhVDIzR3JPR01tdFFDdE5DZnp5M2FmNDZXTGZ1NTRwTjM0aUxrdUJqbWZkc0tBQzJGbkIxY2FZQ1pxRGhDLUNKdG9PUnlWOVpGTDdqLXdoY1RwWnhuT0dXcVVBQ24xeUtabnh0aTFNbFo2Qy1uRUFVMExfaEp4UDVuOU1kZ1R4dUxRZlhOZ1dxOVdvbUJEUXpTUVhoWEhuTFhQUnM2SWp3TTIzT01JZ1lVS3R0bXR5V2lCQXpEdWpiSUJfZ1Jqd1FxQjMxTFQxMlhLcnM4MkxOVFJ6QU8yOC1Z?oc=5",
    "source": "Malay Mail",
    "date": "2026-08-18T07:00:00Z",
    "lang": "en",
@@ -3427,7 +3444,7 @@
   {
    "title": "Isu pelarian di Malaysia mencecah tahap kritikal, di Sabah sahaja lebih sejuta",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalI2VUpkcnBGS2dUZ1dUNmNCX3NoMEozZGV3N3VVZllmcEhFYjJaV3NseWhLSWk2SUlJMmxHTFVQcmc2czM2X0lqZDBCTEZMVUZrY1hNQnBxVDZCbTN0Z1ItVC1oeUw1b2x2Sjg2dWFjOGZWbjhfYVBSWHlvNTVhT0JHbzZQSHA0UzVXZGJoN2FqRGxkZ2doeWIwNUJBUWVQd0NiS0w1Q3ZSLVBHM1R0VHR4T25PTUtWb1JESDVWUEg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalI2VUpkcnBGS2dUZ1dUNmNCX3NoMEozZGV3N3VVZllmcEhFYjJaV3NseWhLSWk2SUlJMmxHTFVQcmc2czM2X0lqZDBCTEZMVUZrY1hNQnBxVDZCbTN0Z1ItVC1oeUw1b2x2Sjg2dWFjOGZWbjhfYVBSWHlvNTVhT0JHbzZQSHA0UzVXZGJoN2FqRGxkZ2doeWIwNUJBUWVQd0NiS0w1Q3ZSLVBHM1R0VHR4T25PTUtWb1JESDVWUEjSAcYBQVVfeXFMTlNER1ozSWZaeEp3b0ZBVktrQjl6WjM4bVdkek5nNEhsNjB2RDFUWUJPU3p4LXE3LWVLX0hVanpzd3ZPQWJnSGtSWnNyWGJjcFpLY3BzZ0tqSENSQjVSOFNBUE0tOE5rcmZNQnVEeTZieV9oTXpsQ0VhVl90MkZmMWJlek1uSDBsaHItQWhLZUt1UnZlUW9ZU18wLXhHSkRRVFJFZnJ4S2JKRFV0azY3OFByeHYxano2R2VLbmVkenBHeHgzWEp3?oc=5",
    "source": "Berita Harian",
    "date": "2026-04-21T07:00:00Z",
    "lang": "ms",
