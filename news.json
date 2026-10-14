@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-14T16:00:34Z",
- "count": 291,
+ "updated": "2026-10-14T21:00:59Z",
+ "count": 292,
  "tags": {
-  "入管・摘発": 195,
+  "入管・摘発": 196,
   "市民権": 40,
   "無国籍": 34,
   "子ども": 22,
@@ -24,9 +24,9 @@
   "sabahnews.com.my": 12,
   "tvsabahnews.com": 11,
   "Malay Mail": 9,
+  "Berita Harian": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
-  "Berita Harian": 7,
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
@@ -102,6 +102,23 @@
    "title_ja": "2026 年を通じて 5,915 件の PATI が原産国に送還される",
    "summary_ja": "",
    "first_seen": "2026-10-13T13:00:08Z"
+  },
+  {
+   "title": "750 PATI Filipina diusir pulang",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDZCZ2lsQUozODhLdWl1TnVDclFKVW1OR2RfZUpKV0Y0Wkpndzc5TnFjR3lJYkhibGlNVmlNeHNTQ3ZTMDFBQU5GaUxIOTlTbGhUblNMQXJDTG9xUGZ2OXFDOWtoSDY4UnFXRGpxVU1QTnIyOTlHZWEtY3lBenU0cnBaUXNndlBOVHZvZtIBkgFBVV95cUxObk9iNERXREdXYUhPOEpKcU1jT2RXQ29VYWVURWZSNHoxUzhFUDhvZ3FTSDRfLUF6WVpsOUR5aWl0ZjVUalIySzFrZTZSeVlPMWhDZmNXdUxuQWNDLWw0aTZyN3Z0a1ktZVNXQS1FdmRIUXJ3OXRQNVRXcDVPLUJPZXVPQk5yN0NhblhITHV6bU5JQQ?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-10-12T13:45:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "ec72f3bb3d74",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "750人のPATIフィリピン人が帰国",
+   "summary_ja": "",
+   "first_seen": "2026-10-14T21:00:57Z"
   },
   {
    "title": "84 Undocumented Migrants Held In 15 Immigration Operations In Sabah",
