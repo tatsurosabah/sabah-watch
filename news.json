@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-16T15:37:53Z",
- "count": 294,
+ "updated": "2026-10-16T20:08:30Z",
+ "count": 295,
  "tags": {
-  "入管・摘発": 197,
+  "入管・摘発": 198,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
@@ -27,10 +27,10 @@
   "Berita Harian": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
+  "Astro Awani": 6,
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
-  "Astro Awani": 5,
   "Sabah News": 5,
   "Harian Metro": 5,
   "THE MALAYSIA PRESS": 4,
@@ -69,6 +69,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Imigresen Sabah hantar pulang 140 PATI Indonesia",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2k3MDFOQkNaei1UM1I2amVaSUhlMGVWMEs5MmROdkFISjdoWWxSbE9yVE5RcFc5alZLZk5nS2p5VEVBWmYycDQxOHdRcmo2ZXJBOEo0Z0hFbUc3YTdPQ2sxcU0yUjRGWGdtbUR1c2lQcW1yUlMtME1XSzBmQnZPRDFqLTdsZlZm?oc=5",
+   "source": "Astro Awani",
+   "date": "2026-10-16T16:17:01Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b2072a88c976",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、インドネシア人PATI140人を帰国させた",
+   "summary_ja": "",
+   "first_seen": "2026-10-16T20:08:29Z"
+  },
   {
    "title": "Imigresen Sabah pindah 140 PATI Indonesia ke negara asal",
    "summary": "",
@@ -2297,7 +2314,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -2926,12 +2943,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3082,12 +3099,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -3778,7 +3795,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
