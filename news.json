@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-17T09:45:43Z",
- "count": 297,
+ "updated": "2026-10-17T14:29:32Z",
+ "count": 298,
  "tags": {
-  "入管・摘発": 200,
+  "入管・摘発": 201,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
@@ -23,8 +23,8 @@
   "sabahnews.com.my": 13,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
+  "Berita Harian": 9,
   "Malay Mail": 9,
-  "Berita Harian": 8,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
   "Astro Awani": 6,
@@ -38,14 +38,13 @@
   "Portal Berita RTM": 4,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
-  "bernama": 1,
   "Borneo Daily Bulletin": 1,
-  "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -120,6 +119,23 @@
    "title_ja": "サバ州移民、140人のインドネシア人PATIを出身国に移住させた",
    "summary_ja": "",
    "first_seen": "2026-10-16T10:11:47Z"
+  },
+  {
+   "title": "Imigresen Sabah hantar 1,071 PATI Filipina pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0Rvck9uWU1aRFFWQm1IYmFGcWdtZEFMLXVrdXc2UFhCY1phZGhGRFBjQkJ4SkRNVWp6R0hJckJRWXJ0UElYY2pEYnZ4TkhTTHdHeUdtVHVNaC1xTjBFV3lWdlo1NFdRQzJtcC0tblZzMnFmTWQ1TW5CMG5wOEQ5Z1AxbHloVTBkNkgtRjJnamhWU052ekV3N253SXJlaHo4amRiUHlMMUx0MXg2MnNEc09Ub1h1ZmZL0gG-AUFVX3lxTE1uSXhnTF92SGNPTk1fdVJwWjUyQWNJX1FoUWdNZGJtYzRrbTU1cXFhRXB2aUZCS2xNeGhXSlVGZFUzYkhEdko4UDVVRld3UUdkRWVmUUgtUWZnRUlTXzJkUDBXVHR6a0txb1RsLWhwX2tfU0t3bjNTWnFRR0ZTY01URFgxQU1BNU9udTE0LTVGYjMzV1BUM0NoQzhlMnl2M3VwcFR1WmlobzVzV1I5aGx0b2ZmcWUwWkZaRFZOMEE?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-10-14T13:22:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "7ee595c23fda",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、1,071人のフィリピン人PATIを母国に送還",
+   "summary_ja": "",
+   "first_seen": "2026-10-17T14:29:30Z"
   },
   {
    "title": "JIM Sabah hantar pulang 5,915 PATI ke negara asal",
@@ -244,7 +260,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -328,7 +344,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY29TbWFRRmotQUpyZDZraHBJbUFOaUQxa0RhVHlabF8zbDlLMjRBc3BKVTJoSDQ1VWhISUlxUTYtUFdyRkx2U0FoS1NVNGRRRHB6VldfTVhKdXpBaEpiUWgybGNwckhydXVwTzJXUUhJRkQ1bzZzaThuaC1xbHF1bmo0NzdmWXNzTE5oWjdiSEVnNzZGQlVZT0dRcGk1bHJwN2dIY2RFSGttUlA3T0E?oc=5",
    "source": "Sabah Media",
-   "date": "2026-10-06T23:30:00Z",
+   "date": "2026-10-07T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah tanpa kewarganegaraan",
@@ -465,7 +481,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbFV0U3NpMnpfR1FxSXRQZnozSGI4M3UxaGxoRlJqT09vQnZRd3hxNTU4RmNYN3R5Mk4wQzM3VExFYmd3UFluQkRTMWExcjhhdDNWYS1hdEQ0NldkREg4TEpERWRxYm9QQUR1T1dUSE9aVHJoNHQycmItUTBOY3hlLWptNjJOakkxSDNHUEYzMm1kUFhwaHZsZUUtUElyNXY4T1N6NFU0UTJKRWPSAbABQVVfeXFMTThieW9vZG1ldkFYODVNdEljTmFwRjdQVXBIQW9LSWdEa0M0djJEcTJTLUQ0T0RDQnF4M1ZDMHVmTUNVMGxzNTJFOU5JcVJEd3hYaDdPN2N2Sko0SzBUa1ZjdVpaSnVaQ3lkcXYxWllHMzVSMW9qQ2N5Z1l2MzAwQmE4Z2VqN29HbjNFWTJEcFVxOXc1MUZURjQzMF9XeXpFT2haOHJtdGlBNXhaZzdXUFY?oc=5",
    "source": "NST Online",
-   "date": "2026-09-29T09:58:50Z",
+   "date": "2026-09-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -663,7 +679,7 @@
   {
    "title": "Lima negeri kegemaran geng seludup PATI",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1HcE9XUGJYN3R5RW51a2ZNVGFnTjNlVmdDVS1WdVhmX0FZZ2lxREYzQUZpdTVVYnhUVVRoYk5zVUtlVmR2UjY5cEwyUWNockNmVmw0RGY4UmZGNTVoQzVlVG5fR2N0NkFMdXZsOWJXbk1yNW14dlBncGExV1IxVm5qbVlFMDV2VW5DSG85YnM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1HcE9XUGJYN3R5RW51a2ZNVGFnTjNlVmdDVS1WdVhmX0FZZ2lxREYzQUZpdTVVYnhUVVRoYk5zVUtlVmR2UjY5cEwyUWNockNmVmw0RGY4UmZGNTVoQzVlVG5fR2N0NkFMdXZsOWJXbk1yNW14dlBncGExV1IxVm5qbVlFMDV2VW5DSG85YnPSAZYBQVVfeXFMTVl1MTJaYk1maEplQTg1SUQ4Vk5kb0dCZ2FDVVpoOGNkZ1g1UU5NSUVvYmtXRHFWOWEwbDliaFlNajFUaVJZY1g1djk0b1g3QS1jRXNkaFkybVRPd29lSWdiYWhwUk5rbnhGRmFOWXh5dEhseUN2YXRSdDYtN2dRcURTVkhSUWdjaWVGLU5YRTNVSm9VM0RB?oc=5",
    "source": "Harian Metro",
    "date": "2026-09-17T07:00:00Z",
    "lang": "ms",
@@ -2696,7 +2712,7 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
     "入管・摘発",
@@ -2805,8 +2821,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -2964,9 +2980,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3026,7 +3042,7 @@
   {
    "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXfSAa4BQVVfeXFMTklja3F3VVhHbHQ3MlR2dnU0VHJVT18yLUNaVVFzTjVzWGRJV3pydVBjYUc4UTBWS19nWjExNUxKY09PRGhlU2wzQjRJTHhiU2l5QjdOaG1ZSVk0cUJyZzd6UHVuYldWclVhMlh2VnlLdGx5NVNRQzNWVW5TYWppMVJwQV96Q2J3QWllclMyQU8yM1luYWZTLTFLM21HZ0JoM2JvY2pOSXRuYU9TaEdn?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-14T07:00:00Z",
    "lang": "ms",
@@ -3120,9 +3136,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -3199,7 +3215,7 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
@@ -3207,8 +3223,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "626eb193d46c",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
    "summary_ja": "",
@@ -3267,6 +3283,25 @@
    "first_seen": "2026-08-09T01:55:15Z"
   },
   {
+   "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
+   "source": "NST Online",
+   "date": "2026-04-29T23:21:47Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah stateless",
+   "id": "32fc62f917b2",
+   "tags": [
+    "無国籍",
+    "子ども",
+    "教育"
+   ],
+   "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
+   "summary_ja": "",
+   "first_seen": "2026-08-10T08:27:43Z"
+  },
+  {
    "title": "From sea gypsies to street kids: Sabah's stateless children fighting to survive",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3loclNubnl4MmNWWWFoVG1UY1FJakV3NWxKek8wZkNEWml3anVUOHlRQ0NVc1NjQm1HZmUwakVwOHVEU3Z5OWFHQl9fclh0aGU1WFFCdHc2RWg5QTEyd3lSaHJGQzNTOHJ4SjczLUl1bElsNnpZUGNpc1BmOUtSa0w4RHRoZV8zbmtlclRnVmlIN2E3WVJOa3BQcEtVSGdQMUNWc0NJckU1TnZQNlZZNWtIZnBTanVW0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
@@ -3300,25 +3335,6 @@
    "title_ja": "166人のPATIがフィリピンに送り返された",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "A classroom under a tree: Sabah's stateless children learning without schools or documents",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
-   "source": "NST Online",
-   "date": "2026-04-29T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "32fc62f917b2",
-   "tags": [
-    "子ども",
-    "教育",
-    "無国籍"
-   ],
-   "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
-   "summary_ja": "",
-   "first_seen": "2026-08-10T08:27:43Z"
   },
   {
    "title": "Undocumented children in Sabah trapped by stigma and denied basic rights: NGO",
@@ -3826,7 +3842,7 @@
   {
    "title": "Arrest of stateless teen in Malaysia highlights Sabah’s citizenship crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRGNFVDUTlLVnVzcHAxZXlsRU5sSWZzcXllUFNXeWc3Rmt2bmdHaXdlMkxQbXV1aHItZUdpcW8wazhNM2Ftc2lZd053bk14eTVqOU5tRktLQWl2WEE1T1g0QVltRzRaOXRWQlUtbjhMMTZTM2RxOEgwWVIzM285bjNiVXhONzU3RnNnYV8wdE9jRUN1a3JOVmVhT25jN0RRUWtXaEJOSEozak4zWDlud0x6aTh5SDZqOFpudlBxRkFHVHo4Nkp1T0ZfVF8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTRGNFVDUTlLVnVzcHAxZXlsRU5sSWZzcXllUFNXeWc3Rmt2bmdHaXdlMkxQbXV1aHItZUdpcW8wazhNM2Ftc2lZd053bk14eTVqOU5tRktLQWl2WEE1T1g0QVltRzRaOXRWQlUtbjhMMTZTM2RxOEgwWVIzM285bjNiVXhONzU3RnNnYV8wdE9jRUN1a3JOVmVhT25jN0RRUWtXaEJOSEozak4zWDlud0x6aTh5SDZqOFpudlBxRkFHVHo4Nkp1T0ZfVF_SAcwBQVVfeXFMT2NpTmZ0eGpDdEtULTU4UC1MZS1wd2VtekNZdjNfZmFIVFI0QzdTTV9jbklxV2NpOFVKUkpXZi0tWnNtdDZzbE9YZGxWUTZWQndsRUY2aDBJME5uTjJqRTgwRmVDN0YwWHVTZENHYzRWT0ZaZE5BMEQ4SW5wWVI1ZkpyMmstY2dSMmxXdkQzc0U0MHRkSVh0bW1PRFB3SHk4NXkyM0w2cDg4QVhaOFNRMmlZV2RFYzZPQVJzb3pmTm01MWI1TDNpSDV1T2Fq?oc=5",
    "source": "South China Morning Post",
    "date": "2026-03-16T07:00:00Z",
    "lang": "en",
