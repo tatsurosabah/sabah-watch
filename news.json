@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-16T20:08:30Z",
- "count": 295,
+ "updated": "2026-10-17T01:42:10Z",
+ "count": 297,
  "tags": {
-  "入管・摘発": 198,
+  "入管・摘発": 200,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
@@ -15,14 +15,14 @@
   "ロヒンギャ": 2
  },
  "sources": {
-  "Sabah Media": 46,
+  "Sabah Media": 47,
   "TV Sabah News": 40,
   "Daily Express Malaysia": 23,
   "NST Online": 18,
   "The Star": 14,
+  "sabahnews.com.my": 13,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
-  "sabahnews.com.my": 11,
   "Malay Mail": 9,
   "Berita Harian": 8,
   "sabahnewstoday.net": 8,
@@ -31,20 +31,21 @@
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
-  "Sabah News": 5,
   "Harian Metro": 5,
   "THE MALAYSIA PRESS": 4,
+  "Sabah News": 4,
   "Sabah Post": 4,
   "Portal Berita RTM": 4,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
-  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
+  "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -69,6 +70,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "140 PATI warga Indonesia dihantar pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5fcjJDSThQYlZ2V1g5U2xYSWExREVpaWhNb2t0X0dkeW5TVVh2eVY3UFF2YzR1anoxbGJNTmlsMlZJX09jZXhsemk0aW15ZnpIR21aMURVQ0lhakpqZWdNbXhET3hsRENrRmRqY1luZTlOWWdISm5kNWdkSXlmVkkydkQwQUtzeklXb0lqV2J2MUZK?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-17T00:37:36Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "058cbf0c4839",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "PATIインドネシア国民140人が母国に送還された",
+   "summary_ja": "",
+   "first_seen": "2026-10-17T01:42:06Z"
+  },
   {
    "title": "Imigresen Sabah hantar pulang 140 PATI Indonesia",
    "summary": "",
@@ -226,7 +244,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -258,7 +276,7 @@
    "title": "Ewon Bangkitkan Risiko Keselamatan Kehadiran Pelarian, Pendatang Asing Filipina di Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR1lwaU1NaGZydEtqM0ZtTFlqUVBmOUNBb0t3UU9nbW9Gb09NdVAxdkhJdENXb2k5UFVXZm9VRWg0YlN4QVJyNEo2bnpYMUxlTTN1VXY0YVdnQWxqajZkSzZZcXdzM2ZhMGZCNXpjY0NyQ0NtX0J5bUYyT0ZWb3U0TEZMOG5oTXNFNGlsQjlKeUlrd3M4bEFLWVdtSWpMUkZwRWIyZWMtY0NfTHp4bE03MDd6UQ?oc=5",
-   "source": "Sabah News",
+   "source": "sabahnews.com.my",
    "date": "2026-10-09T08:57:44Z",
    "lang": "ms",
    "origin": "news",
@@ -694,7 +712,7 @@
   {
    "title": "Lack of political will prolonging Sabah's migrant problem, says ex-CJ Malanjum",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMWdOTmVhc1pveEx3WXJOUER2M183Q2RoWjh1N2NKR1NCTl9zMWVJNmlhcXVZZ2NrWDdVemFkdWNNeDliNnNwMU4xMEx1QURUYXlicjUxdkg3U2xIQ0VnUHZfZWp6dnZlTUp3SDRlUkhXbENPUWVBU0pUczhTdHZZZTNqaWY1VFJvOG14d2VlaWtWZ2NsN3d0NzAyVWRYbUdNNFVSNGFzWEtLNGRDY0RjbWZEXzFzQdIBuwFBVV95cUxQcmEwQW51SFNnUzBwX3F1dVlFSjUtdURwRWdiYTI1dUpOQmE3Z2lxdlJLMW9GWmp3VDZtckJOMWVSY09Nam9YbzRXR2NjUTZRR0piNzd3SE8zY2FxcDJ2UDJXdXJBSEIxNkpHN2VTSmd5bHYwd0c5eUVZVU53SXBzSkQ1MzhiVHBuY1lXSHFHWkR3ZmpuMkFQMEVzckZrZVVKS2xRSVRlZE10UF95OWwxYXNUNkNSVDFVUjVn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX0I2anVoSzU4R25zb0s0cjloUkxnSkVsT3R2azc3UFNvZmZucVBVZXZZMldnS2pLNWhSRnNGRmFNM1phQlZDczQyRzRrTndWVzd0WjFKRms0S1BmSk42elBZMjdBaW5udUxwWlF5S29MYVRJeHRjR2NKdHc5ZU11QnFEN1R4MHhVU25LYk1RQWFFZEdzdEt4bE5QUVg4TDY3OHhzbEloSjdXbFFJcDAzNS1ZbmtVa3p0dzZNT0lhdkhGTzNjTk9CTNIBuwFBVV95cUxQcmEwQW51SFNnUzBwX3F1dVlFSjUtdURwRWdiYTI1dUpOQmE3Z2lxdlJLMW9GWmp3VDZtckJOMWVSY09Nam9YbzRXR2NjUTZRR0piNzd3SE8zY2FxcDJ2UDJXdXJBSEIxNkpHN2VTSmd5bHYwd0c5eUVZVU53SXBzSkQ1MzhiVHBuY1lXSHFHWkR3ZmpuMkFQMEVzckZrZVVKS2xRSVRlZE10UF95OWwxYXNUNkNSVDFVUjVn?oc=5",
    "source": "NST Online",
    "date": "2026-09-12T07:00:00Z",
    "lang": "en",
@@ -2203,7 +2221,7 @@
   {
    "title": "351 PATI diusir pulang ke negara asal",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjdyT0lkSjY0eTdfSHVvd3BLRWJqQmxIcDVtdnpLcU9XLVZmNGx2a2ZFTmxaMWpJV2J6WTRJT28zNERYOTlhenhKM09xWkZldW5xREhMaHo5eDZiSkRsLXlxRWlKZ3ZCbDZGZUNsLW5JNU5WcXJ2c182ZXc3cVpBd1djNEJtQUJSVjA2NHM4VGxkZy1XWER1endlSm9rMHlBa0FyVA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3NBTTZ1RUlsNVk1bENGWDZISXphZDVMUjBONklzU1R5WFVMWE82Wm5SUVhhNTdVblpXMF91N3VIODk4LVRKOG5hdE5UR2JwRlpMNjBzRjBna05FNUQ1SmJiUmFibWNjZVZVVzVLM1ZkY2hhYzN1ak9XcjF1eEtkRUJweG10NmxRb2wtemF0QjBmd9IBlwFBVV95cUxQNzIyMlJRQ1NvdHhDVTVOVGVnZXNleElnTkdJcXRlaHoxWWhBaW1QRmIwUUM3bEZncG5FMm1OdmNxVHFPQklOT1RTQlZJNUpZZ1JxeThiMjdhcWRRTDNHakhIRi0xdU1IcF9NMFBxRzNBWE1qN3kzc0dqd1NlbE15bGFtbGwxTkNnNGtoWkFDTDBab1dSTzVr?oc=5",
    "source": "Harian Metro",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -4151,6 +4169,23 @@
    "title_ja": "ラナウでの入国審査で23人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "23 PATI Warga Filipina Ditahan Dalam Operasi Imigresen di Ranau",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVM1Mk1waFpORjA5eS1YWGtBWl9yeWtDSi1qQzdGMENoSGNTaVhyT2k4NS1nZUJvcjJyb1l3cGNKOFJXVmFPcVNrUzR5MnNFMlc1bk8yOThXa3pRUnVoWmQ2NDFBaXlVZ0tlUFAzdG9iOG9MbjlpSGpiM0FuUTFIMnM4Q2FfUHNiRk1yWkQ5S2p5cVk?oc=5",
+   "source": "sabahnews.com.my",
+   "date": "2026-02-03T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "1e85ac34481d",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ラナウの入国管理でフィリピン人23人が拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-10-17T01:42:06Z"
   },
   {
    "title": "Imigresen Sabah Tahan 8 PATI Sekitar Kota Kinabalu",
