@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:38:46Z",
+ "updated": "2026-10-18T09:58:28Z",
  "count": 300,
  "tags": {
   "入管・摘発": 203,
@@ -38,13 +38,14 @@
   "Portal Berita RTM": 4,
   "Sayang Sabah": 3,
   "Nabalu News": 3,
-  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
+  "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -294,7 +295,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -3327,9 +3328,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
