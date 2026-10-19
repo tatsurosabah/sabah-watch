@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T11:20:12Z",
+ "updated": "2026-10-19T17:48:57Z",
  "count": 302,
  "tags": {
-  "入管・摘発": 204,
+  "入管・摘発": 205,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
@@ -17,7 +17,7 @@
  "sources": {
   "Sabah Media": 47,
   "TV Sabah News": 40,
-  "Daily Express Malaysia": 24,
+  "Daily Express Malaysia": 23,
   "NST Online": 18,
   "sabahnews.com.my": 14,
   "The Star": 14,
@@ -44,6 +44,7 @@
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
+  "The Sun Malaysia": 1,
   "Borneo Daily Bulletin": 1,
   "Bernama": 1,
   "pressreader.com": 1,
@@ -71,6 +72,23 @@
  },
  "items": [
   {
+   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
+   "source": "The Sun Malaysia",
+   "date": "2026-10-19T11:48:22Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "d6726ec06f98",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、州全体の一斉捜索で不法移民169人を逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T17:48:50Z"
+  },
+  {
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
@@ -83,7 +101,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サバ州移民局、州全域一斉捜索で不法移民169人を逮捕",
    "summary_ja": "",
    "first_seen": "2026-10-19T11:20:05Z"
   },
@@ -98,7 +116,7 @@
    "query": "Sabah undocumented",
    "id": "83651b32fde1",
    "tags": [],
-   "title_ja": "",
+   "title_ja": "サバ州全域の作戦で169人の不法移民が拘束される",
    "summary_ja": "",
    "first_seen": "2026-10-19T11:20:05Z"
   },
@@ -115,7 +133,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サバ州では5日間で169人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-10-19T11:20:05Z"
   },
@@ -776,21 +794,6 @@
    "title_ja": "セパンのプロジェクト現場では173人のPATIが拘束された",
    "summary_ja": "",
    "first_seen": "2026-09-17T10:30:18Z"
-  },
-  {
-   "title": "Sabah sends 709 undocumented Filipinos back home",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVlEzZ0dkUC1PMHN0NTRhVE9BZ2pEamt0N3JHUEZ0TkVGaUlkaXZKdmhVUk5Md05PV1Vlc09GMWtibEY4ZDhIOHUyV09LbXpuMGxDYmh3U3IxM2xCalppSW5ZYkNjVjRwWUV2N09YTHhNQlpWMkZNU0lLOUltaWxNaEhqd1ozWHMyUFBrWEFsN29mbER3eVZ3?oc=5",
-   "source": "Daily Express Malaysia",
-   "date": "2026-09-12T14:22:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "788698003448",
-   "tags": [],
-   "title_ja": "サバ州、不法入国フィリピン人709人を帰国",
-   "summary_ja": "",
-   "first_seen": "2026-10-01T11:53:19Z"
   },
   {
    "title": "Lack of political will prolonging Sabah's migrant problem, says ex-CJ Malanjum",
