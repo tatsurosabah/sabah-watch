@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-19T01:56:13Z",
- "count": 300,
+ "updated": "2026-10-19T11:20:12Z",
+ "count": 302,
  "tags": {
-  "入管・摘発": 203,
+  "入管・摘発": 204,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
@@ -17,13 +17,13 @@
  "sources": {
   "Sabah Media": 47,
   "TV Sabah News": 40,
-  "Daily Express Malaysia": 23,
+  "Daily Express Malaysia": 24,
   "NST Online": 18,
   "sabahnews.com.my": 14,
   "The Star": 14,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
-  "Berita Harian": 10,
+  "Berita Harian": 9,
   "Malay Mail": 9,
   "sabahnewstoday.net": 8,
   "Free Malaysia Today": 7,
@@ -32,19 +32,20 @@
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Harian Metro": 5,
+  "Sayang Sabah": 4,
   "THE MALAYSIA PRESS": 4,
   "Sabah News": 4,
   "Sabah Post": 4,
   "Portal Berita RTM": 4,
-  "Sayang Sabah": 3,
   "Nabalu News": 3,
-  "Bernama": 2,
+  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
   "Borneo Daily Bulletin": 1,
+  "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -69,6 +70,55 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
+   "source": "bernama",
+   "date": "2026-10-19T08:54:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "659d319328e5",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T11:20:05Z"
+  },
+  {
+   "title": "169 undocumented migrants held in Sabah-wide operations",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXZHelpPWUR6TWVCbUptblV1djVnM1d0cEFzNTJQRjctZER0WVZJNlJISUpKRUNFblZXQk1ES1hRV3Nnb3hOdm83MlIxd1R4ZTUyc1RPQ3VjQmxvRFJiLXJwd2kwVmtPWEY5UjF3QkwtdHM4eDlBQjJzVUd4ZlNucUljaElGZmpqVVlHbUtFb2ZvazdGSGU3YkZpWWZjY0RYN3c?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-10-19T05:49:56Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "83651b32fde1",
+   "tags": [],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T11:20:05Z"
+  },
+  {
+   "title": "169 PATI dicekup dalam lima hari di Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTBqSExRbnRMM2oycWpCZlp6eVAweTRhUUNST1ZRT2pOdDE3MjRlQ2stYWdzTjRESk1NMHcxUVFETnZ3bEZhN3U0RFJQOTZtalhSMEl3NGktUDR4bTVSMEFhYUtpaWlLQzR2SWFoUUN3dVdCeDRjdTdKWDRJUWV3MFBNeGx3NDZMMzAwTE1B?oc=5",
+   "source": "Sayang Sabah",
+   "date": "2026-10-19T02:25:46Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "a7d97c440432",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T11:20:05Z"
+  },
   {
    "title": "140 PATI warga Indonesia dihantar pulang ke negara asal",
    "summary": "",
@@ -119,23 +169,6 @@
    "title_ja": "サバ州移民、140人のインドネシア人PATIを出身国に移住させた",
    "summary_ja": "",
    "first_seen": "2026-10-16T10:11:47Z"
-  },
-  {
-   "title": "Imigresen Sabah hantar 1,071 PATI Filipina pulang ke negara asal",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0Rvck9uWU1aRFFWQm1IYmFGcWdtZEFMLXVrdXc2UFhCY1phZGhGRFBjQkJ4SkRNVWp6R0hJckJRWXJ0UElYY2pEYnZ4TkhTTHdHeUdtVHVNaC1xTjBFV3lWdlo1NFdRQzJtcC0tblZzMnFmTWQ1TW5CMG5wOEQ5Z1AxbHloVTBkNkgtRjJnamhWU052ekV3N253SXJlaHo4amRiUHlMMUx0MXg2MnNEc09Ub1h1ZmZL0gG-AUFVX3lxTE1uSXhnTF92SGNPTk1fdVJwWjUyQWNJX1FoUWdNZGJtYzRrbTU1cXFhRXB2aUZCS2xNeGhXSlVGZFUzYkhEdko4UDVVRld3UUdkRWVmUUgtUWZnRUlTXzJkUDBXVHR6a0txb1RsLWhwX2tfU0t3bjNTWnFRR0ZTY01URFgxQU1BNU9udTE0LTVGYjMzV1BUM0NoQzhlMnl2M3VwcFR1WmlobzVzV1I5aGx0b2ZmcWUwWkZaRFZOMEE?oc=5",
-   "source": "Berita Harian",
-   "date": "2026-10-14T13:22:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "7ee595c23fda",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局、1,071人のフィリピン人PATIを母国に送還",
-   "summary_ja": "",
-   "first_seen": "2026-10-17T14:29:30Z"
   },
   {
    "title": "JIM Sabah hantar pulang 5,915 PATI ke negara asal",
@@ -294,7 +327,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -3321,7 +3354,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFZTWDRXNld3X1VxaENndUhVUU52WnB3bDdfQWFuOXZzcWhHX2hEcHp2WVpwTWdHMEF2bENVOGtURTIwSks0RDdoV3JjeVFuWEVsMldRRWFYeHZxbFFIZHFUTnNjeFJ5ekluS3dkem1sanRfTGJudkM1Z1pyR0w0NlhWS0lscG1GdjRNTkxEX0VUZW4xTU5PcmpSNy1KYmk0ejFKbGNxb093c0VBQzRQLTV1Tm1jZlFFMjlQcHFoWdIBxAFBVV95cUxNZ1d1RWJYVThrQXJFS1JKRXozallraDE0TmN1aGxtQldBY1dkN3lEMDhLOHJXNTliQzhsUHpNT2RBdmt2NXVYNUI3NTNHUl9nWkNUd3ZqU3FkOWU4am9lV0Vld0lacUlxRnNpd3NHcHRQYXJoT2lpTEpfNkF2MkZPZk1DTktEOWtBU0RjQ19CY1R6V3RvVTRWdjEtRTkzUC1lcVNiSnhzMTZkQUZwTldCTDd4UkFSNlQtT1BNclh1ZGNKVnVk?oc=5",
    "source": "NST Online",
-   "date": "2026-04-29T23:21:47Z",
+   "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah stateless",
