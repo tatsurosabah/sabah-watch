@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-20T15:52:35Z",
- "count": 303,
+ "updated": "2026-10-20T20:56:08Z",
+ "count": 305,
  "tags": {
-  "入管・摘発": 206,
+  "入管・摘発": 207,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
   "バジャウ": 14,
-  "難民": 12,
+  "難民": 13,
   "政策・政治": 12,
   "人権・NGO": 8,
   "医療・福祉": 3,
@@ -33,10 +33,10 @@
   "Jesselton Times": 6,
   "Sabah News": 5,
   "Harian Metro": 5,
+  "Portal Berita RTM": 5,
   "Sayang Sabah": 4,
   "THE MALAYSIA PRESS": 4,
   "Sabah Post": 4,
-  "Portal Berita RTM": 4,
   "Nabalu News": 3,
   "bernama": 2,
   "Utusan Borneo": 2,
@@ -44,6 +44,7 @@
   "The Vibes": 2,
   "Buletin TV3": 2,
   "Malaysiakini": 2,
+  "Times Kuwait": 1,
   "The Sun Malaysia": 1,
   "Borneo Daily Bulletin": 1,
   "Bernama": 1,
@@ -71,6 +72,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "UNHCR, Saud Al-Nasser Al-Sabah Diplomatic Institute sign MoU",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0VKWFBBNXFHTjRJcHJPdjdsd0YzUGxETkRISkNuUjhCZURhbm5OU0hVR0drZ3lHSC11eUFGQzgtU2NaSGdtbXFieXFNYTFrakM1c3lwcGZ4dnY5elRRZEpURnBUS1dya1NCMF91QXRaQXVfNWg0dnVtRUNlbDc0TEJNemR4QlhWVmVYRw?oc=5",
+   "source": "Times Kuwait",
+   "date": "2026-10-20T16:32:19Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah UNHCR OR asylum",
+   "id": "c85666eab296",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "UNHCRとサウド・アル・ナセル・アル・サバ外交研究所が覚書に署名",
+   "summary_ja": "",
+   "first_seen": "2026-10-20T20:56:07Z"
+  },
   {
    "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
    "summary": "",
@@ -3864,7 +3882,7 @@
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
@@ -4749,6 +4767,23 @@
    "title_ja": "サバ州の移民作戦、タワウで86人のPTIの殺害に成功",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "JIM Sabah hantar 397 PATI pulang ke Indonesia melalui laut",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEhQdDB6eDgyU0IzWHQ2WWUyNFZueXhDMEpfenYySmxQRFZEeWt3Vm1xVzdvck5rUnpZbGx3eUQ4TEdpMFZZYjZ3Tld3SkNFR3JqMXJyWnNncS1ZTXp1a2RMdjJYdXNUT1JrR3k0cXNRZTRrNFRIUkRoT0EtUUZYYkI1ZjQtOURTczUydGxFWlZhNWl0eFU5ck5yS2x4T0JMMjF1NkcxUVpFVXBxUlp0N1MwQWI1VklrZkJiYUZfQVR2RGc4cXViTUhVaEM0Nlk?oc=5",
+   "source": "Portal Berita RTM",
+   "date": "2025-12-05T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "9aa3a7f00cb0",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州は397人のPATIを海路でインドネシアに送り返した",
+   "summary_ja": "",
+   "first_seen": "2026-10-20T20:56:07Z"
   },
   {
    "title": "17 PATI Ditahan Dalam Operasi Khas di Sandakan",
