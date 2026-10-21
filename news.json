@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-21T02:07:43Z",
- "count": 305,
+ "updated": "2026-10-21T10:40:19Z",
+ "count": 304,
  "tags": {
   "入管・摘発": 207,
   "市民権": 41,
   "無国籍": 34,
   "子ども": 22,
-  "バジャウ": 14,
   "難民": 13,
+  "バジャウ": 13,
   "政策・政治": 12,
   "人権・NGO": 8,
   "医療・福祉": 3,
@@ -26,9 +26,9 @@
   "Berita Harian": 9,
   "Malay Mail": 9,
   "sabahnewstoday.net": 8,
-  "Free Malaysia Today": 7,
   "Saluran 122": 7,
   "Astro Awani": 6,
+  "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
   "Jesselton Times": 6,
   "Sabah News": 5,
@@ -326,6 +326,23 @@
    "first_seen": "2026-10-11T11:39:40Z"
   },
   {
+   "title": "Pengarah JIM Sabah ketuai operasi, 84 PATI ditahan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMi10QkE4LXJvQTl1SXU2MVhid0NZSlFGM1VUV2RaalI2NGJBX2o4WXpuNGd0TGpYZzhfYTZCX1lOT085VnpkNm5RMVdNRHlaZHNVV2pwdUQ4d2FUUFRzS1ctVmVLQXJxd0YtN18tNDNmcVdJeWpWLUNuRUFhX2lqWmxPZnNRVGwxRE5XRg?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-11T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "c9a55e0e9c92",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州JIM所長が作戦を主導、不法滞在者84人が逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-10-11T02:21:15Z"
+  },
+  {
    "title": "Budget 2027: New immigration quarters planned for Perak, Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORm5sQl9DQlgzYmJldFdLNWp3LWFsVlFhRG1jWHpTWXdqb3llZnUxUVFYZHVoeDV5a2JWcE9ZRllWQUxVSmdST09jbVozUDE2UEpKaWpDQk9NZUlfQ0VaVlM3LVZzZFFrVTFER1owa3VmbmNaLTdiTGlSZFc0aUhPSHpLUkJqUG15Ukp0anhLRHBrbWp0MnFTYS1oSWRsSDJHNWJ3a21HV0kyYjYtUXZkSHJpNEw1TkNoNlHSAb8BQVVfeXFMUF9Ed3lxSGZucVpjNlBvWWNXRy1CY1hhOHRLWmtDR2hLQ0pmU3BIUGx6TF9XZ2hCdGZwMUZ6cDI4Sm5zdDVUS1pCZ3ZtZFVsVE1oOTQ4bl9uRERMb0p5OFdqQzNIZWt2eDlUdEhzMWJLbzdrbktyMXRNWThqb3hRUlZ5Z3lHZDZQSVFoZHVQZFpsdFJIbUlqQnVuNExad2llZUNGd1dnT1JmMVQ0VmdQMU1RMzdMcUhmRmF4VEE5NWc?oc=5",
@@ -339,23 +356,6 @@
     "入管・摘発"
    ],
    "title_ja": "2027年予算：サバ州ペラ州に新たな移民宿舎を計画",
-   "summary_ja": "",
-   "first_seen": "2026-10-11T02:21:15Z"
-  },
-  {
-   "title": "Pengarah JIM Sabah ketuai operasi, 84 PATI ditahan",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMi10QkE4LXJvQTl1SXU2MVhid0NZSlFGM1VUV2RaalI2NGJBX2o4WXpuNGd0TGpYZzhfYTZCX1lOT085VnpkNm5RMVdNRHlaZHNVV2pwdUQ4d2FUUFRzS1ctVmVLQXJxd0YtN18tNDNmcVdJeWpWLUNuRUFhX2lqWmxPZnNRVGwxRE5XRg?oc=5",
-   "source": "Sabah Media",
-   "date": "2026-10-11T01:31:15Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "c9a55e0e9c92",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州JIM所長が作戦を主導、不法滞在者84人が逮捕",
    "summary_ja": "",
    "first_seen": "2026-10-11T02:21:15Z"
   },
@@ -3218,7 +3218,7 @@
   {
    "title": "156 PATI warga Indonesia dihantar pulang",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ2lraDducHNmUGNSQk5ZdGNydnl3ckZ6ZE5faXBqSF9ZblFiQzVfTmY0ZzNQaHFRTFV4N0tlYXVuUDh3cWNHcjc4M1Awb0lyMFhCSmVhMVBRdHBpRW1jNmhsVDBMbmJmckFHakg2TmVoUEMzRkl1ZnJGSko2NVFlZmg2MWZXTWJPVG5mX0x2OTZXVUE0Q2fSAZsBQVVfeXFMT1J2cWdZc3Y3Yy1jcnp4SEtqMmE0VkNyYzNqdGRvaFRfcWo0czRraGwwX1d4QmtGX2ota0Y3VG05QUVKcUVIbDlEaTFRNzg2aTBtaTNNaUprZVdiMEZ1c3k1M2JraWVMX05OQWtoQnRZTHMxbGREOUMwOVl3SHNidFBrbDM1b2l0aEJ4b2NBa2ViT0FqUnFVTjE1Qms?oc=5",
    "source": "Harian Metro",
    "date": "2026-05-11T07:00:00Z",
    "lang": "ms",
@@ -5275,23 +5275,6 @@
     "入管・摘発"
    ],
    "title_ja": "ラナウ入国管理で中国人外国人43人を逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Building hope and belonging for the Bajau Laut",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLTFabnlTRlJQUXZqLWxRN1VFSUZyV1pKT3BUbWN1RmNVSFVoUExtZk9rZV8xY2RSRE9KZURKMDNTLXhhVDMwTWxDSkF6MjdjVmU2QUFYU1Q5TnJrZjNhOW5qM2l4cl9LQjV2YU96eTZBam9jdzdNV2dlY3dEWVYzaHhxZF9BWVk5UjQtb0t5MW5MT2JmNFozR3FjOG50a054UFBJYXV1N0tBaXc?oc=5",
-   "source": "Free Malaysia Today",
-   "date": "2025-09-16T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "b87baed0709d",
-   "tags": [
-    "バジャウ"
-   ],
-   "title_ja": "バジャウ・ラウト族に希望と帰属意識を築く",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   }
