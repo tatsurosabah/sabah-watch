@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T10:42:50Z",
+ "updated": "2026-10-22T16:07:38Z",
  "count": 308,
  "tags": {
   "入管・摘発": 210,
@@ -3134,7 +3134,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
