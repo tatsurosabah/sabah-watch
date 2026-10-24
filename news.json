@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T14:55:51Z",
+ "updated": "2026-10-24T19:52:43Z",
  "count": 309,
  "tags": {
   "入管・摘発": 211,
@@ -17,15 +17,15 @@
  "sources": {
   "Sabah Media": 49,
   "TV Sabah News": 40,
-  "Daily Express Malaysia": 23,
+  "Daily Express Malaysia": 24,
   "NST Online": 18,
   "The Star": 15,
   "sabahnews.com.my": 15,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
-  "Berita Harian": 9,
   "Malay Mail": 9,
   "Astro Awani": 8,
+  "Berita Harian": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -358,23 +358,6 @@
    "title_ja": "2026年を通じて5,915人のPATIが本国に送還 – サバ州移民",
    "summary_ja": "",
    "first_seen": "2026-10-18T01:38:42Z"
-  },
-  {
-   "title": "Imigresen Sabah serbu kilang gaji PATI, 39 ditahan",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFk2WUdxcUhKUXE4czZvc29SOVFOUVhfU29oNURMM3BOdHJWVkJDc0x6aV9Eb18xaXhibzBHeXVjV0RjZ3MtWC1iQ2g3WEtEcDFLWWVhWWY5b3E5S3RjRGY2SHZ2dXVROWlKNEtOZnZiUDNOdXA1U0tNXzRBTGIydTRmMjRJTWdZMG0wYnZMc1JwMjBTazNyOHZETVZ6NG16RmRTSlRMREk3SHdaNUJub0FvYlYySnFLUVZkRVNrWlQzdGQ4WmdyYTljVlhBZVB3Q1HSAasBQVVfeXFMUHkyRkhuWExFX2M0UmJvcnJlRElXU3dYSnVXVi1kUGdBS01vYzFJUVh4UFAxVVJDQUg1b1N1S2hFem9kczRFYTZFUlRTTHJTSS1wNEVZWnZNR05aLUNpdmplbUpUUy1ReGVWWXhtSFNsVUlzUFZvN2ZUOHQxdVBZbHU1Q3F0OGMwdjJtaGRJeWRLQUgtamVZaGJudGdiTm52SW85V1BFOXV2bW9J?oc=5",
-   "source": "Berita Harian",
-   "date": "2026-10-13T10:53:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "0518f4fb86cb",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局がPATI給与工場を襲撃、39人逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-10-24T09:52:45Z"
   },
   {
    "title": "750 PATI Filipina diusir pulang",
@@ -1864,6 +1847,23 @@
    "title_ja": "サバ州の5つの地区でのJIM強制執行作戦で不法滞在者130人が逮捕された",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "Immigration officer killed in Pan Borneo Highway crash",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVHZ0WjNDQ1BUMkdtaGlFZUR4dV9JM2YyV3h6TkdWYjY2V2RIenA5Zkc1b20wR2JwMHdkRWhZLXloZ1JHci1PdlZDVVljc19CTmVDRGtjMDNQWGU5dk15dEVoRnJaTlYxNjQ2b0JGc2NkNDVNekdXc3dRMmZFNkZPU2k3VUpsYzhMYVVzUkRyS1EtUmZpNzhSa3YxTEFuSlFm?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-07-24T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "3ae93ba9d8e5",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "パンボルネオ高速道路事故で入国審査官死亡",
+   "summary_ja": "",
+   "first_seen": "2026-10-24T19:52:42Z"
   },
   {
    "title": "130 PATI Ditahan Dalam Serbuan Imigresen Di Lima Daerah Sabah",
@@ -3502,9 +3502,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
+    "無国籍",
     "子ども",
-    "教育",
-    "無国籍"
+    "教育"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
