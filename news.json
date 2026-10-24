@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T09:52:45Z",
+ "updated": "2026-10-24T14:55:51Z",
  "count": 309,
  "tags": {
   "入管・摘発": 211,
@@ -15,7 +15,7 @@
   "教育": 3
  },
  "sources": {
-  "Sabah Media": 48,
+  "Sabah Media": 49,
   "TV Sabah News": 40,
   "Daily Express Malaysia": 23,
   "NST Online": 18,
@@ -32,15 +32,15 @@
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sayang Sabah": 5,
-  "Harian Metro": 5,
   "Portal Berita RTM": 5,
   "THE MALAYSIA PRESS": 4,
+  "Harian Metro": 4,
   "Sabah Post": 4,
-  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -48,6 +48,7 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -71,6 +72,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWtqT194MWtsN0J6YUJJNzlpbVRtNmVSOHAzUHdHcWhDNGJfbk9nVGRZYWd1ZXdnNUttcnEyUEhIUms5b2RYSkZkUjRHQ1lpV015VDZVNS1wd1dJbmdTZTlfWU1hTjhSRllzcGl5ekZ6eHNJVGEwMnJCY3FSU1ZCOHNjRGphZ0pqbXNpYnk4bkpRdVE?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-10-24T11:08:34Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "276baf4501f1",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "帰化したフィリピン人285人が母国に送還された",
+   "summary_ja": "",
+   "first_seen": "2026-08-15T12:11:30Z"
+  },
   {
    "title": "Sabah deports 285 illegal Filipinos from Lahad Datu",
    "summary": "",
@@ -194,7 +212,7 @@
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-19T08:54:00Z",
    "lang": "en",
    "origin": "news",
@@ -651,7 +669,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdFdleEQ0RVZuTWNucl9XcUtVR2dCd2lvZEFVLVVoejFLNUwxZUc5VkUyRWZfaFNTYkhKOEU4LXhZUC15M0JXLU1HeDZLa195QjNxWUg3QkZXY0Q0TWN5aFBnNFA0ZWoyTzVMNmRFVVhpaDhHM3NtdWh3XzdMV1RjdVJULUNJc0R5dDg2eTFtczk?oc=5",
    "source": "Sabah Kini2",
-   "date": "2026-09-30T09:59:29Z",
+   "date": "2026-09-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah tanpa kewarganegaraan",
@@ -2556,7 +2574,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -2658,7 +2676,7 @@
    "date": "2026-06-13T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "e48f0a90f072",
    "tags": [
     "市民権"
@@ -3185,12 +3203,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3246,23 +3264,6 @@
    "title_ja": "JIMは285人のPATIフィリピン人を帰国させた",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem9ZdW9sSlFHSXpKOUg5bHFMeU9hdGNyV18tZzd4YldkWDJnMmg2c2xLZ3lhOXl5MnhpUHN4c3gwQmtfay1UdXgxa0VGSVJUZ1Q5cmxxbF9IeTVaSEZqa0gydnRsSlhfakM2VWliczJHSGlHdkV5RFViTnJiWXJNLVIwRTBlT0FkcFRaVE56NmpnUlBsN2REYjhUSWlWUDJaazB4LVk0TXfSAa4BQVVfeXFMTklja3F3VVhHbHQ3MlR2dnU0VHJVT18yLUNaVVFzTjVzWGRJV3pydVBjYUc4UTBWS19nWjExNUxKY09PRGhlU2wzQjRJTHhiU2l5QjdOaG1ZSVk0cUJyZzd6UHVuYldWclVhMlh2VnlLdGx5NVNRQzNWVW5TYWppMVJwQV96Q2J3QWllclMyQU8yM1luYWZTLTFLM21HZ0JoM2JvY2pOSXRuYU9TaEdn?oc=5",
-   "source": "Harian Metro",
-   "date": "2026-05-14T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "276baf4501f1",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "帰化したフィリピン人285人が母国に送還された",
-   "summary_ja": "",
-   "first_seen": "2026-08-15T12:11:30Z"
   },
   {
    "title": "Sabah deports 156 Indonesian illegal immigrants in latest exercise",
@@ -3341,12 +3342,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -3446,11 +3447,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "summary_ja": "",
@@ -4037,7 +4038,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
