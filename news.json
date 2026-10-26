@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-25T20:02:26Z",
- "count": 309,
+ "updated": "2026-10-26T01:53:40Z",
+ "count": 310,
  "tags": {
-  "入管・摘発": 211,
+  "入管・摘発": 212,
   "市民権": 42,
   "無国籍": 34,
   "子ども": 22,
@@ -16,16 +16,16 @@
  },
  "sources": {
   "Sabah Media": 49,
-  "TV Sabah News": 40,
+  "TV Sabah News": 41,
   "Daily Express Malaysia": 24,
   "NST Online": 18,
   "The Star": 15,
   "sabahnews.com.my": 15,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
+  "Berita Harian": 9,
   "Malay Mail": 9,
-  "Astro Awani": 8,
-  "Berita Harian": 8,
+  "Astro Awani": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -72,6 +72,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "JIM Sabah Tahan 93 PATI",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VNXVIalFoa01aQTdiektXU0VOVzFid1ZISW9Tb0lEMlBNeHhZNkNOd2hGNzdqdk9aZFBKdzVWOXpMX09oNkNiamQzdXQtMkxOWEZZS1E0NWZkSHRy?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-10-25T20:13:40Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "320215b7d364",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ氏は93 PATIを保有",
+   "summary_ja": "",
+   "first_seen": "2026-10-26T01:53:38Z"
+  },
   {
    "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "",
@@ -279,7 +296,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUU5fcjJDSThQYlZ2V1g5U2xYSWExREVpaWhNb2t0X0dkeW5TVVh2eVY3UFF2YzR1anoxbGJNTmlsMlZJX09jZXhsemk0aW15ZnpIR21aMURVQ0lhakpqZWdNbXhET3hsRENrRmRqY1luZTlOWWdISm5kNWdkSXlmVkkydkQwQUtzeklXb0lqV2J2MUZK?oc=5",
    "source": "Sabah Media",
-   "date": "2026-10-17T00:37:36Z",
+   "date": "2026-10-17T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -296,7 +313,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGdjbU9OeXo0S2ctb1gzZUFQQnU3SDBXSm5fd1dQVGlDanMxU2l4RnFRTUhEbXMtRW53Ry11MXJ2VVNmc3VWMDlqd2txLWlVNHQtellHQWppOS1fMF9oLUlzQkZ4bFJWblVJNHg1UEhYN3d0ZW1iaURGQ25kSHBhUGVEMGVMOXNERno2eS1abjktRF9TdVdnMm83bkpJdw?oc=5",
    "source": "THE MALAYSIA PRESS",
-   "date": "2026-10-16T07:55:57Z",
+   "date": "2026-10-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -1919,8 +1936,8 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
-   "source": "Astro Awani",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
+   "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
