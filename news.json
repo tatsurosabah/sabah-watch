@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T17:42:01Z",
+ "updated": "2026-10-26T21:57:09Z",
  "count": 310,
  "tags": {
   "入管・摘発": 212,
@@ -2907,8 +2907,8 @@
    "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
-    "医療・福祉",
-    "子ども"
+    "子ども",
+    "医療・福祉"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "summary_ja": "",
@@ -3201,7 +3201,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3358,12 +3358,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
