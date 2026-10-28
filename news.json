@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T21:30:12Z",
+ "updated": "2026-10-28T02:40:39Z",
  "count": 310,
  "tags": {
   "入管・摘発": 212,
@@ -36,11 +36,11 @@
   "THE MALAYSIA PRESS": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -48,6 +48,7 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -212,7 +213,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
    "source": "The Sun Malaysia",
-   "date": "2026-10-19T11:48:22Z",
+   "date": "2026-10-19T18:38:45Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -464,7 +465,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -1799,7 +1800,7 @@
   {
    "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNA?oc=5",
    "source": "Malay Mail",
    "date": "2026-07-26T07:00:00Z",
    "lang": "en",
@@ -2590,7 +2591,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -3063,8 +3064,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3463,11 +3464,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "917dcdd3c5f6",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "summary_ja": "",
