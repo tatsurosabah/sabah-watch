@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:27:55Z",
+ "updated": "2026-10-28T21:55:19Z",
  "count": 310,
  "tags": {
   "入管・摘発": 212,
@@ -36,11 +36,11 @@
   "THE MALAYSIA PRESS": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -48,6 +48,7 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -246,7 +247,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXZHelpPWUR6TWVCbUptblV1djVnM1d0cEFzNTJQRjctZER0WVZJNlJISUpKRUNFblZXQk1ES1hRV3Nnb3hOdm83MlIxd1R4ZTUyc1RPQ3VjQmxvRFJiLXJwd2kwVmtPWEY5UjF3QkwtdHM4eDlBQjJzVUd4ZlNucUljaElGZmpqVVlHbUtFb2ZvazdGSGU3YkZpWWZjY0RYN3c?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-10-19T05:49:56Z",
+   "date": "2026-10-19T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -464,7 +465,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -1462,7 +1463,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -1651,7 +1652,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -2607,7 +2608,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -2860,7 +2861,7 @@
   {
    "title": "Sabah study shows stateless children excluded from healthcare, schooling and social protection systems",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDA1aHNlNWtEb1htVlo2U3QtVTNTS2t3NTh4YTBBSDhKRGVuRG94NW1FbjBiUHZGUTdsVDFraW9TSmpsWHlET3UwRTZRZG5GMjJIYzQ1Ri1ZekpJaXVmNE85WFQzcTRzdDlseHZLb3luRC1kbHl0WGVEdnkzSHdhXzhUNUxjcUFTNFhYdUljSGZCemFZY0lFTlphbjRZY0lPQWdCdm05RjFacGxsT0RkSkwtMnJGWmVKczNETkVhT1ZiaE1ndGRzV2lZWEhrR3RRYjlOSDlMVU1wc2lHZkNFc0l4TjhDamRSLTEtQ2cyZVc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDA1aHNlNWtEb1htVlo2U3QtVTNTS2t3NTh4YTBBSDhKRGVuRG94NW1FbjBiUHZGUTdsVDFraW9TSmpsWHlET3UwRTZRZG5GMjJIYzQ1Ri1ZekpJaXVmNE85WFQzcTRzdDlseHZLb3luRC1kbHl0WGVEdnkzSHdhXzhUNUxjcUFTNFhYdUljSGZCemFZY0lFTlphbjRZY0lPQWdCdm05RjFacGxsT0RkSkwtMnJGWmVKczNETkVhT1ZiaE1ndGRzV2lZWEhrR3RRYjlOSDlMVU1wc2lHZkNFc0l4TjhDamRSLTEtQ2cyZVfSAfYBQVVfeXFMTnVJMko3TU5ZV2RTTXZTNTZuOEZENW9pWEFuRm1CR3N6a0cydGMtMnBwYVlSb0x6TzZLSFg5ZmNLaEVIa2VMS3ZVaDdOWXc0cnZCYnh0UFBsY3VReUswN1NBbWRDZU1SaWlPTGRETEVoaFNFcXpZX0ZGbDM1bjFEQV9zMzNCa3QzYTd1T05lQ1JGSzZNTDY1NGd1R3lmR1l1N3NHZDBOOWtJWFFuZHdlQ21Rdm1FVm5FWXVqSkxDUVFqZnZWV0tHOFAwbUlZQXJKanhOb090LVprZ2tBNFFQdHRaMDVXV2dLcW9DVlhISGNLTU9qZ3Jn?oc=5",
    "source": "Malay Mail",
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
@@ -2904,11 +2905,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
-    "子ども",
-    "医療・福祉"
+    "医療・福祉",
+    "子ども"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "summary_ja": "",
@@ -3130,11 +3131,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3148,7 +3149,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3165,7 +3166,7 @@
    "date": "2026-05-22T01:28:06Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "60468cd2cc44",
    "tags": [
     "市民権",
@@ -3183,11 +3184,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3201,7 +3202,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3219,12 +3220,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3440,16 +3441,16 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "626eb193d46c",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
    "summary_ja": "",
@@ -3498,7 +3499,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
