@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:38:27Z",
+ "updated": "2026-10-29T22:03:33Z",
  "count": 312,
  "tags": {
   "入管・摘発": 214,
@@ -45,9 +45,9 @@
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Malaysiakini": 2,
+  "The Sun Malaysia": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "The Sun Malaysia": 1,
   "Borneo Daily Bulletin": 1,
   "Bernama": 1,
   "pressreader.com": 1,
@@ -72,6 +72,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
+   "source": "The Sun Malaysia",
+   "date": "2026-10-29T18:22:39Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "d6726ec06f98",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、州全体の一斉捜索で不法移民169人を逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T17:48:50Z"
+  },
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
@@ -243,23 +260,6 @@
    "first_seen": "2026-10-22T02:01:53Z"
   },
   {
-   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
-   "source": "The Sun Malaysia",
-   "date": "2026-10-19T18:38:45Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "d6726ec06f98",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局、州全体の一斉捜索で不法移民169人を逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-10-19T17:48:50Z"
-  },
-  {
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
@@ -296,7 +296,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTBqSExRbnRMM2oycWpCZlp6eVAweTRhUUNST1ZRT2pOdDE3MjRlQ2stYWdzTjRESk1NMHcxUVFETnZ3bEZhN3U0RFJQOTZtalhSMEl3NGktUDR4bTVSMEFhYUtpaWlLQzR2SWFoUUN3dVdCeDRjdTdKWDRJUWV3MFBNeGx3NDZMMzAwTE1B?oc=5",
    "source": "Sayang Sabah",
-   "date": "2026-10-19T02:25:46Z",
+   "date": "2026-10-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -1337,7 +1337,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -1497,7 +1497,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -1686,7 +1686,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -2520,10 +2520,10 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
@@ -2642,7 +2642,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -2939,11 +2939,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
-    "子ども",
-    "医療・福祉"
+    "医療・福祉",
+    "子ども"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "summary_ja": "",
@@ -2992,8 +2992,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3165,11 +3165,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3183,7 +3183,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3200,7 +3200,7 @@
    "date": "2026-05-22T01:28:06Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "60468cd2cc44",
    "tags": [
     "市民権",
@@ -3218,11 +3218,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3236,7 +3236,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3475,16 +3475,16 @@
   {
    "title": "MHO backs MyKAS card for stateless people to address documentation crisis",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1ZZZnRRZzBzbGFyOWliLUxoZUZUb0JFOGhrcW45TFhHS094MENGUmd1aGFGRHA5UENMbjcwQlp2NUN4czdidzc0RFpFRzQ1SmhsSENHdUdYTVZ0TDdWNnl0NllfZjNTUUNOcVFyNkJfdnhoaG16aE1rNkhqQ3h5YUFEVkpxYVpGYWJRTjFwY2YxdDBlWVhCR290WXIyZTZpSmtCTGliMElRcVFyT2h5ZEhMeXJRU09N0gG-AUFVX3lxTFBPaldObk9mUjVnQVNpRmJGZUJpVTItQ0dQcVpLS0hyVFotaThZeUw2QlZCRGNLTU1lUTJuVkROYXNSYThEWjM2cVp5QW1jTlN4ZkRLR1lMMUtHaUktVkRYd21YUWNOUHh4alh2RGxXRmtLbEY0V0dDbks5MlkwQmFEOEZ1NnVfVTVGZ3FrUG5uY3B3V0twcHQzRzdpc1RVSklnNThwaHpWTjd5by05dkRTY0NyY2hkcVptQVcyS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1E1bGZlZmlwRmd0dmdXVHdVSnUyaVRRanljYXJJRkJ4dE1lcUQyREZEZkJSNTN6eXFnUHlxSE1FdTNQLWdybk9ROEFKOFBIYnF0dFZUc1Z6Z3Radlh5ODRtVkNobXFNWkM5Y1BhVkdrX3VsaGVvbFJPZlFyaEFFbDhiZVpXSzk1OWlzb2Q4aW1GUmF4S2RIelJZT3BldDNRZksxWFRrVV9BTXhrMHJWZ0J3dVVaRnJNZGRBaGJKeWd5WEdXR2xUUmlmd9IBvgFBVV95cUxQT2pXTm5PZlI1Z0FTaUZiRmVCaVUyLUNHUHFaS0tIclRaLWk4WXlMNkJWQkRjS01NZVEyblZETmFzUmE4RFozNnFaeUFtY05TeGZES0dZTDFLR2lJLVZEWHdtWFFjTlB4eGpYdkRsV0ZrS2xGNFdHQ25LOTJZMEJhRDhGdTZ1X1U1Rmdxa1BubmNwd1dLcHB0M0c3aXNUVUpJZzU4cGh6Vk43eW8tOXZEU2NDcmNoZHFabUFXMktn?oc=5",
    "source": "NST Online",
    "date": "2026-05-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "626eb193d46c",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、文書危機に対処するために無国籍者向けの MyKAS カードを支援",
    "summary_ja": "",
@@ -3533,7 +3533,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
