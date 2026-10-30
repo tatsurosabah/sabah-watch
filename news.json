@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30T03:04:15Z",
- "count": 312,
+ "updated": "2026-10-30T11:42:59Z",
+ "count": 313,
  "tags": {
-  "入管・摘発": 214,
+  "入管・摘発": 215,
   "市民権": 42,
   "無国籍": 34,
   "子ども": 22,
@@ -33,10 +33,10 @@
   "Jesselton Times": 6,
   "Sayang Sabah": 5,
   "Portal Berita RTM": 5,
+  "Sabah News": 4,
   "THE MALAYSIA PRESS": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
@@ -72,6 +72,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Lebih 7,000 PATI Dihantar Pulang Dari Sabah Sepanjang 2026, Warga Filipina Paling Ramai",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEJ1V0VGc2xSQXQ5QUo4LVhzOE95eVFYeElwZGJoVU9QVGRXYXlZUk4xNFMzRW1XY01ITTRSR1ZqOGVXcTNFMVhVQXpwdXcyV1AyUlYyYmc1Z05ac2RYYXE4U0szOXVBWU5BY1RtQk5jdVFuRENLeDRQLTE4dG9pdzBkeGxsRnYwaEF4M3BtQnlPNTd4VkIzbnE5VDNjdV9IdlZVX3hfVHpIMVEtTmVfVQ?oc=5",
+   "source": "Sabah News",
+   "date": "2026-10-30T07:33:36Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "24ceb0715a2e",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "2026年を通じて7,000人以上の国内避難民がサバ州から帰国し、大半のフィリピン人が",
+   "summary_ja": "",
+   "first_seen": "2026-10-30T11:42:57Z"
+  },
   {
    "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
    "summary": "",
@@ -1686,7 +1703,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah citizenship children",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -2520,10 +2537,10 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
