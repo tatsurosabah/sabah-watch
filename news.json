@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T11:42:59Z",
- "count": 313,
+ "updated": "2026-10-30T17:17:10Z",
+ "count": 314,
  "tags": {
   "入管・摘発": 215,
   "市民権": 42,
@@ -25,7 +25,7 @@
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
   "Malay Mail": 9,
-  "Astro Awani": 7,
+  "Astro Awani": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -77,7 +77,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEJ1V0VGc2xSQXQ5QUo4LVhzOE95eVFYeElwZGJoVU9QVGRXYXlZUk4xNFMzRW1XY01ITTRSR1ZqOGVXcTNFMVhVQXpwdXcyV1AyUlYyYmc1Z05ac2RYYXE4U0szOXVBWU5BY1RtQk5jdVFuRENLeDRQLTE4dG9pdzBkeGxsRnYwaEF4M3BtQnlPNTd4VkIzbnE5VDNjdV9IdlZVX3hfVHpIMVEtTmVfVQ?oc=5",
    "source": "Sabah News",
-   "date": "2026-10-30T07:33:36Z",
+   "date": "2026-10-30T13:33:37Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -105,6 +105,21 @@
    "title_ja": "サバ州移民局、州全体の一斉捜索で不法移民169人を逮捕",
    "summary_ja": "",
    "first_seen": "2026-10-19T17:48:50Z"
+  },
+  {
+   "title": "800 tahanan Filipina dihantar pulang dari Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObExIdUc5MHM2Z0VjNVoxRjRVOVZMTjJDVG1seFVsTjF6MUt2YTNRNS00V1NxUVZObnh3YVgxeXBWbEZ3cG9hdmVOdzBLSDV4aGd1LWVobGhVV3JCVEJhNVh4anFjZVZBdUhyVnZNSHRQZHRNY3hTdGZtOUktNVlkd1Nubng1aFk?oc=5",
+   "source": "Astro Awani",
+   "date": "2026-10-29T11:14:30Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "bb5b3c736531",
+   "tags": [],
+   "title_ja": "フィリピン人捕虜800人がサバ州から送還",
+   "summary_ja": "",
+   "first_seen": "2026-10-30T17:17:09Z"
   },
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
@@ -1354,7 +1369,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -2537,10 +2552,10 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
@@ -2642,7 +2657,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -3950,9 +3965,9 @@
    "query": "Sabah stateless",
    "id": "2a750d42659b",
    "tags": [
-    "バジャウ",
+    "無国籍",
     "子ども",
-    "無国籍"
+    "バジャウ"
    ],
    "title_ja": "バジャウ族の無国籍少年、サバ州生まれを証明し保釈認められた",
    "summary_ja": "",
@@ -4106,7 +4121,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
