@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T02:51:12Z",
+ "updated": "2026-10-31T11:17:03Z",
  "count": 315,
  "tags": {
   "入管・摘発": 215,
@@ -40,7 +40,7 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "bernama": 2,
+  "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -49,8 +49,8 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
-  "Bernama": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
   "Sinar Harian": 1,
@@ -549,7 +549,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -2675,7 +2675,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -3042,8 +3042,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3145,11 +3145,11 @@
    "date": "2026-05-26T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3304,12 +3304,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3443,12 +3443,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -3548,11 +3548,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "summary_ja": "",
@@ -4139,7 +4139,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
@@ -5400,7 +5400,7 @@
    "date": "2025-10-06T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "b22185d5de98",
    "tags": [
     "市民権",
