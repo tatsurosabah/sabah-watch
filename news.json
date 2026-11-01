@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T02:50:03Z",
+ "updated": "2026-11-01T12:06:09Z",
  "count": 315,
  "tags": {
   "入管・摘発": 215,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 49,
-  "TV Sabah News": 41,
+  "TV Sabah News": 40,
   "Daily Express Malaysia": 25,
   "NST Online": 18,
   "The Star": 16,
@@ -45,6 +45,7 @@
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Malaysiakini": 2,
+  "Inquirer.net": 1,
   "The Sun Malaysia": 1,
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
@@ -73,6 +74,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "800 deportees arrive in Zamboanga from Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlRqLUJwYUVQN0FJR1BRUU9VLVlHOHBPam05NEFQSHgzSzNfeG1YelQ5RVpBSkdaZHI5OVN6eEd6NXJvSElEUXB4dVpuWV9QOW5sSUxxZWpZNy1zRjNjNE5ueUM1ampwNHpuTXUxNG42emNxaEtwZ0ppV0RDeHA3TmYtWE9TYktiM3fSAY8BQVVfeXFMTVg4d1ZXRjBxaXJBM1ZjSUR2dmowUndudXBsai0tbEZ3bkgyMFJ4WXdRR2s0LXYyTnJTTUx5Z0NBNC0yMmNVMVdQTkFfd2ROemxINjhqUWFSZVk0UWoyTkhRcU5NblVmY2RqSDlPZlVuUmdId2VZWE0yMm1wU3RjNlR6cmpRM29XZE0wT3BTZ0k?oc=5",
+   "source": "Inquirer.net",
+   "date": "2026-10-31T21:24:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "fc3dc54c2449",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "800人の強制送還者がサバ州からザンボアンガに到着",
+   "summary_ja": "",
+   "first_seen": "2026-11-01T12:06:09Z"
+  },
   {
    "title": "Lebih 7,000 PATI Dihantar Pulang Dari Sabah Sepanjang 2026, Warga Filipina Paling Ramai",
    "summary": "",
@@ -195,7 +213,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZ3dYbldzRzRtQ3RBLWpmX1pjclNPQkZ0bndOVXJhZ2N0SW5DYzloZ3lZekt3SXZyWFZVR2N4U0l4dHlhLUZyMEw3SVJublg4T3ZjNGFaX0FpYnJydklMN2lIYlFwOHBLX1BYdkJ5Sk9JN3M3TzM5dWFuOHdFMXBCSnBIREctbHE1MmZacFdxdGwwdWphT0FKcnNLMjlCS0o0R0E?oc=5",
    "source": "The Star",
-   "date": "2026-10-24T00:42:42Z",
+   "date": "2026-10-24T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -2882,8 +2900,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "d9cf307b9450",
    "tags": [
-    "市民権",
     "入管・摘発",
+    "市民権",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -3042,8 +3060,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3148,8 +3166,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3307,9 +3325,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3446,9 +3464,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -3543,7 +3561,7 @@
   {
    "title": "MHO gesa syarat MyKas untuk kumpulan 'stateless' di Sabah dilonggarkan, diurus KDN dan JPN",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3RXc3lBZnZjY2M5MVEzWmxhbE1iUkZNRDNNUFV5Z2JPOFVnaHNjd3laTng4QWZqZlFxVloxel9DM0RkMVlpMWtLbzNvcVlGS1F2QTdnenZfbDlscGNnbnp5LTVaaE5CeGxteGtNRGVhYTFCd2lyTUZMdmVtTkItb0RiVUg4RnN5cGNCbWdWOTJYSGZ4N3dWVkFObUFNaTZnZXhzT3NZeURSaEFnQmlEUUxUbjhSMDAyLUZ6TUxqeXhzR0I1dE82cGYwZXdmY0J4QzNlcmRmUW_SAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOODFscjNUeU5lVjJUZGg5U2VTZFJyRGhTRmJ0elVJTk42WG1TemczdS1Obm5JV2I1ZF82cTBBU1BpX0s5NEFwZjBramw3V3Bqc01JbXk2T2lseERjSmt4a2RpaEtnWjB1dFdmWm1xcWZLb0MwdEJWaVFHWExjTG9NR3htaEhLVmxtNFlReENwTFNfX0c2MFAzbE05QWV6MDVWVzFBRGd3TEFjRkJtQWExUlRtLUNnWUFTbldvN2xuNTMtOTFtT3fSAcsBQVVfeXFMTlhNdDZ1UzRYc3JZLUZUTVBwTW9XX2J1Y1c4RDBTZ0pKTm93TEJncVNaMUxQdG9yR2tCVEtULVV6TVg4ZFZnQUpfbm5xVHp5bTNITGFZVWE4Rk1KNm5WYl8yVnBlRHRzMTM5cW5OZGJDQVdqMTlYQmE4ZzBHc1ZYNGpJU1ZEYXBWeE9ZdlM5XzMyOGM5cWNSZExkNGlUcm9CZEJueHBkWkQ3ZVVfY3dtSUpJWHlYUGlRWkxJdDh5eDVwUmpsamxOT3Y3aVk?oc=5",
    "source": "Berita Harian",
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
@@ -3603,9 +3621,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
+    "無国籍",
     "子ども",
-    "教育",
-    "無国籍"
+    "教育"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
@@ -5446,23 +5464,6 @@
    "title_ja": "「ダンシング・ウィズ・ザ・ウェーブズ」：アーティストのデニス・チャイが、無国籍のバジャウ・ラウト族の子どもたちの生活を感動的なポートレートで捉えている",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "66 PATI Ditahan dalam Operasi Imigresen Sekitar Kota Kinabalu",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRW5SUGc0SkxfaktjVHJ2UDJNemd6aGREbGplM0otU05jb2VRVkZkZWd2TDJQRGRwUWFnalMtSmtRRUlIbmtZN1RIM255ZGVCQ1cxX3E0Nl8tREdjcmJvX1J0NXI1ei1QZjJQSlBCWEhWNnlPb2dFTkVMblRsQllZZVkxTFRIZVdYa1dMLVFJTQ?oc=5",
-   "source": "TV Sabah News",
-   "date": "2025-09-27T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "98e9a17a2103",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "66 PATI、コタキナバル周辺の入国管理で拘束",
-   "summary_ja": "",
-   "first_seen": "2026-08-29T15:47:13Z"
   }
  ]
 }
