@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-01T12:06:09Z",
- "count": 315,
+ "updated": "2026-11-01T21:23:55Z",
+ "count": 316,
  "tags": {
-  "入管・摘発": 215,
+  "入管・摘発": 216,
   "市民権": 42,
   "無国籍": 34,
-  "子ども": 22,
+  "子ども": 23,
   "難民": 14,
   "バジャウ": 13,
   "政策・政治": 12,
@@ -45,6 +45,7 @@
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Malaysiakini": 2,
+  "BusinessMirror": 1,
   "Inquirer.net": 1,
   "The Sun Malaysia": 1,
   "UNHCR - The UN Refugee Agency": 1,
@@ -74,6 +75,24 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Over 1,000 Filipinos, including 122 children, deported from Sabah as crackdown intensifies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUczUDFzTHdkNlFVVGEwMkJZTkpMWWlSWWgxRmVFY3RIc0pGdlVQOFUzVGhfZHFMUG1FU05vTFJJNkxsaU9YV3M3a3FLR1NVOUZfV194Nm03d08zZzRlTWpCNV9TN3gtQnYtdXV6Z25YZEFkaWlpd2VaVjFESldDYkViMjBfS01yM2ZOR3J3eHBjWmhOUXhBeFVOWktQQzd6OTVBc0Rwa2ROd3pjQkljOUxRSEZ5aHBOdGVWQzJDZ09rTFpWVEZ5Tw?oc=5",
+   "source": "BusinessMirror",
+   "date": "2026-11-01T16:07:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "2b5f244bb12e",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "弾圧激化で122人の子供を含む1,000人以上のフィリピン人がサバ州から強制送還",
+   "summary_ja": "",
+   "first_seen": "2026-11-01T21:23:54Z"
+  },
   {
    "title": "800 deportees arrive in Zamboanga from Sabah",
    "summary": "",
@@ -143,9 +162,9 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-10-29T11:08:10Z",
+   "date": "2026-10-29T10:24:15Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -2495,7 +2514,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3fSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -2900,8 +2919,8 @@
    "query": "Sabah IMM13 OR MyKAS",
    "id": "d9cf307b9450",
    "tags": [
-    "入管・摘発",
     "市民権",
+    "入管・摘発",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -3057,11 +3076,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3166,8 +3185,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3325,9 +3344,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -3464,9 +3483,9 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -3621,9 +3640,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
