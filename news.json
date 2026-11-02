@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01T21:23:55Z",
- "count": 316,
+ "updated": "2026-11-02T02:52:13Z",
+ "count": 317,
  "tags": {
-  "入管・摘発": 216,
+  "入管・摘発": 217,
   "市民権": 42,
   "無国籍": 34,
   "子ども": 23,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 49,
-  "TV Sabah News": 40,
+  "TV Sabah News": 41,
   "Daily Express Malaysia": 25,
   "NST Online": 18,
   "The Star": 16,
@@ -75,6 +75,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "1,069 PATI warga Filipina dihantar pulang ke negara asal",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHdoRWxZU1ZDVzV4STRTbVRWMmVGUlo0aEJhdmRvdmF5aWZ5V0dmZ0VZcTZWY2JvYjJBWlBXN2xGcldITEl0eERBYmxUUFdIR1VwVElXM0F5QkUzSnVtSEhsTXZzWXZOeENnREdwc2hHbTNUX1A5OHR5MF9PY2c2ZDVhNUhYaG8?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-02T00:29:58Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "c84b793a81eb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "帰化したフィリピン人1,069人が母国に送還された",
+   "summary_ja": "",
+   "first_seen": "2026-11-02T02:52:11Z"
+  },
   {
    "title": "Over 1,000 Filipinos, including 122 children, deported from Sabah as crackdown intensifies",
    "summary": "",
@@ -162,9 +179,9 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-10-29T10:24:15Z",
+   "date": "2026-10-29T11:08:10Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1584,7 +1601,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -1773,7 +1790,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah citizenship children",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -2712,7 +2729,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -2729,7 +2746,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3026,11 +3043,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah undocumented",
    "id": "109ac503086c",
    "tags": [
-    "医療・福祉",
-    "子ども"
+    "子ども",
+    "医療・福祉"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "summary_ja": "",
@@ -3076,7 +3093,7 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
     "入管・摘発",
@@ -3185,8 +3202,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3252,11 +3269,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3305,11 +3322,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3bc557de9775",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3323,7 +3340,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3640,9 +3657,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
+    "無国籍",
     "子ども",
-    "教育",
-    "無国籍"
+    "教育"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
@@ -4176,7 +4193,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
