@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T00:05:19Z",
+ "updated": "2026-11-03T13:03:57Z",
  "count": 317,
  "tags": {
   "入管・摘発": 217,
@@ -19,8 +19,8 @@
   "TV Sabah News": 41,
   "Daily Express Malaysia": 25,
   "NST Online": 18,
+  "sabahnews.com.my": 16,
   "The Star": 16,
-  "sabahnews.com.my": 15,
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
@@ -33,10 +33,10 @@
   "Jesselton Times": 6,
   "Sayang Sabah": 5,
   "Portal Berita RTM": 5,
-  "Sabah News": 4,
   "THE MALAYSIA PRESS": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
@@ -69,7 +69,7 @@
   "Options, The Edge": 1,
   "negrosnowdaily.com": 1,
   "MindaNews": 1,
-  "Majlis Keselamatan Negara (MKN)": 1,
+  "Majlis Keselamatan Negara": 1,
   "Philstar.com": 1,
   "Gempak": 1,
   "The Edge Malaysia": 1
@@ -131,7 +131,7 @@
    "title": "Lebih 7,000 PATI Dihantar Pulang Dari Sabah Sepanjang 2026, Warga Filipina Paling Ramai",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEJ1V0VGc2xSQXQ5QUo4LVhzOE95eVFYeElwZGJoVU9QVGRXYXlZUk4xNFMzRW1XY01ITTRSR1ZqOGVXcTNFMVhVQXpwdXcyV1AyUlYyYmc1Z05ac2RYYXE4U0szOXVBWU5BY1RtQk5jdVFuRENLeDRQLTE4dG9pdzBkeGxsRnYwaEF4M3BtQnlPNTd4VkIzbnE5VDNjdV9IdlZVX3hfVHpIMVEtTmVfVQ?oc=5",
-   "source": "Sabah News",
+   "source": "sabahnews.com.my",
    "date": "2026-10-30T15:28:20Z",
    "lang": "ms",
    "origin": "news",
@@ -232,7 +232,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWtqT194MWtsN0J6YUJJNzlpbVRtNmVSOHAzUHdHcWhDNGJfbk9nVGRZYWd1ZXdnNUttcnEyUEhIUms5b2RYSkZkUjRHQ1lpV015VDZVNS1wd1dJbmdTZTlfWU1hTjhSRllzcGl5ekZ6eHNJVGEwMnJCY3FSU1ZCOHNjRGphZ0pqbXNpYnk4bkpRdVE?oc=5",
    "source": "Sabah Media",
-   "date": "2026-10-24T11:08:34Z",
+   "date": "2026-10-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -266,7 +266,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LYUhuZ0lNYWdlWnVuUFlHcjlZWVNxUkVpcVE1Unc4NXBzOVE5dFZUS21BM1dlYS02LVpVUi1Yb2lKWXJKNWRHazZNaURNY3hNWHVMMUE0NThKc2ZLMXlwblh4MnV5Qm5oSlI5SHhFTDN1dw?oc=5",
    "source": "TV Sabah News",
-   "date": "2026-10-23T07:40:45Z",
+   "date": "2026-10-23T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -653,7 +653,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0QzQm1qenVfTDdwRGlXaTJmZG5sa0pvVHFpUnk3UGg2MjJ0T0N5Y2tXOXBTbHVuNFRpa0c4UVlhenlFRjdkU3pmZUQwWFhsLTljWFJ6QTNQSmNEOE8yMVcyY3lScW8yVUIwak9scmlOd3RqYVh1QXJfNk8zRVBSdlJzRUJBUTNOZlZUTDF5Y0VPR3FSNXB3YjI1S0p2cERDWHY1cVpCMkxlaHdtV1E?oc=5",
    "source": "Utusan Borneo",
-   "date": "2026-10-08T23:56:46Z",
+   "date": "2026-10-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "pelarian Sabah",
@@ -1441,7 +1441,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -1601,7 +1601,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -1790,7 +1790,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -2621,13 +2621,13 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
@@ -2729,7 +2729,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -2746,7 +2746,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3043,11 +3043,11 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
-    "子ども",
-    "医療・福祉"
+    "医療・福祉",
+    "子ども"
    ],
    "title_ja": "ユニセフの調査によると、不法滞在の子供たちとサバ州の田舎に住む子供たちは健康やデジタルアクセスが遅れている",
    "summary_ja": "",
@@ -3093,11 +3093,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3202,8 +3202,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3269,11 +3269,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3322,11 +3322,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3340,7 +3340,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3358,7 +3358,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
     "無国籍",
@@ -3497,7 +3497,7 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
     "無国籍",
@@ -3602,11 +3602,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "917dcdd3c5f6",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "summary_ja": "",
@@ -3657,9 +3657,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
+    "無国籍",
     "子ども",
-    "教育",
-    "無国籍"
+    "教育"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
@@ -4139,7 +4139,7 @@
    "date": "2026-04-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "6c59922f9c78",
    "tags": [
     "バジャウ"
@@ -4193,7 +4193,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
@@ -4637,7 +4637,7 @@
    "title": "77 PATI DITAHAN DALAM OPERASI IMIGRESEN DI KOTA KINABALU, KENINGAU",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUNGby1BYThILWw1aV9CLXR4OUZyYkg4MnZuT1ZNRVExNlVZTElSWHFzaW9OOVZlci1NNk9Ga1NGd0RKVG5OZ1VycGl0WEc5SVFnUUkwU1RtLXhwSEVrdnA4THNCTVNUYXpHbjByQU10ZHNLSFF5c1BzQTEyTURQMTVtWjFDWlR6WlU2cFUtVGJFYjh4aFpleGE3OTVHZWxkYndudFdjX3V4aDQ?oc=5",
-   "source": "Majlis Keselamatan Negara (MKN)",
+   "source": "Majlis Keselamatan Negara",
    "date": "2026-01-28T08:00:00Z",
    "lang": "ms",
    "origin": "news",
