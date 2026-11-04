@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-04T03:27:30Z",
- "count": 317,
+ "updated": "2026-11-04T13:19:48Z",
+ "count": 319,
  "tags": {
-  "入管・摘発": 217,
+  "入管・摘発": 218,
   "市民権": 42,
   "無国籍": 34,
   "子ども": 23,
@@ -10,12 +10,12 @@
   "バジャウ": 13,
   "政策・政治": 12,
   "人権・NGO": 8,
+  "ロヒンギャ": 4,
   "医療・福祉": 3,
-  "ロヒンギャ": 3,
   "教育": 3
  },
  "sources": {
-  "Sabah Media": 49,
+  "Sabah Media": 50,
   "TV Sabah News": 41,
   "Daily Express Malaysia": 25,
   "NST Online": 18,
@@ -24,22 +24,23 @@
   "Borneo Post": 13,
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
-  "Malay Mail": 9,
   "Astro Awani": 8,
+  "Malay Mail": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Jesselton Times": 6,
   "Sayang Sabah": 5,
+  "THE MALAYSIA PRESS": 5,
   "Portal Berita RTM": 5,
-  "THE MALAYSIA PRESS": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "bernama": 2,
   "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -51,7 +52,6 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -75,6 +75,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Menggaji PATI, majikan didenda RM10,000",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94RmFjekxmeFRDdThkUlFQd3o0LTQ1WmRYYUZidmtBcEdLVWdzSlNkWjBJLUFhVjN4U00tVWpPQ1htUnlVbUZfUmJYWWRUekxDSktLV19hQjFvQ2xUckkxWU9LTUFXTUdUbmMwaXVuenJDNHhrSUlsNzRNcjM?oc=5",
+   "source": "Sabah Media",
+   "date": "2026-11-04T10:39:07Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "23fd19499b89",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "PATI を雇用すると、雇用主には RM10,000 の罰金が科せられる",
+   "summary_ja": "",
+   "first_seen": "2026-11-04T13:19:44Z"
+  },
   {
    "title": "1,069 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "",
@@ -283,7 +300,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0Q3TWxPamQ1Y2xDMWpzc0FpbjZneWctYkE4YkpFamVXUjQ0bUZpUGpJMUt1NkpVckF1VTc5WlFUQXVCNGRpcFhsS1FPLWlwZEdDaEtHd243VmRIMGFmNVdrdHRHQTdtTUtyb1lpOUZseU1acmkzenVlRnY0cDlic1hTQloxUQ?oc=5",
    "source": "Sabah Media",
-   "date": "2026-10-22T09:38:01Z",
+   "date": "2026-10-22T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -536,7 +553,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmZ1bHg1elNtNHJuckxMU01vZXh5ZGhGZVBCNC15aThJLWJNemxjRGx0VW1nX21UNGkyeWhEcEVXREpfZUhyY3dYd21QYktTRkZMT1N3dVozdEhFbEVlU25SdFZsY1dQeVVaaFlONnVJUTJsSXNFdjdKYjJwaHR3VzB5NXZlT1o4VzRpMFNZZ1ZqOC1PN3FJ?oc=5",
    "source": "TV Sabah News",
-   "date": "2026-10-11T12:42:22Z",
+   "date": "2026-10-11T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1441,7 +1458,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -1936,11 +1953,11 @@
    "first_seen": "2026-09-04T10:01:09Z"
   },
   {
-   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
+   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
-   "source": "Malay Mail",
-   "date": "2026-07-26T07:00:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
+   "source": "bernama",
+   "date": "2026-07-26T06:56:01Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -2720,6 +2737,23 @@
    "title_ja": "帰化したフィリピン人166人がラハダトゥを通じて送還される",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
+   "title": "Mereka bukan gelandangan, jiran keluarga aktivis Rohingya di Sabah tampil betulkan fakta",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVdGTVRMSkJhUlRKMkMtN3Z3MGpiajZ6VkRsVEctUEVWbXpyV2xSdTJjdWtZMHNVdTlVNGlvVnM0cUNqNjJBQnI2RGloUmhrWmt6LXo4dDh0NDgtdWRMcE1sbnVFbFplMktxZWJRY0FkamYxbUVZcHNHOGttT3RzclpzbGttY1JIbVhXU2dvYUc2Nll2aWk3dEVCLUszaXVZUkNUQXNrVTFGOVowUkdudy1lSHRaQ1FfWWwzMXZSTUlGdjdjazdZ?oc=5",
+   "source": "THE MALAYSIA PRESS",
+   "date": "2026-06-20T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "e93934e6a5cd",
+   "tags": [
+    "ロヒンギャ"
+   ],
+   "title_ja": "彼らはホームレスではない、サバ州のロヒンギャ活動家家族の隣人が事実を正すために名乗り出た",
+   "summary_ja": "",
+   "first_seen": "2026-11-04T13:19:44Z"
   },
   {
    "title": "Kemarahan Awam Berhubung Isu Rohingya Petanda Malaya Kini Mula Merasai Apa yang Sabah Tanggung Berdekad-dekad ?",
@@ -3657,9 +3691,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
