@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-05T13:32:49Z",
- "count": 320,
+ "updated": "2026-11-05T22:56:45Z",
+ "count": 322,
  "tags": {
-  "入管・摘発": 219,
+  "入管・摘発": 221,
   "市民権": 43,
   "無国籍": 33,
   "子ども": 22,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 50,
-  "TV Sabah News": 41,
+  "TV Sabah News": 43,
   "Daily Express Malaysia": 27,
   "NST Online": 18,
   "sabahnews.com.my": 16,
@@ -25,7 +25,7 @@
   "tvsabahnews.com": 11,
   "Astro Awani": 9,
   "Berita Harian": 8,
-  "Malay Mail": 8,
+  "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -40,6 +40,7 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "bernama": 2,
   "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -51,7 +52,6 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -75,6 +75,40 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah Immigration Dept Deports 909 Undocumented Migrants In Single Day",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1UwR0JjSkE2TGY4bXBrb2hlQnZnUWw3UDRUNFhrMXJwd1ZXYjVqWUl0VGxJbVVkYTdib3A2aWNjSUpxOFk2ODQ5WTZ4Um9OQUpfRWxGWTVHNDBXMDBaalhqWExMRXdpR19mN1p4VVVEZmdMejhhOVdPT2JGTTBuaE5ZWHlwM3A1QWtHN3JmdE94eDBqa25wb3dOdw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-05T15:55:54Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "4b69437a346f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州入国管理局、1日で909人の不法移民を国外追放",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T22:56:42Z"
+  },
+  {
+   "title": "JIM Sabah Usir 909 PATI Dalam Satu Hari",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NaGVnQjB3OWxKTldseElWVTRwS0ljdHR0OUZnanZTM2trVmdlc2c0SnhmMUJWTTlYMkxnMm1XWHY0OE9ZVnZKNWhlUkxHdTN3YTB2NlpVV1JFbEF5blViX1ZYMXM0NFBpME5pTm85eXBBQQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-05T15:53:31Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "e0958997c2ce",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ氏、1日で909人のPATIを追放",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T22:56:42Z"
+  },
   {
    "title": "Sabah deports 8,405 undocumented migrants up to Nov 5",
    "summary": "",
@@ -1987,11 +2021,11 @@
    "first_seen": "2026-09-04T10:01:09Z"
   },
   {
-   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
+   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
-   "source": "Malay Mail",
-   "date": "2026-07-26T07:00:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
+   "source": "bernama",
+   "date": "2026-07-26T06:56:01Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
