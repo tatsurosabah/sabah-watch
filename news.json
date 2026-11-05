@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-05T03:49:57Z",
+ "updated": "2026-11-05T13:32:49Z",
  "count": 320,
  "tags": {
-  "入管・摘発": 218,
+  "入管・摘発": 219,
   "市民権": 43,
-  "無国籍": 34,
-  "子ども": 23,
+  "無国籍": 33,
+  "子ども": 22,
   "難民": 14,
-  "バジャウ": 13,
+  "バジャウ": 12,
   "政策・政治": 12,
   "人権・NGO": 8,
   "ロヒンギャ": 4,
@@ -17,7 +17,7 @@
  "sources": {
   "Sabah Media": 50,
   "TV Sabah News": 41,
-  "Daily Express Malaysia": 26,
+  "Daily Express Malaysia": 27,
   "NST Online": 18,
   "sabahnews.com.my": 16,
   "The Star": 16,
@@ -40,7 +40,6 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "bernama": 2,
   "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -52,6 +51,7 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -75,6 +75,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah deports 8,405 undocumented migrants up to Nov 5",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1I3R1dQYTJIM2R2ZWwwUkV3SlBOZXNoLVE1X0lWaFB3Z3J1NGc2c2NTV3UwSXZ0VEtPOE5PcndnckdkaUZUNkwyTmhhVDlKaTM4WlBlMW84amNYSWNWdFpMN0xuZ25nXzFQYndlSDhWQ195U3VIYzlOaldPOTN6MUtnOTdkT2tnYVlkbm1uSk80bHVJYmlwZTFwODluRHM?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-11-05T11:07:57Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "c0bb51a28858",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州、11月5日までに不法移民8,405人を追放",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T13:32:48Z"
+  },
   {
    "title": "Use of IMM13 much better than PSS: Jeffrey",
    "summary": "",
@@ -351,7 +368,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV2kwckpMMkUtVDROYlI4Z1l2RG42d0xOWFpWY00xb3ZYLVdHUDlxbHZ5bUNKTmdEc3FSbFZPMjF0dmdnMlZMdXNNazROMnZyV2YxNHlJd1NrYy0wS0xJSWpUV3ZDX2RvMWpYUkhtUmU2SWlpcFdOSlo4am1KOUp3V0FXQUdqNmRzTW1kX2RXMXFteEptY3ZCWkxnZGZGcjBucE5lQmp2T1BiNWJoWXA3dkhtYlFTXzd2NEE?oc=5",
    "source": "UNHCR - The UN Refugee Agency",
-   "date": "2026-10-20T12:55:36Z",
+   "date": "2026-10-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah UNHCR OR asylum",
@@ -1970,11 +1987,11 @@
    "first_seen": "2026-09-04T10:01:09Z"
   },
   {
-   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
+   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "bernama",
-   "date": "2026-07-26T06:56:01Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -3759,7 +3776,7 @@
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah undocumented",
    "id": "63c01c9014e6",
    "tags": [
     "人権・NGO",
@@ -5530,25 +5547,6 @@
     "政策・政治"
    ],
    "title_ja": "サバ州の隠れた危機: 不法移民とその永続的な影響",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "‘Dancing with the Waves’: Artist Denis Chai captures stateless Bajau Laut children’s lives in poignant portraits",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbk4tdXNqNVJKdzlSOHl4NjZ2N3FPNFFQbzA1ZjhmLTdYZ0t2X215VmFwUHlZSHhKZW1RSkt0WDI0Y2VZVThXSkNZYW1hSFhYUzJXYWFibDA4UUt5MHJyVEVTSy1fckhUMXRIRXVrTWE3SV8tZ0IyRkphTTc0TFE3TUZveVVwRG9qa2xrZGFTS2ZUSGFFSFZUQTNtMHlCUnJsR2preGVCSEMtcEZlWVpBd2pLdTExb0lmTzZjNmQ1dFdrdmhMa3A5eGlzQ0t6UVd3bGRkMFhtZGxDN2hfNWVZaWY0a3NIWWVaMDBXckRHWEx6bk9i0gH6AUFVX3lxTFBTdG5yZ0JoQU9ONS1zclNoWkVHRFZvSVhuUFN1Skk2Y2NwSHVkZW9jc09OTXRzUlNLOGxSWEl4MDNZSTBULV9iZ3RtVFowbk80WDVlNlZNR3VfUGMwZVN6TTZYTF9DZjg5TG1SUUh6UXJfdi05R1dBN0w2NWo3cHE0SmFub19XWHNNNGQ3WDRJSk1VdEZ3TFZFNjB2emN1VUxFbXVWaklvQjZwSEpLTEJ1THluTzRfNWc0MmhRNUVTSDdiR0hrVjFKRDkwNlJRT01EZ2ROTjY0ZkxoSmxPRTJuMWotanBGYndSSWRRMERmTml5QzVJNk9OTUE?oc=5",
-   "source": "Malay Mail",
-   "date": "2025-10-01T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "a283702ba13a",
-   "tags": [
-    "無国籍",
-    "子ども",
-    "バジャウ"
-   ],
-   "title_ja": "「ダンシング・ウィズ・ザ・ウェーブズ」：アーティストのデニス・チャイが、無国籍のバジャウ・ラウト族の子どもたちの生活を感動的なポートレートで捉えている",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   }
