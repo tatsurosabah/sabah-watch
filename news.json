@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-04T22:55:44Z",
- "count": 319,
+ "updated": "2026-11-05T03:49:57Z",
+ "count": 320,
  "tags": {
   "入管・摘発": 218,
-  "市民権": 42,
+  "市民権": 43,
   "無国籍": 34,
   "子ども": 23,
   "難民": 14,
@@ -17,7 +17,7 @@
  "sources": {
   "Sabah Media": 50,
   "TV Sabah News": 41,
-  "Daily Express Malaysia": 25,
+  "Daily Express Malaysia": 26,
   "NST Online": 18,
   "sabahnews.com.my": 16,
   "The Star": 16,
@@ -75,6 +75,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Use of IMM13 much better than PSS: Jeffrey",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KeHhfNHY3RWhmRUNjYldLZ2FCTGtuRUQ0UlZ3T0RQMWxEdGJyUWptSzJLbFBCVTN3Mkc3aXg5RG16UXdwTG8tLUVWNEUwcnBJVmJZWkxRb19RN28?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-11-05T00:59:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah IMM13 OR MyKAS",
+   "id": "99af4b88fcd1",
+   "tags": [
+    "市民権"
+   ],
+   "title_ja": "IMM13 の使用法は PSS よりもはるかに優れています: Jeffrey",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T03:49:55Z"
+  },
   {
    "title": "Menggaji PATI, majikan didenda RM10,000",
    "summary": "",
