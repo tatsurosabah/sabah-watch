@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T22:56:45Z",
+ "updated": "2026-11-06T03:47:31Z",
  "count": 322,
  "tags": {
   "入管・摘発": 221,
@@ -25,7 +25,7 @@
   "tvsabahnews.com": 11,
   "Astro Awani": 9,
   "Berita Harian": 8,
-  "Malay Mail": 7,
+  "Malay Mail": 8,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -40,7 +40,6 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "bernama": 2,
   "Bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -52,6 +51,7 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -2021,11 +2021,11 @@
    "first_seen": "2026-09-04T10:01:09Z"
   },
   {
-   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
+   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "bernama",
-   "date": "2026-07-26T06:56:01Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
