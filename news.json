@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-08T02:49:46Z",
- "count": 323,
+ "updated": "2026-11-08T12:16:06Z",
+ "count": 324,
  "tags": {
-  "入管・摘発": 221,
+  "入管・摘発": 222,
   "市民権": 43,
   "無国籍": 33,
   "子ども": 22,
@@ -21,12 +21,12 @@
   "NST Online": 18,
   "sabahnews.com.my": 16,
   "The Star": 16,
-  "Borneo Post": 13,
+  "Borneo Post": 14,
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
   "Astro Awani": 8,
+  "Malay Mail": 8,
   "Jesselton Times": 7,
-  "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -34,9 +34,9 @@
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
@@ -74,6 +74,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "8,472 foreigners deported from Sabah to date, says Immigration Dept",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2VsRUFVTkpkU1REZTB0TkhST3BxbWZvamxhZUs2TFhOcnhldmRaQjIwVk9lc0hKUlFvM2lJVXZyNEJWMF83MWNzalI4N3NGcjdCRDJkdHZJaG10RE1POTEtR3p0U2xTa0RidEJNMGhwN3NUcFFCMUt1LWd5Z3pESmhDT1lfajh4UGxOLWZ1N2pEM1I3aVFybHpNRzJlMXJTVHNfaGhDOUpGYk0?oc=5",
+   "source": "Borneo Post",
+   "date": "2026-11-08T09:14:37Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "a2a4fc1dd5e3",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "これまでに8,472人の外国人がサバ州から強制送還されたと入国管理局が発表",
+   "summary_ja": "",
+   "first_seen": "2026-11-08T12:16:05Z"
+  },
   {
    "title": "PAPPINDO appeals to Malaysia and Indonesia to help 300,000 undocumented Indonesian migrant workers in Sabah",
    "summary": "",
@@ -278,9 +295,9 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-10-29T11:08:10Z",
+   "date": "2026-10-29T10:24:15Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -1540,7 +1557,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -2035,11 +2052,11 @@
    "first_seen": "2026-09-04T10:01:09Z"
   },
   {
-   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
+   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "Bernama",
-   "date": "2026-07-26T06:56:01Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -3824,7 +3841,7 @@
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "63c01c9014e6",
    "tags": [
     "人権・NGO",
