@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T21:07:13Z",
- "count": 322,
+ "updated": "2026-11-08T02:49:46Z",
+ "count": 323,
  "tags": {
   "入管・摘発": 221,
   "市民権": 43,
@@ -25,12 +25,12 @@
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
   "Astro Awani": 8,
+  "Jesselton Times": 7,
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
   "Saluran 122": 6,
-  "Jesselton Times": 6,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "Portal Berita RTM": 5,
@@ -74,6 +74,21 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "PAPPINDO appeals to Malaysia and Indonesia to help 300,000 undocumented Indonesian migrant workers in Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNc0RCWHJpVUswcndUOExhdXc3c0lFdVowQzBsYk9yUENLTXZMX2JONFpfUmNCWmtCZ01nbTI4SVJqMWU3Rk8tM0xRdUVHWS1UVXRlUjdGbm5YMGRPbXVqR21OVkZpeE50LWRZQUJhLWxCa05uNDg4ZEVrZUVFdzhWdzlpRnF0a3pWXzY4amQtT2hWUzB4N0F0WHV0T19wYTlHb0Nray1CaEtXT005WVNMWWJrX2pHTU02a2syaTY1eUJKejA0X044VGlha1FfWERkeGQ5V194Q195QTJhaEHSAeMBQVVfeXFMUEtrR09NZHVXdmVyUU12OXBuTEIwZUljLVdua0Y4blg0c0RzZGFKQnpOU2VhZ21HWU1vd2hZN09WeU0zbDcyNks5aWF3cE5FNUpEbDNsanpZS29PaHJHS01ENzhFZkVOb2tRdFp2SGVTMUZkT0V0STZUS1ZVY1k3WVp5RDVlc2NiZ2EydE1WYVJudGNzMmRQbG1hc1VkS09LcFBHTzFnZ0ltdzZIUEtCcjBkbkFZTEN2SENtYzZGVkRfY0syb3E1Rnp3MHpkdzI0SUlDYXI3M2NpYVhJcTk4Ynl0Mnc?oc=5",
+   "source": "Jesselton Times",
+   "date": "2026-11-07T22:27:30Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "a6c8e801a361",
+   "tags": [],
+   "title_ja": "PAPPINDO、マレーシアとインドネシアに対し、サバ州の不法滞在インドネシア人出稼ぎ労働者30万人を支援するよう訴え",
+   "summary_ja": "",
+   "first_seen": "2026-11-08T02:49:44Z"
+  },
   {
    "title": "Sabah Immigration Dept Deports 909 Undocumented Migrants In Single Day",
    "summary": "",
