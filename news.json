@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-09T03:08:22Z",
+ "updated": "2026-11-09T14:27:21Z",
  "count": 324,
  "tags": {
-  "入管・摘発": 222,
+  "入管・摘発": 221,
   "市民権": 43,
   "無国籍": 33,
   "子ども": 22,
-  "難民": 14,
+  "難民": 15,
   "バジャウ": 12,
-  "政策・政治": 12,
+  "政策・政治": 11,
   "人権・NGO": 8,
   "ロヒンギャ": 4,
   "医療・福祉": 3,
@@ -16,17 +16,17 @@
  },
  "sources": {
   "Sabah Media": 50,
-  "TV Sabah News": 43,
+  "TV Sabah News": 44,
   "Daily Express Malaysia": 27,
   "NST Online": 18,
   "sabahnews.com.my": 16,
   "The Star": 16,
-  "Borneo Post": 14,
+  "Borneo Post": 13,
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
   "Astro Awani": 8,
+  "Malay Mail": 8,
   "Jesselton Times": 7,
-  "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "MalaysiaGazette": 6,
@@ -34,9 +34,9 @@
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "Bernama": 3,
   "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
@@ -297,7 +297,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
-   "date": "2026-10-29T10:24:15Z",
+   "date": "2026-10-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -746,6 +746,23 @@
    "title_ja": "ユウォン氏、フィリピン移民に関するサバ州の安全保障上のリスクを提起",
    "summary_ja": "",
    "first_seen": "2026-10-10T11:26:12Z"
+  },
+  {
+   "title": "Ewon Raises Sabah Security Risk Over Filipino Refugees, Foreigners",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmRSWVNZc3ZDdGVQVEI5YnQxNll1aF91UkpMcnkwWlBWMzZncFhMM2hldlVtU0tscDUxdjBvOTJjeEFfcDBPbkhnWWhteGZuSG9rR09UYlZkdy1lWFdCWml1ZGdWOVduSW54SFhYMVp4RDhMN0VMcVBxUEZ1dGdLVS1FYUNNVlNpckhvZHFQMXlhYnlP?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-10-10T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "c563e82f76b1",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "イウォン氏、フィリピン難民と外国人をめぐるサバ州の治安リスクを提起",
+   "summary_ja": "",
+   "first_seen": "2026-11-09T14:27:20Z"
   },
   {
    "title": "Ewon Bangkitkan Risiko Keselamatan Kehadiran Pelarian, Pendatang Asing Filipina di Sabah",
@@ -2052,11 +2069,11 @@
    "first_seen": "2026-09-04T10:01:09Z"
   },
   {
-   "title": "Sabah Immigration Denies Viral Claim Of Filipino Detainee Deaths At Depot",
+   "title": "Sabah Immigration denies viral claim of Filipino detainee deaths at depot",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE55NDVVQTNpVGlnMHl1WFgxWFA5RG52THJFQUFJTUMyV2ZCZ2pTQWUwTEo1QzNsMGotS0RTcHJaY3JlUFpnSV8wTF9qT01RLWhwa1JjUw?oc=5",
-   "source": "Bernama",
-   "date": "2026-07-26T06:56:01Z",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY2pLX0tOLWNEOFRYWW5hRGZIZnhTNkNOWmpLdDlXdE9uM3pmY25QUVBCTDZnNmktLTRyOThFZzJ4ajRpeHExaEdhcFZ1a1BpT1pHZVJLLVMwN041OGhTV0VBdVpSU3FfOV9LTE9TQ2VDU3ZZZXZia1d0dEVyV1NjanZ6SWRZcUg0LU1ZeEtTZnB2Njc1YzREd0JQX1ZWTlZzaXkyLW96MmZIaHRMNEhWeEZKQzIxMnZBZVcwMW13bDFId3lGMGlNYkxMNNIB0AFBVV95cUxNY1NVdm9WTGJIcDA3VldyX3VDQVk1aWFLOUhreEc0dnVCUG12LXF2RHFaZDg4a1RGQTA1OFlrTGRRSHJlN3RocVZFc0RGeXVuMWJUQ2tIYXE2NWFuNEFxZ3FvOGtvM3JZMExfczNkZGVnTjVJMW90SDNUX294RlFvSE94aV9rUW42Z21RTjdvdWs5cGN2clA1X3Rkb040R1p1T0hmdWpJNE5Pd3FmX0NyWFd4WVRXMF8tWTBaQVE5T3pTUGFUZ1hoQVJna2hkRnpX?oc=5",
+   "source": "Malay Mail",
+   "date": "2026-07-26T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -3080,7 +3097,7 @@
   {
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZzhUY2pvdGt1dU1PTldUWjhfLWtJRGhvaDR3TTkwVkNYNW9rLVFjX0VQenZXalhJUzVDeVpEb3FzZnduMVN1eWMxTlJwZThvT1RmdDRwSmpiT3Bm?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
@@ -3229,8 +3246,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -5594,24 +5611,6 @@
     "子ども"
    ],
    "title_ja": "汚染された楽園：観光客がセンポルナのゴミと無国籍の子供たちの現実を暴露",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Sabah’s hidden crisis: Illegal immigration and its lasting impact",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3laRG9rRGE0N0dDaXduVVE5R251UndrVXlIR0N4REY0N2hHYmJ4TnRZV0NNdDZaTHU2UWtuM2lISjFkbXpyM2I1YkpQeEdFdU9JT1NkN0w1eE5aUG1jY0NlSVJoS19UNDdtdk95QXRZb0tHWHVVajVYd2x1eFZyMjVHd1hoTGZDUGJGQkZxOFJVZkNkampVODNONG1BcGt2b2NGczN6Unc?oc=5",
-   "source": "Borneo Post",
-   "date": "2025-10-05T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah stateless",
-   "id": "ad90f71bf69e",
-   "tags": [
-    "入管・摘発",
-    "政策・政治"
-   ],
-   "title_ja": "サバ州の隠れた危機: 不法移民とその永続的な影響",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   }
