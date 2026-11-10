@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-10T00:53:50Z",
+ "updated": "2026-11-10T13:49:25Z",
  "count": 324,
  "tags": {
-  "入管・摘発": 221,
-  "市民権": 43,
+  "入管・摘発": 222,
+  "市民権": 42,
   "無国籍": 33,
-  "子ども": 22,
+  "子ども": 21,
   "難民": 15,
   "バジャウ": 12,
   "政策・政治": 11,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 50,
-  "TV Sabah News": 44,
+  "TV Sabah News": 45,
   "Daily Express Malaysia": 27,
   "NST Online": 18,
   "sabahnews.com.my": 16,
@@ -37,10 +37,10 @@
   "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "Sabah News": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -74,6 +74,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "63 PATI warga Indonesia dipulangkan ke Nunukan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01azh2ZHRUcHlPekhUckNVZ2RRcEp6RHlWODFOZ3lEcnJsUXBYQ0FlbG5hQkw2MTZVdEhUVl9RSXFnVjhwUmpnNGFIa3c0Qi1YSV90OWg1Q3FlYTBSLTRnLVlfTG9fQ0dZNXFxNlNaa1pQTDk0TWphUndWdw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-10T04:03:03Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "1b5010a42ba6",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "PATIインドネシア国民63人がヌヌカンに送還された",
+   "summary_ja": "",
+   "first_seen": "2026-11-10T13:49:25Z"
+  },
   {
    "title": "8,472 foreigners deported from Sabah to date, says Immigration Dept",
    "summary": "",
@@ -231,7 +248,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlRqLUJwYUVQN0FJR1BRUU9VLVlHOHBPam05NEFQSHgzSzNfeG1YelQ5RVpBSkdaZHI5OVN6eEd6NXJvSElEUXB4dVpuWV9QOW5sSUxxZWpZNy1zRjNjNE5ueUM1ampwNHpuTXUxNG42emNxaEtwZ0ppV0RDeHA3TmYtWE9TYktiM3fSAY8BQVVfeXFMTVg4d1ZXRjBxaXJBM1ZjSUR2dmowUndudXBsai0tbEZ3bkgyMFJ4WXdRR2s0LXYyTnJTTUx5Z0NBNC0yMmNVMVdQTkFfd2ROemxINjhqUWFSZVk0UWoyTkhRcU5NblVmY2RqSDlPZlVuUmdId2VZWE0yMm1wU3RjNlR6cmpRM29XZE0wT3BTZ0k?oc=5",
    "source": "Inquirer.net",
-   "date": "2026-10-31T21:24:00Z",
+   "date": "2026-11-01T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah immigration detention OR deportation",
@@ -1574,7 +1591,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -5595,24 +5612,6 @@
    "title_ja": "ボルネオ・ボイス、バジャウ・ラウト族コミュニティに関するシャフィー氏の発言を曲解したとして批判",
    "summary_ja": "",
    "first_seen": "2026-08-12T12:36:43Z"
-  },
-  {
-   "title": "Syurga Tercemar: Pelancong Dedah Realiti Sampah, Anak Tanpa Warganegara di Semporna",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd21rdUVNaWxMa3RsMU9SVGppTkdoYk1KVzhhSHVGTnZzUVNNVWtfMmlwVmFzZktGUEtwM1hoUV8yNUJUZFhxT3lMd19KUUFqaEZOMWJGcEFOaUtuWEEtOFQ0di05MG1ZNG9rbEMwQ2dicnFQTVQzQVl0Y3djNWY2bElzWFY1S1l0b2ZSdDJ3T214MjEtWENuQk4wTFB3NzhtNjQtTFdCb1NTc0U?oc=5",
-   "source": "Sabah News",
-   "date": "2025-10-06T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
-   "id": "b22185d5de98",
-   "tags": [
-    "市民権",
-    "子ども"
-   ],
-   "title_ja": "汚染された楽園：観光客がセンポルナのゴミと無国籍の子供たちの現実を暴露",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
   }
  ]
 }
