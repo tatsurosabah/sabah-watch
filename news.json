@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11T13:00:16Z",
- "count": 326,
+ "updated": "2026-11-11T23:44:43Z",
+ "count": 328,
  "tags": {
-  "入管・摘発": 225,
+  "入管・摘発": 227,
   "市民権": 42,
   "無国籍": 33,
   "子ども": 22,
@@ -16,7 +16,7 @@
  },
  "sources": {
   "Sabah Media": 50,
-  "TV Sabah News": 47,
+  "TV Sabah News": 49,
   "Daily Express Malaysia": 27,
   "NST Online": 18,
   "The Star": 17,
@@ -74,6 +74,40 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEY0d01Welp4clVxb0RZbzhRal80VUV4RU5NTmIxYldWYTZqWkpRYml6RkdnNXk4dTduR3NRSlFRNGttOGdCQlVhM2VCeTBVanFVc3p6eHJaalB3a0t6RGZaMTNPQ0F1bjBwbUhpNFRuY1R2WWpRYlZTeGxIMnZFallqeG82QkdCMHd2ZUJ1blhsaFUzZXZ4ekRfX0hDcnU3elUzOEZ0c3FnWjF5NHJF?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T15:13:38Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "dea6b5c4508a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州、5つの不法入植拠点を襲撃、不法移民71人を拘束",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T23:44:41Z"
+  },
+  {
+   "title": "JIM Sabah Gempur Lima Kubu Setinggan, 71 PATI Ditahan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEdVeGRZRGI2WE1abVR2MWItajMtaXlsZmZ2b0I2Q2pwUEM0anNiUHQyVzJyQkUtZkdNcFFsYTRqWkY5MGRtX0JSckRzMFRFdGxJMVROenR0N1lqVzlrU1dwWGViUmhKc1pvV285bkF4anhPZTQtc3ZZVDMwcTJXdHRGNA?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T15:11:37Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b00d601610ec",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州、5つの不法占拠要塞を襲撃、71人のPATIを逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T23:44:41Z"
+  },
   {
    "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
    "summary": "",
@@ -2823,13 +2857,13 @@
    "date": "2026-06-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
@@ -4375,11 +4409,11 @@
    "date": "2026-03-31T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "f97cc4562358",
    "tags": [
-    "無国籍",
-    "バジャウ"
+    "バジャウ",
+    "無国籍"
    ],
    "title_ja": "無国籍バジャウ・ラウト4人が起訴、3人が保釈",
    "summary_ja": "",
@@ -4412,7 +4446,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
