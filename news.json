@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-11T03:15:50Z",
- "count": 324,
+ "updated": "2026-11-11T13:00:16Z",
+ "count": 326,
  "tags": {
-  "入管・摘発": 222,
+  "入管・摘発": 225,
   "市民権": 42,
   "無国籍": 33,
-  "子ども": 21,
+  "子ども": 22,
   "難民": 15,
-  "バジャウ": 12,
+  "バジャウ": 11,
   "政策・政治": 11,
   "人権・NGO": 8,
   "ロヒンギャ": 4,
@@ -16,12 +16,12 @@
  },
  "sources": {
   "Sabah Media": 50,
-  "TV Sabah News": 45,
+  "TV Sabah News": 47,
   "Daily Express Malaysia": 27,
   "NST Online": 18,
+  "The Star": 17,
   "sabahnews.com.my": 17,
-  "The Star": 16,
-  "Borneo Post": 13,
+  "Borneo Post": 12,
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
   "Astro Awani": 8,
@@ -74,6 +74,58 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemVuNjQxdlQyVG5oc1hwcmFsblZ1bFItOHBVQWxBZVhKZ1NSd2Z2X0dlc1NaR3lvQWdSblhnSWxndXNzT0pmNzRRdXJDaE9LRFRuR3l1ODR2RDJ6NlBmOThEOXRpSXhwWFluaVQzY0pSaDRXX2xFNktabkplczV1TE9tY2dxLWF2Ry1RMlF5NFVLbDB5XzB6c2N4SmlCZUlJem1wMUd4WEVTbWg2d09VZXBLS1JmX0NP?oc=5",
+   "source": "The Star",
+   "date": "2026-11-11T11:19:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "fcad44761a75",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "サバ州襲撃で子供25人を含む不法移民107人が拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T13:00:12Z"
+  },
+  {
+   "title": "36 undocumented migrants detained in Immigration operation in Kota Kinabalu, Penampang",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDJuOEIxR0hZTDlUb09HUnh2YWd0MFBRaVZGZzNiMWtHTmJVU1Fad08wZklISWExWTlCYmhVV202SzNCMk1fNFA1LUhZQnZ2OTFUbVByZGJPUmdlbU5kVVVhWVZYMUk5eEVuN1M2MUhZb3EwTm13bFZsM2poNllYZk95bTF6cmJodExjOGlxbVpsRzNiY2hJRXRDeUZjSnZFRjltRkhKVmtOdXNpMFJn?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T09:21:33Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "0b8f4a0960eb",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ペナンパン州コタキナバルの入国管理で不法移民36人が拘束される",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T13:00:12Z"
+  },
+  {
+   "title": "36 PATI ditahan dalam operasi Imigresen di Kota Kinabalu, Penampang",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2JOcUxzeVFvQk1wSHRKZ1ZrWmpGTkxoQlFna2dGWVA5bFlsWGgzMzZ5MWp5aXRySEFQS3BCZ29wVDlRckt3TC1ERVZ0Tm5Tc2h3Z25uc0FXWHlWNGVkenltZl9aa2dudkNtcUJxT3cwbENyNDJ1SzF6eGxVVk4wNzgwUWh3MEdkYldYbTRaODFWQnNwcVE?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T09:20:24Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "b47500438cf4",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ペナンパン州コタキナバルでの入国審査で36人のPATIが逮捕された",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T13:00:12Z"
+  },
   {
    "title": "63 PATI warga Indonesia dipulangkan ke Nunukan",
    "summary": "",
@@ -5595,23 +5647,6 @@
    "title_ja": "タワウでのJIM作戦で21人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Borneo Voice criticised for twisting Shafie’s remarks on Bajau Laut community",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnBocTVwSXB5RlNJazBHeDZ1NVFYRzAxNlpVN0tJbTd0XzFuSGs3aDVPVU1ONkdTSE9rUlJadENxajA1cXlfRFpvakFyRmNrbThmaWxqdW81aTlIQ19jczU0QjNEUWlXYmdzYjFfUW1LU1J1VGhoMDdFVzR5REwxRktPYWtzcnhIM0g2ZGx4MmRnZVgxWVdlSUpCVjBTRkxuNEcxMnQyQkpIYkpJdHU0RURYZ29YajFvRXc?oc=5",
-   "source": "Borneo Post",
-   "date": "2025-10-07T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "\"Bajau Laut\"",
-   "id": "cc1e19ab4f8a",
-   "tags": [
-    "バジャウ"
-   ],
-   "title_ja": "ボルネオ・ボイス、バジャウ・ラウト族コミュニティに関するシャフィー氏の発言を曲解したとして批判",
-   "summary_ja": "",
-   "first_seen": "2026-08-12T12:36:43Z"
   }
  ]
 }
