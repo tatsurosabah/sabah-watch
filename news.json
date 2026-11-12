@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-12T14:02:05Z",
- "count": 328,
+ "updated": "2026-11-12T22:54:25Z",
+ "count": 331,
  "tags": {
-  "入管・摘発": 227,
+  "入管・摘発": 229,
   "市民権": 42,
   "無国籍": 33,
   "子ども": 22,
   "難民": 15,
+  "政策・政治": 12,
   "バジャウ": 11,
-  "政策・政治": 11,
   "人権・NGO": 8,
   "ロヒンギャ": 4,
   "医療・福祉": 3,
   "教育": 3
  },
  "sources": {
+  "TV Sabah News": 51,
   "Sabah Media": 50,
-  "TV Sabah News": 49,
   "Daily Express Malaysia": 27,
   "NST Online": 18,
   "The Star": 17,
@@ -24,8 +24,8 @@
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
   "Berita Harian": 9,
+  "Jesselton Times": 8,
   "Astro Awani": 8,
-  "Jesselton Times": 7,
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
@@ -74,6 +74,57 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Madius urges Home Ministry to present implementation timeline for RCI recommendations on Sabah’s illegal immigrants",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWRLQlpKLXdFTHZ4Vl9lRW9MbUhsMFlCWktpTXR0Zl9oQ3ZQeTg0bS1QLW9KRVZoRF8wYUlXUTd5SGIybXhJSW92ejBQVm9EOWFxWDRSR0JpbTV4N2ZRRzRXU09GWWYyYm1DTWNQZGRSOHFGY3JNOEI4S0RTWTRYWTB6MmpYd0ItOXRWMkFFeThzUGFIbFlsUGdhcWxYMjh5c2lOTERZLVh0TFF6RjBtMVp1UGZNLUZnTHRnWlNjZE1VcGVrTzhadEdySzhQaXVBU2R4b0Q3bXdPNzk4WFF3RmEzNkZnYVlf0gHuAUFVX3lxTE0tVXVxM2IzbExyY0ZuZWNxaktuaWtyWF9xRHRVYjI2aGEtZFNFVVBRaHBVdl8zZ3Faclg0MTB0N1RaRXZaa1oybnVFRE83X2syQWctVnFlNnhOZm01LTd4TUV3UzVubVg4b0M4QlUxQlJtR2hrTDY0RGVZcGU2bVllNjdIWExjbzNDcjVEZk42a1k5VXF0c1JWYTJvbEVsQ25vOGRwWTVza01mMkFUdkh5M1JHeTlIV2Q5ZF9IZGd4dml5SkpncXBidS14YWN4Z3FBYzEyTmRVbXBCcm1mS1NCYTBxQWh0SHN6bjZsaGc?oc=5",
+   "source": "Jesselton Times",
+   "date": "2026-11-12T22:22:15Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "4381fc6a9339",
+   "tags": [
+    "政策・政治"
+   ],
+   "title_ja": "マディウス氏、サバ州の不法移民に関するRCI勧告の実施スケジュールを提示するよう内務省に要請",
+   "summary_ja": "",
+   "first_seen": "2026-11-12T22:54:21Z"
+  },
+  {
+   "title": "JIM Sabah Usir 750 PATI Filipina, Majikan Bersubahat Berdepan Denda RM50,000",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNUNsQW12V2ZQd2NnWHJvVDJJQ2dNOVVYRW9oRTBtS2ZlLWtpYTVQYTZUWF9XZkQwWFh1VzE4a2ZhQXNQbnhJM05mMGV3X2JCRFhVRl94R1BGdnZVUkIwN0ViWElxb1NIZFdodDEzVG16bVJJYzRXMERQamRzb1hSbHpLbGI1LUNrWlFuNXNYdTd3NjlNODVjTXprSXdGOGFKaUtR?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-12T15:58:39Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "29a079f024c5",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州、フィリピン永住者750人を国外追放、共謀した雇用者に5万リンギットの罰金を課す",
+   "summary_ja": "",
+   "first_seen": "2026-11-12T22:54:21Z"
+  },
+  {
+   "title": "71 PATI ditahan di Ranau dan Sandakan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XV2VKLThWbjZPaW9WNUxEMHpybDRYdDBJNWkzLWF5LTVacWxVMWpUOUNhWWJod0t5ZmdtMUZUelI4MWFPcU0yRVoyak9JX3ZUYjRQOHBKN2hWT1UzbHRfZ1F3aHlKeU9MZDJCZkZVbw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-12T14:22:22Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "5abc2e473469",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ラナウとサンダカンで71人のPATIが逮捕された",
+   "summary_ja": "",
+   "first_seen": "2026-11-12T22:54:21Z"
+  },
   {
    "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
    "summary": "",
@@ -159,6 +210,23 @@
    "title_ja": "ペナンパン州コタキナバルでの入国審査で36人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-11-11T13:00:12Z"
+  },
+  {
+   "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-11-10T13:12:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "2d263553e01a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "今年、サバ州から4,000人近くのPATIが追放された",
+   "summary_ja": "",
+   "first_seen": "2026-08-09T01:55:15Z"
   },
   {
    "title": "63 PATI warga Indonesia dipulangkan ke Nunukan",
@@ -398,7 +466,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -2761,23 +2829,6 @@
    "id": "296242e695aa",
    "tags": [],
    "title_ja": "サバ州4地区で不法移民91人逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
-   "source": "Berita Harian",
-   "date": "2026-06-25T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "2d263553e01a",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "今年、サバ州から4,000人近くのPATIが追放された",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   },
