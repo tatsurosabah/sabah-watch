@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T23:44:43Z",
+ "updated": "2026-11-12T04:28:16Z",
  "count": 328,
  "tags": {
   "入管・摘発": 227,
@@ -3200,7 +3200,7 @@
   {
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZzhUY2pvdGt1dU1PTldUWjhfLWtJRGhvaDR3TTkwVkNYNW9rLVFjX0VQenZXalhJUzVDeVpEb3FzZnduMVN1eWMxTlJwZThvT1RmdDRwSmpiT3Bm?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
@@ -3504,7 +3504,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "de8489aec11e",
    "tags": [
     "市民権",
@@ -4409,11 +4409,11 @@
    "date": "2026-03-31T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "f97cc4562358",
    "tags": [
-    "バジャウ",
-    "無国籍"
+    "無国籍",
+    "バジャウ"
    ],
    "title_ja": "無国籍バジャウ・ラウト4人が起訴、3人が保釈",
    "summary_ja": "",
