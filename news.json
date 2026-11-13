@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:42:43Z",
+ "updated": "2026-11-13T13:28:54Z",
  "count": 333,
  "tags": {
   "入管・摘発": 231,
@@ -15,7 +15,7 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 52,
+  "TV Sabah News": 53,
   "Sabah Media": 50,
   "Daily Express Malaysia": 27,
   "The Star": 18,
@@ -29,10 +29,10 @@
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
-  "MalaysiaGazette": 6,
   "Saluran 122": 6,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
+  "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
   "Bernama": 4,
   "Harian Metro": 4,
@@ -74,6 +74,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "29 PATI ditahan, JIM tegas mahu kehadiran PATI dimaklumkan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM1Nqcm5DMVRaQVNfU2dySW54bGRfOEsydWd4X2J3LWZvdmxTZmpyejRCWmpET1A4MlY2Sm1iR3BZaV93ckhQeFR5WV9yNjg1MTk3Nk5mU01oYmFzYkhIYjF0UF85am0zbWo5dTB6bTVfVE5YRUFZd3dWUzRoTjBkOXlqUE1tcmRqR0E?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-13T05:40:45Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "75e044bb833c",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-13T13:28:46Z"
+  },
   {
    "title": "Madius urges Home Ministry to present implementation timeline for RCI recommendations on Sabah’s illegal immigrants",
    "summary": "",
@@ -505,7 +522,7 @@
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah immigration detention OR deportation",
+   "query": "Sabah undocumented",
    "id": "bc6e208de934",
    "tags": [
     "入管・摘発"
@@ -1779,7 +1796,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -3975,7 +3992,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -5749,23 +5766,6 @@
    "title_ja": "コタキナバル国際空港経由の PATI 転送プログラム",
    "summary_ja": "",
    "first_seen": "2026-08-31T01:46:12Z"
-  },
-  {
-   "title": "21 PATI ditahan dalam operasi JIM di Tawau",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRklwV2hrNkIweTB0V1pKeHdKM0RKTkV0YjZWYnVsWlg4VXV6aTFBVFFDN3pZNkRCdDZlalNZb0dwLWlicldpenNhQ2tVNTV5MGgwSFNzQzhULXg5UV9RLU1wZlUwOWx5SWx4eFZKbUVkcVpZWGtRU3dnMlREME5ZX2E0SjMyVGV0YlE?oc=5",
-   "source": "MalaysiaGazette",
-   "date": "2025-10-09T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "6d94d118ec1a",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "タワウでのJIM作戦で21人のPATIが逮捕された",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
   }
  ]
 }
