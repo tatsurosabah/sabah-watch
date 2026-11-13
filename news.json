@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12T22:54:25Z",
- "count": 331,
+ "updated": "2026-11-13T03:42:43Z",
+ "count": 333,
  "tags": {
-  "入管・摘発": 229,
+  "入管・摘発": 231,
   "市民権": 42,
   "無国籍": 33,
   "子ども": 22,
@@ -15,11 +15,11 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 51,
+  "TV Sabah News": 52,
   "Sabah Media": 50,
   "Daily Express Malaysia": 27,
+  "The Star": 18,
   "NST Online": 18,
-  "The Star": 17,
   "sabahnews.com.my": 17,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
@@ -107,6 +107,23 @@
    "title_ja": "ジム・サバ州、フィリピン永住者750人を国外追放、共謀した雇用者に5万リンギットの罰金を課す",
    "summary_ja": "",
    "first_seen": "2026-11-12T22:54:21Z"
+  },
+  {
+   "title": "71 undocumented migrants detained in Ranau and Sandakan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmsyWHg2ZnZRdkY0MTdDcVU3V2dfeG1oQUU3WkFtTkY3c3U4MGRSWWRISTdyc3M2ZG90Sy1EYW1rMlE2RVEzdC02VWgydTRZR1d0Rk5kaGlLMXhkMjE4M2RwalUyQ0duTGVEMVhnR2E2ZXRqelVEVm9OR29uMFFPV3pIZHlhbkk?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-12T14:24:56Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "b75ba12039b2",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-13T03:42:38Z"
   },
   {
    "title": "71 PATI ditahan di Ranau dan Sandakan",
@@ -513,6 +530,23 @@
    "title_ja": "ジム・サバ氏は93 PATIを保有",
    "summary_ja": "",
    "first_seen": "2026-10-26T01:53:38Z"
+  },
+  {
+   "title": "Immigration Dept nabs 93 illegal immigrants in four-day Sabah operation",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUJfMHJ4WTBPQURqSTRzcVN2MTR6b21YRGNiQXc4Z1JVelpRU3d0NTQwYzQ4M0RBVVZLSTdUN0JwTjlZdEc0REdlWWF6ZV9JRTVocWJ6YXdQVWpORDhpcktkR1ZVNnc3LTZ6R2ZrMEJjLW5LUlhOdHcycHBmN2N3XzlILUVqSXY5aDhRRUpncXVWSjlmaXBna3pFZ0g4OUw4RUk4SnpWSkJOSm1FLVp0Y1FncmhNcFlfNVpaMUFB?oc=5",
+   "source": "The Star",
+   "date": "2026-10-25T07:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "33ca2ed24f12",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-13T03:42:38Z"
   },
   {
    "title": "285 PATI warga Filipina dihantar pulang ke negara asal",
