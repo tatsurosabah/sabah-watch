@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-14T03:41:21Z",
- "count": 332,
+ "updated": "2026-11-14T12:33:56Z",
+ "count": 331,
  "tags": {
-  "入管・摘発": 231,
+  "入管・摘発": 230,
   "市民権": 41,
   "無国籍": 33,
   "子ども": 22,
@@ -15,11 +15,11 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 53,
+  "TV Sabah News": 52,
   "Sabah Media": 50,
   "Daily Express Malaysia": 26,
-  "The Star": 18,
   "NST Online": 18,
+  "The Star": 17,
   "sabahnews.com.my": 17,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
@@ -30,11 +30,11 @@
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
+  "Bernama": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
   "Nabalu News": 3,
@@ -87,7 +87,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "不法滞在者29人を逮捕、JIMは不法滞在者の存在を知らせることを強く望んでいる",
    "summary_ja": "",
    "first_seen": "2026-11-13T13:28:46Z"
   },
@@ -138,7 +138,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "ラナウとサンダカンで不法移民71人が拘束",
    "summary_ja": "",
    "first_seen": "2026-11-13T03:42:38Z"
   },
@@ -505,7 +505,7 @@
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah immigration detention OR deportation",
    "id": "bc6e208de934",
    "tags": [
     "入管・摘発"
@@ -544,7 +544,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "入国管理局、サバ州での4日間の作戦で不法移民93人を逮捕",
    "summary_ja": "",
    "first_seen": "2026-11-13T03:42:38Z"
   },
@@ -1760,6 +1760,23 @@
    "first_seen": "2026-08-19T18:14:15Z"
   },
   {
+   "title": "KL, Manila Discuss Expediting Repatriation Of Over 5,000 Immigration Detainees In Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USkFHdUtiZVdQaHdPUlFLZF9zSzJUUG9wWjRQSDVMSG5DdUNxWXlrRURuRFdhSmxHMk9KR0taVVZkaTJPaTdXSk05X2ZXMXVHY0pkeldTX1N4LWpvTFQ2RDV5eGY?oc=5",
+   "source": "Bernama",
+   "date": "2026-08-18T15:37:38Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "f9824dfa75aa",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "クアラルンプールとマニラ、サバ州の移民抑留者5,000人以上の本国送還の促進について協議",
+   "summary_ja": "",
+   "first_seen": "2026-09-06T19:38:38Z"
+  },
+  {
    "title": "Malaysia, Philippines discuss swift repatriation of 5,000 undocumented migrants detained in Sabah depots",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeEYwOU5oVUNLYXI1SE9TYy1wRlYxZTViQ2JlT1g3N3VCd2pUbFQ4aXFwSGcyQlJUa3FoU1RxOWNJRUwzOGd6ejZzSVpHbnM3cVk2Wnc2aUpEY3Npc0xBMzYtUDUyaGlWeWdQclF6TTBjWGduV0xYdlFsU3NldGtiaFNqaXBSd2tuS1k1MXRITk9GbTFQX0gwaDhzbl80a3JFWnY5b0lqSUJkcjlkY1BPR1FRWXlMQUpOZ3NGNFZHRVh3VU4zeTZFSjBTbEhubGhvSUJhZHdiVkMyeFRZaXQteDcwMjJJWmJHMEFvWU15dFREd9IB9wFBVV95cUxOWGlGUUVpaFptS3NMUS1femd3aDFzMWxhVDIzR3JPR01tdFFDdE5DZnp5M2FmNDZXTGZ1NTRwTjM0aUxrdUJqbWZkc0tBQzJGbkIxY2FZQ1pxRGhDLUNKdG9PUnlWOVpGTDdqLXdoY1RwWnhuT0dXcVVBQ24xeUtabnh0aTFNbFo2Qy1uRUFVMExfaEp4UDVuOU1kZ1R4dUxRZlhOZ1dxOVdvbUJEUXpTUVhoWEhuTFhQUnM2SWp3TTIzT01JZ1lVS3R0bXR5V2lCQXpEdWpiSUJfZ1Jqd1FxQjMxTFQxMlhLcnM4MkxOVFJ6QU8yOC1Z?oc=5",
@@ -1792,23 +1809,6 @@
    "title_ja": "クアラルンプールとマニラ、サバ州の5,000人以上のフィリピン人永住者の本国送還の加速について協議 - Tok Mat",
    "summary_ja": "",
    "first_seen": "2026-08-18T12:17:47Z"
-  },
-  {
-   "title": "KL, Manila discuss expediting repatriation of over 5,000 immigration detainees in Sabah",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWN0TExkRjctRnhvc3dLOUloR2tBejVLN2F3Zi1iT0JmRjNuVzJmUTBhaHJFQ1hhS2tDTG53Z2diS3Q0Y2JJOVdjX0tCLXA1UFpHdWdwNmxFN3I0OFpZVWE0WDlFTnVaTTFJdVpET0IyVF9CTUp6Q3R4TExIU2l5bGdlbWJOcUtRSTFYVi10ZjNsbGhYRngwamhkVXV2eWhuYkVkaHNuUHJYZVR1cXVmSFI2N1N0NVB5bTB1RlF6SkR5Z2hGdDRZWXZodDJKdi1F?oc=5",
-   "source": "The Star",
-   "date": "2026-08-18T07:00:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "f9824dfa75aa",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "クアラルンプールとマニラ、サバ州の移民抑留者5,000人以上の本国送還の促進について協議",
-   "summary_ja": "",
-   "first_seen": "2026-09-06T19:38:38Z"
   },
   {
    "title": "Malaysia-Filipina percepatkan penghantaran pulang lebih 5,000 PATI",
@@ -5732,23 +5732,6 @@
    "title_ja": "サバ州の統合移民作戦で不法滞在者29人が逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "Program Pemindahan PATI Melalui Lapangan Terbang Antarabangsa Kota Kinabalu",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDAycTVwZlB3bkxBVE16MTBET2NxU0NPUkl0bjFxcGZsUjkxQU9CZm5nT2h3bGx5X0FyamdjTVZTZzk5NWoxajljZXpfeGwwZm9ReDQ4MS13VTI1UGY4cWo1Ym51dFBtQ0RsVFFQNkhvYjRtb2dVYUFsd0VxSWo2Y0dOVmEyeGJyNFU3QldxNkRkLUE0Wmxxc0dsQjZMVlhlb0E?oc=5",
-   "source": "TV Sabah News",
-   "date": "2025-10-10T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "b54adab181e0",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "コタキナバル国際空港経由の PATI 転送プログラム",
-   "summary_ja": "",
-   "first_seen": "2026-08-31T01:46:12Z"
   }
  ]
 }
