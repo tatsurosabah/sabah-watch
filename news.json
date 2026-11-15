@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:59:48Z",
+ "updated": "2026-11-15T22:08:23Z",
  "count": 331,
  "tags": {
   "入管・摘発": 230,
@@ -244,23 +244,6 @@
    "title_ja": "ペナンパン州コタキナバルでの入国審査で36人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-11-11T13:00:12Z"
-  },
-  {
-   "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
-   "source": "Berita Harian",
-   "date": "2026-11-10T13:12:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "2d263553e01a",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "今年、サバ州から4,000人近くのPATIが追放された",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
   },
   {
    "title": "63 PATI warga Indonesia dipulangkan ke Nunukan",
@@ -2852,6 +2835,23 @@
    "first_seen": "2026-08-12T07:01:25Z"
   },
   {
+   "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3fSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
+   "source": "Berita Harian",
+   "date": "2026-06-25T07:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "2d263553e01a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "今年、サバ州から4,000人近くのPATIが追放された",
+   "summary_ja": "",
+   "first_seen": "2026-08-09T01:55:15Z"
+  },
+  {
    "title": "91 illegal immigrants nabbed in four Sabah districts",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRldLRkNLUnJqaExMTl9feEg2ZHR4OE9yV1AyTzJnelRINjNuQlJDdk0yTlNwSG9kZzM3czhZMmMxbVhxTDdLeWFaYzhSUTVnNW9zNlluODFRX0hhNDlRazcwZ2J6d1NzNWhabWExVlM5dHlvOTdSY2pIY3EzMDRsS0x6ek1mZi0zbWZHVWRrYXI1OGxPa21yc1VFMm1tNVk4M0hoUg?oc=5",
@@ -3285,7 +3285,7 @@
   {
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZzhUY2pvdGt1dU1PTldUWjhfLWtJRGhvaDR3TTkwVkNYNW9rLVFjX0VQenZXalhJUzVDeVpEb3FzZnduMVN1eWMxTlJwZThvT1RmdDRwSmpiT3Bm?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
