@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:08:23Z",
+ "updated": "2026-11-16T03:20:08Z",
  "count": 331,
  "tags": {
   "入管・摘発": 230,
@@ -295,23 +295,6 @@
    "first_seen": "2026-11-08T02:49:44Z"
   },
   {
-   "title": "Sabah Immigration Dept Deports 909 Undocumented Migrants In Single Day",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1UwR0JjSkE2TGY4bXBrb2hlQnZnUWw3UDRUNFhrMXJwd1ZXYjVqWUl0VGxJbVVkYTdib3A2aWNjSUpxOFk2ODQ5WTZ4Um9OQUpfRWxGWTVHNDBXMDBaalhqWExMRXdpR19mN1p4VVVEZmdMejhhOVdPT2JGTTBuaE5ZWHlwM3A1QWtHN3JmdE94eDBqa25wb3dOdw?oc=5",
-   "source": "TV Sabah News",
-   "date": "2026-11-05T15:55:54Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "4b69437a346f",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州入国管理局、1日で909人の不法移民を国外追放",
-   "summary_ja": "",
-   "first_seen": "2026-11-05T22:56:42Z"
-  },
-  {
    "title": "JIM Sabah Usir 909 PATI Dalam Satu Hari",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NaGVnQjB3OWxKTldseElWVTRwS0ljdHR0OUZnanZTM2trVmdlc2c0SnhmMUJWTTlYMkxnMm1XWHY0OE9ZVnZKNWhlUkxHdTN3YTB2NlpVV1JFbEF5blViX1ZYMXM0NFBpME5pTm85eXBBQQ?oc=5",
@@ -344,6 +327,23 @@
    "title_ja": "サバ州、11月5日までに不法移民8,405人を追放",
    "summary_ja": "",
    "first_seen": "2026-11-05T13:32:48Z"
+  },
+  {
+   "title": "Sabah Immigration Dept Deports 909 Undocumented Migrants In Single Day",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1UwR0JjSkE2TGY4bXBrb2hlQnZnUWw3UDRUNFhrMXJwd1ZXYjVqWUl0VGxJbVVkYTdib3A2aWNjSUpxOFk2ODQ5WTZ4Um9OQUpfRWxGWTVHNDBXMDBaalhqWExMRXdpR19mN1p4VVVEZmdMejhhOVdPT2JGTTBuaE5ZWHlwM3A1QWtHN3JmdE94eDBqa25wb3dOdw?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-05T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "4b69437a346f",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州入国管理局、1日で909人の不法移民を国外追放",
+   "summary_ja": "",
+   "first_seen": "2026-11-05T22:56:42Z"
   },
   {
    "title": "Menggaji PATI, majikan didenda RM10,000",
@@ -466,7 +466,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -3285,7 +3285,7 @@
   {
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZzhUY2pvdGt1dU1PTldUWjhfLWtJRGhvaDR3TTkwVkNYNW9rLVFjX0VQenZXalhJUzVDeVpEb3FzZnduMVN1eWMxTlJwZThvT1RmdDRwSmpiT3Bm?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
