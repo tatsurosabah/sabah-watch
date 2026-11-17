@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-17T01:08:40Z",
- "count": 331,
+ "updated": "2026-11-17T14:57:34Z",
+ "count": 333,
  "tags": {
   "入管・摘発": 230,
   "市民権": 41,
   "無国籍": 33,
   "子ども": 22,
-  "難民": 15,
-  "政策・政治": 12,
+  "難民": 17,
+  "政策・政治": 13,
   "バジャウ": 11,
   "人権・NGO": 8,
+  "医療・福祉": 5,
   "ロヒンギャ": 4,
-  "医療・福祉": 3,
   "教育": 3
  },
  "sources": {
@@ -35,6 +35,7 @@
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
+  "Malaysiakini": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
   "Nabalu News": 3,
@@ -43,7 +44,6 @@
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
-  "Malaysiakini": 2,
   "BusinessMirror": 1,
   "Inquirer.net": 1,
   "The Sun Malaysia": 1,
@@ -74,6 +74,43 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "MP Sabah: Sediakan pelan tindakan isu tunggakan bil hospital pelarian",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaklObkJJZ2F3U1RmQWdnLXhPbHBLVGZPQ3NuNjNCR1ZzaWRRXzRmRHFXZmNzV1J2VmRnTHUxVnlHQ0NKODZfRURTTlJLMUppS3lmM2Y4dlI1bjlaeHBaenNlZHZUTm5TenpRandSSWJLWTY4SG1YbVNndldMcGxHLXZydGpRYVpUVmtLZmhDck1vT1BYVURmaWNKOXlZdFpwOVB5SmotU0tFLUNfb2c?oc=5",
+   "source": "Malaysiakini",
+   "date": "2026-11-17T12:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "ea79b37423ae",
+   "tags": [
+    "難民",
+    "医療・福祉"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-17T14:57:29Z"
+  },
+  {
+   "title": "Sabah MP urges action plan over unpaid hospital bills among refugees, undocumented migrants",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWUwTmdKYVlmUjdVaFJGclVEbnl4aFBoc0dNMDQxUGVtLU93OVlrNG9lc1hjUlU4NXBEWmpQMThGMFdQVlg4ektUOHU4X0s1c3E1Y1lFSmdZdVJrOWdGWGoyamRGNWZnd2lmME5WOUJtQVc0Qm41TU9vOTR0RUtBRjI1VHBVTGVCTjVfU1ZnVzc1VnJ6OGMtNHdUY3dNZkQwcE9acUFCcGN3V0U4VlRFdmczN0xCWnFOb0lNRGhpNEh2TlJMWGdraS04QQ?oc=5",
+   "source": "Malaysiakini",
+   "date": "2026-11-17T10:39:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "c2f48a2f8c87",
+   "tags": [
+    "医療・福祉",
+    "政策・政治",
+    "難民"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-17T14:57:29Z"
+  },
   {
    "title": "29 PATI ditahan, JIM tegas mahu kehadiran PATI dimaklumkan",
    "summary": "",
@@ -2945,10 +2982,10 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "無国籍",
+    "人権・NGO",
     "市民権",
     "政策・政治",
-    "人権・NGO"
+    "無国籍"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
@@ -4372,7 +4409,7 @@
    "date": "2026-04-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "2a750d42659b",
    "tags": [
     "無国籍",
