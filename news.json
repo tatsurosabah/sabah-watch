@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-17T14:57:34Z",
- "count": 333,
+ "updated": "2026-11-18T00:04:06Z",
+ "count": 334,
  "tags": {
   "入管・摘発": 230,
   "市民権": 41,
   "無国籍": 33,
   "子ども": 22,
-  "難民": 17,
+  "難民": 18,
   "政策・政治": 13,
   "バジャウ": 11,
   "人権・NGO": 8,
@@ -30,7 +30,6 @@
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
   "Saluran 122": 6,
-  "Bernama": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
@@ -38,12 +37,15 @@
   "Malaysiakini": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
+  "Warta Oriental": 1,
   "BusinessMirror": 1,
   "Inquirer.net": 1,
   "The Sun Malaysia": 1,
@@ -74,6 +76,23 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTg2Vm9EZWtHTV80QVJlZVNpUUtqa25YYWJvbXhMd2VYLTRZOTZ0Q2l3OXI1dDRZM1VMRUVmUHpHS2VGRnZOYmJ4OXZNaGNrbFFSWFRxbENtMDVpQUlQMEpKa2kwYlRqUlkwNmdTMUcyMzFRdUpjNDQ1LVVGOGVyNkhvWjY1bDdMQWlMSzVnOE00cmRGY3FpMGxJdV9oLWcwMkptQXl3?oc=5",
+   "source": "Warta Oriental",
+   "date": "2026-11-17T15:08:13Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "ac425ce5ed0b",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-18T00:03:58Z"
+  },
   {
    "title": "MP Sabah: Sediakan pelan tindakan isu tunggakan bil hospital pelarian",
    "summary": "",
@@ -708,7 +727,7 @@
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdi1HX0xYNzRRQ3dMSl9xd29Ba1ZjY0k0WnU1YzFXWmRiTHJRRWVDRWd6c0czdkRQa281Z1BwWmpFM2tsWnl3SmJzcmR1M0VzbDJZOWx6YlEwbGpfT1pFNmNDQU5BSXc?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-19T08:54:00Z",
    "lang": "en",
    "origin": "news",
@@ -944,7 +963,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -2874,7 +2893,7 @@
   {
    "title": "Hampir 4,000 PATI sudah diusir dari Sabah tahun ini",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnBrY3J6MGdJS1RLS0dsbnJBYzhfenBFRFBBZE5aWG4yeU8zZlhLV3ZrUXJLdm5UREtNUXdranRQTmxKY3JlaDdSSzhuOW40RkdlemI1RXlxcm1NcjF2ZFkxQVlSd2NmLTZRbkFXRjZlX24wWFdxOHNERVJvOGEyM0V0V3pmV1E2OTdGaTFPcUlBeXNEdWFVZ1JOQVZfbUhJMjlCLThmZ1p5X0RZZ3fSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcmhJZlFvY21IOVU2cGRXekkxdFlILVJFZkJSbjdPZXd0ZllTdXAtWVd1WjQ2TFBiSHEyUlRjaS1SVmF2cm92Y3RDZFRPT2pZaUJfRW95cC14VnAyRHMxR2VHTFZfYWQ3UWg4YUdUUkw1VldrRF9vSG80bWo3RlpnSFZQMWtOWXgzWk9sczJxeGc2RVhwX3JKckRUM2ZIVGxNTWdtVzdYdkVDMFhRQ2QtalBZSVVPQllaR2djdmdZQ3XSAbMBQVVfeXFMUFRLYjliTUJZajJkM0Z2SWxlMWlkLUE3OVhzTFRSQldpV2xoaUFNVjB1Y0xxSTB5YWtKNjlNQTlKTDc4Xy13LUNZUzd1M1VXV3l1NTdWbGZMaFNpOGNORHZVQU5LTWlKbFJCbjZCRThTUVNBTFVmZFlBWmNCSEFjaDlNSzVzRlJDa1JoN2VBbnVCeUJMMVFiT0lXem5ycGRVVVJBNkdZczFsVkRRU2ZfLTdPU1E?oc=5",
    "source": "Berita Harian",
    "date": "2026-06-25T07:00:00Z",
    "lang": "ms",
@@ -4531,11 +4550,11 @@
    "date": "2026-03-31T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "f97cc4562358",
    "tags": [
-    "無国籍",
-    "バジャウ"
+    "バジャウ",
+    "無国籍"
    ],
    "title_ja": "無国籍バジャウ・ラウト4人が起訴、3人が保釈",
    "summary_ja": "",
