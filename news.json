@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T14:44:40Z",
- "count": 334,
+ "updated": "2026-11-19T23:56:09Z",
+ "count": 335,
  "tags": {
-  "入管・摘発": 230,
+  "入管・摘発": 231,
   "市民権": 41,
   "無国籍": 33,
   "子ども": 22,
@@ -18,8 +18,8 @@
   "TV Sabah News": 52,
   "Sabah Media": 50,
   "Daily Express Malaysia": 26,
+  "The Star": 18,
   "NST Online": 18,
-  "The Star": 17,
   "sabahnews.com.my": 17,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
@@ -41,17 +41,18 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
-  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
   "Warta Oriental": 1,
+  "Newswav": 1,
   "BusinessMirror": 1,
   "Inquirer.net": 1,
-  "The Sun Malaysia": 1,
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
+  "The Sun Malaysia": 1,
+  "bernama": 1,
   "Sabah News": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
@@ -148,6 +149,23 @@
    "first_seen": "2026-11-13T13:28:46Z"
   },
   {
+   "title": "Ranau folks tip off Sabah Immigration Department on illegals",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdXJWU2txekdBeFYyOG5Tbkk2YUpLeUx0c3djUzZuWFlLaHViUHZoRnZ5S2F4eWRNd3phb1MxSEtYRUxUbnh1RnprWURZUW0tOEliRFM2dnp1Tkx3TEl0RnlWMlBQb0gxREpSZWtPNVNjRXJjVXBuek01ZXU5eWRTRllNVGtNVGx4V0pnQ2VyakFNUTFpWGRGWXJtM3NMazNqQ3dj?oc=5",
+   "source": "Newswav",
+   "date": "2026-11-13T01:30:52Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "d6419f0c9a09",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ラナウの人々がサバ州入国管理局に不法滞在者について密告",
+   "summary_ja": "",
+   "first_seen": "2026-11-19T23:56:07Z"
+  },
+  {
    "title": "Madius urges Home Ministry to present implementation timeline for RCI recommendations on Sabah’s illegal immigrants",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWRLQlpKLXdFTHZ4Vl9lRW9MbUhsMFlCWktpTXR0Zl9oQ3ZQeTg0bS1QLW9KRVZoRF8wYUlXUTd5SGIybXhJSW92ejBQVm9EOWFxWDRSR0JpbTV4N2ZRRzRXU09GWWYyYm1DTWNQZGRSOHFGY3JNOEI4S0RTWTRYWTB6MmpYd0ItOXRWMkFFeThzUGFIbFlsUGdhcWxYMjh5c2lOTERZLVh0TFF6RjBtMVp1UGZNLUZnTHRnWlNjZE1VcGVrTzhadEdySzhQaXVBU2R4b0Q3bXdPNzk4WFF3RmEzNkZnYVlf0gHuAUFVX3lxTE0tVXVxM2IzbExyY0ZuZWNxaktuaWtyWF9xRHRVYjI2aGEtZFNFVVBRaHBVdl8zZ3Faclg0MTB0N1RaRXZaa1oybnVFRE83X2syQWctVnFlNnhOZm01LTd4TUV3UzVubVg4b0M4QlUxQlJtR2hrTDY0RGVZcGU2bVllNjdIWExjbzNDcjVEZk42a1k5VXF0c1JWYTJvbEVsQ25vOGRwWTVza01mMkFUdkh5M1JHeTlIV2Q5ZF9IZGd4dml5SkpncXBidS14YWN4Z3FBYzEyTmRVbXBCcm1mS1NCYTBxQWh0SHN6bjZsaGc?oc=5",
@@ -214,23 +232,6 @@
    "title_ja": "ラナウとサンダカンで71人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-11-12T22:54:21Z"
-  },
-  {
-   "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEY0d01Welp4clVxb0RZbzhRal80VUV4RU5NTmIxYldWYTZqWkpRYml6RkdnNXk4dTduR3NRSlFRNGttOGdCQlVhM2VCeTBVanFVc3p6eHJaalB3a0t6RGZaMTNPQ0F1bjBwbUhpNFRuY1R2WWpRYlZTeGxIMnZFallqeG82QkdCMHd2ZUJ1blhsaFUzZXZ4ekRfX0hDcnU3elUzOEZ0c3FnWjF5NHJF?oc=5",
-   "source": "TV Sabah News",
-   "date": "2026-11-11T15:13:38Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "dea6b5c4508a",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "ジム・サバ州、5つの不法入植拠点を襲撃、不法移民71人を拘束",
-   "summary_ja": "",
-   "first_seen": "2026-11-11T23:44:41Z"
   },
   {
    "title": "JIM Sabah Gempur Lima Kubu Setinggan, 71 PATI Ditahan",
@@ -300,6 +301,23 @@
    "title_ja": "ペナンパン州コタキナバルでの入国審査で36人のPATIが逮捕された",
    "summary_ja": "",
    "first_seen": "2026-11-11T13:00:12Z"
+  },
+  {
+   "title": "JIM Sabah Raids Five Illegal Settlement Strongholds, 71 Undocumented Migrants Detained",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEY0d01Welp4clVxb0RZbzhRal80VUV4RU5NTmIxYldWYTZqWkpRYml6RkdnNXk4dTduR3NRSlFRNGttOGdCQlVhM2VCeTBVanFVc3p6eHJaalB3a0t6RGZaMTNPQ0F1bjBwbUhpNFRuY1R2WWpRYlZTeGxIMnZFallqeG82QkdCMHd2ZUJ1blhsaFUzZXZ4ekRfX0hDcnU3elUzOEZ0c3FnWjF5NHJF?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-11T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "dea6b5c4508a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "ジム・サバ州、5つの不法入植拠点を襲撃、不法移民71人を拘束",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T23:44:41Z"
   },
   {
    "title": "63 PATI warga Indonesia dipulangkan ke Nunukan",
@@ -488,23 +506,6 @@
    "first_seen": "2026-10-30T11:42:57Z"
   },
   {
-   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
-   "source": "The Sun Malaysia",
-   "date": "2026-10-29T18:22:39Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "d6726ec06f98",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州移民局、州全体の一斉捜索で不法移民169人を逮捕",
-   "summary_ja": "",
-   "first_seen": "2026-10-19T17:48:50Z"
-  },
-  {
    "title": "800 tahanan Filipina dihantar pulang dari Sabah",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObExIdUc5MHM2Z0VjNVoxRjRVOVZMTjJDVG1seFVsTjF6MUt2YTNRNS00V1NxUVZObnh3YVgxeXBWbEZ3cG9hdmVOdzBLSDV4aGd1LWVobGhVV3JCVEJhNVh4anFjZVZBdUhyVnZNSHRQZHRNY3hTdGZtOUktNVlkd1Nubng1aFk?oc=5",
@@ -522,7 +523,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -722,6 +723,23 @@
    "title_ja": "サバ州移民局、不法移民169人を逮捕",
    "summary_ja": "",
    "first_seen": "2026-10-22T02:01:53Z"
+  },
+  {
+   "title": "Sabah Immigration arrests 169 illegal immigrants in statewide sweep",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGx3cmdGZEIxUjdNcFYwdTFxY2xJUlhnYnJkQzhHRDF6ajlPWVBxVVNQNG5rR053QUtqX1V5b1AzNXRzbFluRzdPa2xCekFPby1zR3B6NGd1enlBZnpQSk80LTdpT2xDdjRtUEtiTnY1UUloMlZvclZSaFEteUUzaVI0aklrS2pKN1ljNFJiUHM4OFhlQnZ2d3RpUS0tWnhjTEV3ZS1WdTY?oc=5",
+   "source": "The Sun Malaysia",
+   "date": "2026-10-19T13:43:10Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "d6726ec06f98",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州移民局、州全体の一斉捜索で不法移民169人を逮捕",
+   "summary_ja": "",
+   "first_seen": "2026-10-19T17:48:50Z"
   },
   {
    "title": "Sabah Immigration Arrests 169 Undocumented Migrants In Statewide Sweep",
@@ -963,7 +981,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -1799,11 +1817,11 @@
    "first_seen": "2026-08-19T18:14:15Z"
   },
   {
-   "title": "KL, Manila Discuss Expediting Repatriation Of Over 5,000 Immigration Detainees In Sabah",
+   "title": "KL, Manila discuss expediting repatriation of over 5,000 immigration detainees in Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USkFHdUtiZVdQaHdPUlFLZF9zSzJUUG9wWjRQSDVMSG5DdUNxWXlrRURuRFdhSmxHMk9KR0taVVZkaTJPaTdXSk05X2ZXMXVHY0pkeldTX1N4LWpvTFQ2RDV5eGY?oc=5",
-   "source": "Bernama",
-   "date": "2026-08-18T15:37:38Z",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWN0TExkRjctRnhvc3dLOUloR2tBejVLN2F3Zi1iT0JmRjNuVzJmUTBhaHJFQ1hhS2tDTG53Z2diS3Q0Y2JJOVdjX0tCLXA1UFpHdWdwNmxFN3I0OFpZVWE0WDlFTnVaTTFJdVpET0IyVF9CTUp6Q3R4TExIU2l5bGdlbWJOcUtRSTFYVi10ZjNsbGhYRngwamhkVXV2eWhuYkVkaHNuUHJYZVR1cXVmSFI2N1N0NVB5bTB1RlF6SkR5Z2hGdDRZWXZodDJKdi1F?oc=5",
+   "source": "The Star",
+   "date": "2026-08-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -3421,9 +3439,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
-    "無国籍",
     "子ども",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -3490,8 +3508,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
