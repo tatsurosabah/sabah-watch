@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-20T14:26:53Z",
- "count": 340,
+ "updated": "2026-11-20T23:25:44Z",
+ "count": 342,
  "tags": {
-  "入管・摘発": 232,
+  "入管・摘発": 233,
   "市民権": 41,
   "無国籍": 33,
+  "難民": 22,
   "子ども": 22,
-  "難民": 21,
-  "政策・政治": 15,
+  "政策・政治": 16,
   "バジャウ": 11,
   "人権・NGO": 8,
   "医療・福祉": 5,
@@ -15,10 +15,10 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 54,
+  "TV Sabah News": 55,
   "Sabah Media": 50,
   "Daily Express Malaysia": 26,
-  "The Star": 19,
+  "The Star": 18,
   "NST Online": 18,
   "sabahnews.com.my": 17,
   "Borneo Post": 12,
@@ -41,9 +41,11 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
+  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
+  "KLSE Screener": 1,
   "DayakDaily": 1,
   "Warta Oriental": 1,
   "Newswav": 1,
@@ -53,7 +55,6 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
-  "bernama": 1,
   "Sabah News": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
@@ -79,6 +80,24 @@
  },
  "items": [
   {
+   "title": "Refugee card holders barred from Sabah, Sarawak and Labuan — Home Ministry",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTV94ek5WTUZ1WDdONnVVZ1RTQXVYYk5FSk9iUWplQmJ2eVFiZlYzYlgtQTlFOWtNSUtJYWs0ZVpCSk1VN0NhdGlwclZMejFVQ1g4RWZIWnFrUF9XMEJWaFpwNXUxb2FKbjk3UTdDSjAyZ3diWm44TFBGVy1kN3pFSEd3YjB5Q0dmblBzS1FqYzNXd1lldHpsdkFGdFViSUlsMFU3NG9GMlNTUjJnekNDT1FhQnNpanVOeU45Ym1R?oc=5",
+   "source": "KLSE Screener",
+   "date": "2026-11-20T08:08:41Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah UNHCR OR asylum",
+   "id": "fb9b513855b6",
+   "tags": [
+    "難民",
+    "政策・政治"
+   ],
+   "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 — 内務省",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T23:25:37Z"
+  },
+  {
    "title": "Refugee cardholders face entry ban to S’wak, Sabah and Labuan",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGVTWHgtMGFieFZnT1JXSjdFZERkeE5WYUJ5UEM0Y0czYVVxR0NjX3dwdkFtUHBldWg0QkZvN0xXNHpBNVU2dW1GRjI3Z0pjaGY3VS1GeVg3eUtxOEVOZ0hyanlxMnFhVk0yZEthSlNxTFJqN1EzS05oMnRleEY4d0xGNWF0YS02U0FR?oc=5",
@@ -91,7 +110,7 @@
    "tags": [
     "難民"
    ],
-   "title_ja": "",
+   "title_ja": "難民カード保有者はスワック、サバ、ラブアンへの入国禁止に直面する",
    "summary_ja": "",
    "first_seen": "2026-11-20T14:26:38Z"
   },
@@ -106,10 +125,10 @@
    "query": "Sabah refugee",
    "id": "370b51439690",
    "tags": [
-    "政策・政治",
-    "難民"
+    "難民",
+    "政策・政治"
    ],
-   "title_ja": "",
+   "title_ja": "難民カード保持者はサバ州、サラワク州、ラブアン島への入国を禁止されると内務省が発表",
    "summary_ja": "",
    "first_seen": "2026-11-20T14:26:38Z"
   },
@@ -124,10 +143,10 @@
    "query": "Sabah refugee",
    "id": "eae22f705a9f",
    "tags": [
-    "政策・政治",
-    "難民"
+    "難民",
+    "政策・政治"
    ],
-   "title_ja": "",
+   "title_ja": "内務省：難民カード保持者はサバ州、サラワク州、ラブアン島への入国を禁止",
    "summary_ja": "",
    "first_seen": "2026-11-20T14:26:38Z"
   },
@@ -142,7 +161,7 @@
    "query": "Sabah undocumented",
    "id": "b557ae668eb1",
    "tags": [],
-   "title_ja": "",
+   "title_ja": "755人のフィリピン人不法移民がサンダカン経由で本国送還",
    "summary_ja": "",
    "first_seen": "2026-11-20T04:44:12Z"
   },
@@ -159,7 +178,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サンダカン経由でフィリピン国籍755人が国外追放された",
    "summary_ja": "",
    "first_seen": "2026-11-20T04:44:12Z"
   },
@@ -269,6 +288,23 @@
    "first_seen": "2026-11-12T22:54:21Z"
   },
   {
+   "title": "Sabah Immigration Dept Repatriates 750 Filipino Illegal Immigrants, Employers Who Abet Face RM50,000 Fine",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWE9WTjJ1QTlBQ0ZrYmprNndfTzhLaXFfM2xHZEw2cnFPVk9hMGJZRkdhNnNnV2xUblNfZUM2ZWRocXgycUUzeGxHeU9wZEZZYzBWQ0tScnEtNTRJZ212OWVURXlmT1R5RmRBcnhBN3VuN1AtT3V5Q01fcVBScEh1UTdXTDZFbGpVRTNlR2plX0gxY0NOYl9Sd1JxYlE1Z3JNYkFxV1M1WkRSRUo5Y0x1UmNwQ0psR1JwQUx1UE1EMHFBbFdtRXhR?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-12T16:00:54Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "b443f645ddb8",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "サバ州入国管理局、フィリピン人不法移民750人を送還、教唆した雇用主に5万リンギットの罰金を課す",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T23:25:37Z"
+  },
+  {
    "title": "JIM Sabah Usir 750 PATI Filipina, Majikan Bersubahat Berdepan Denda RM50,000",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNUNsQW12V2ZQd2NnWHJvVDJJQ2dNOVVYRW9oRTBtS2ZlLWtpYTVQYTZUWF9XZkQwWFh1VzE4a2ZhQXNQbnhJM05mMGV3X2JCRFhVRl94R1BGdnZVUkIwN0ViWElxb1NIZFdodDEzVG16bVJJYzRXMERQamRzb1hSbHpLbGI1LUNrWlFuNXNYdTd3NjlNODVjTXprSXdGOGFKaUtR?oc=5",
@@ -337,24 +373,6 @@
    "first_seen": "2026-11-11T23:44:41Z"
   },
   {
-   "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemVuNjQxdlQyVG5oc1hwcmFsblZ1bFItOHBVQWxBZVhKZ1NSd2Z2X0dlc1NaR3lvQWdSblhnSWxndXNzT0pmNzRRdXJDaE9LRFRuR3l1ODR2RDJ6NlBmOThEOXRpSXhwWFluaVQzY0pSaDRXX2xFNktabkplczV1TE9tY2dxLWF2Ry1RMlF5NFVLbDB5XzB6c2N4SmlCZUlJem1wMUd4WEVTbWg2d09VZXBLS1JmX0NP?oc=5",
-   "source": "The Star",
-   "date": "2026-11-11T11:19:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah undocumented",
-   "id": "fcad44761a75",
-   "tags": [
-    "入管・摘発",
-    "子ども"
-   ],
-   "title_ja": "サバ州襲撃で子供25人を含む不法移民107人が拘束される",
-   "summary_ja": "",
-   "first_seen": "2026-11-11T13:00:12Z"
-  },
-  {
    "title": "36 undocumented migrants detained in Immigration operation in Kota Kinabalu, Penampang",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDJuOEIxR0hZTDlUb09HUnh2YWd0MFBRaVZGZzNiMWtHTmJVU1Fad08wZklISWExWTlCYmhVV202SzNCMk1fNFA1LUhZQnZ2OTFUbVByZGJPUmdlbU5kVVVhWVZYMUk5eEVuN1M2MUhZb3EwTm13bFZsM2poNllYZk95bTF6cmJodExjOGlxbVpsRzNiY2hJRXRDeUZjSnZFRjltRkhKVmtOdXNpMFJn?oc=5",
@@ -385,6 +403,24 @@
     "入管・摘発"
    ],
    "title_ja": "ペナンパン州コタキナバルでの入国審査で36人のPATIが逮捕された",
+   "summary_ja": "",
+   "first_seen": "2026-11-11T13:00:12Z"
+  },
+  {
+   "title": "107 undocumented migrants, including 25 children, held in Sabah raids",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemVuNjQxdlQyVG5oc1hwcmFsblZ1bFItOHBVQWxBZVhKZ1NSd2Z2X0dlc1NaR3lvQWdSblhnSWxndXNzT0pmNzRRdXJDaE9LRFRuR3l1ODR2RDJ6NlBmOThEOXRpSXhwWFluaVQzY0pSaDRXX2xFNktabkplczV1TE9tY2dxLWF2Ry1RMlF5NFVLbDB5XzB6c2N4SmlCZUlJem1wMUd4WEVTbWg2d09VZXBLS1JmX0NP?oc=5",
+   "source": "The Star",
+   "date": "2026-11-11T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "fcad44761a75",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "サバ州襲撃で子供25人を含む不法移民107人が拘束される",
    "summary_ja": "",
    "first_seen": "2026-11-11T13:00:12Z"
   },
@@ -518,7 +554,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サバ州の雇用主、今年総額210万リンギットの罰金 - 入国管理局",
    "summary_ja": "",
    "first_seen": "2026-11-20T04:44:12Z"
   },
@@ -626,7 +662,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -1084,7 +1120,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -1920,11 +1956,11 @@
    "first_seen": "2026-08-19T18:14:15Z"
   },
   {
-   "title": "KL, Manila discuss expediting repatriation of over 5,000 immigration detainees in Sabah",
+   "title": "KL, Manila Discuss Expediting Repatriation Of Over 5,000 Immigration Detainees In Sabah",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWN0TExkRjctRnhvc3dLOUloR2tBejVLN2F3Zi1iT0JmRjNuVzJmUTBhaHJFQ1hhS2tDTG53Z2diS3Q0Y2JJOVdjX0tCLXA1UFpHdWdwNmxFN3I0OFpZVWE0WDlFTnVaTTFJdVpET0IyVF9CTUp6Q3R4TExIU2l5bGdlbWJOcUtRSTFYVi10ZjNsbGhYRngwamhkVXV2eWhuYkVkaHNuUHJYZVR1cXVmSFI2N1N0NVB5bTB1RlF6SkR5Z2hGdDRZWXZodDJKdi1F?oc=5",
-   "source": "The Star",
-   "date": "2026-08-18T07:00:00Z",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5USkFHdUtiZVdQaHdPUlFLZF9zSzJUUG9wWjRQSDVMSG5DdUNxWXlrRURuRFdhSmxHMk9KR0taVVZkaTJPaTdXSk05X2ZXMXVHY0pkeldTX1N4LWpvTFQ2RDV5eGY?oc=5",
+   "source": "Bernama",
+   "date": "2026-08-18T15:37:38Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah undocumented",
@@ -3122,10 +3158,10 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
