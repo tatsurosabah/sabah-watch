@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-20T04:44:20Z",
- "count": 338,
+ "updated": "2026-11-20T14:26:53Z",
+ "count": 340,
  "tags": {
-  "入管・摘発": 233,
+  "入管・摘発": 232,
   "市民権": 41,
   "無国籍": 33,
   "子ども": 22,
-  "難民": 18,
-  "政策・政治": 13,
+  "難民": 21,
+  "政策・政治": 15,
   "バジャウ": 11,
   "人権・NGO": 8,
   "医療・福祉": 5,
@@ -18,7 +18,7 @@
   "TV Sabah News": 54,
   "Sabah Media": 50,
   "Daily Express Malaysia": 26,
-  "The Star": 18,
+  "The Star": 19,
   "NST Online": 18,
   "sabahnews.com.my": 17,
   "Borneo Post": 12,
@@ -29,12 +29,12 @@
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
-  "Saluran 122": 6,
+  "Malaysiakini": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
+  "Saluran 122": 5,
   "Portal Berita RTM": 5,
-  "Malaysiakini": 4,
   "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
@@ -44,6 +44,7 @@
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
+  "DayakDaily": 1,
   "Warta Oriental": 1,
   "Newswav": 1,
   "BusinessMirror": 1,
@@ -77,6 +78,59 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "Refugee cardholders face entry ban to S’wak, Sabah and Labuan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcGVTWHgtMGFieFZnT1JXSjdFZERkeE5WYUJ5UEM0Y0czYVVxR0NjX3dwdkFtUHBldWg0QkZvN0xXNHpBNVU2dW1GRjI3Z0pjaGY3VS1GeVg3eUtxOEVOZ0hyanlxMnFhVk0yZEthSlNxTFJqN1EzS05oMnRleEY4d0xGNWF0YS02U0FR?oc=5",
+   "source": "DayakDaily",
+   "date": "2026-11-20T05:59:37Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "e0f35f368484",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T14:26:38Z"
+  },
+  {
+   "title": "Refugee card holders barred from Sabah, Sarawak and Labuan, says Home Ministry",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVWdnZDFjcVAwcmJiWGR6N2ZNbXRMRmNpWHI5eWFjeW1vQ1QzRWZwNDZmUlhsdi1DN3p4X0dGbUx6enB1VEtIZ0EtaFl3dXEyZWRiTWxocDZUdVlNX0l3NGYxd2F6c3dnXzUzOXZDOHZtTXZIaUp4aG4xSU9LTjdGS29qNFplV0x5MFUxRjRpVDBGSzBBaElKT2lsR3dsTVZiZkc2T1BPdHp5Sk1VMFBnRTdONHo4SjkwZF9JMF9KUlFsU3Bl?oc=5",
+   "source": "The Star",
+   "date": "2026-11-20T05:05:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "370b51439690",
+   "tags": [
+    "政策・政治",
+    "難民"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T14:26:38Z"
+  },
+  {
+   "title": "Home Ministry: Refugee card holders barred from entering Sabah, Sarawak and Labuan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX1FVanNCOFlCbU81VWxwZjZPRHNJRURaTUxrelo2Ry1zSVBvLVBXaG5VRVZPV0Vra0wtcjgxUVdKUDRjRTJjT1ktX0lPYXFIZEd0cUtwenJ2NXAxY2tVbWdBb3lYenhmYUlucGxLUDFQdjF3UkdBbFplVDVvdnFKYkJ2Nm5CZXhUbmJVN0hFT1VfdzhLMUhaZDRfeERuWjN0SlhxZ1c1NGl2SXp6dWFvYnhIeFV3UGJLaFNpN2V3?oc=5",
+   "source": "Malaysiakini",
+   "date": "2026-11-20T04:45:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah refugee",
+   "id": "eae22f705a9f",
+   "tags": [
+    "政策・政治",
+    "難民"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T14:26:38Z"
+  },
   {
    "title": "755 Filipino undocumented migrants repatriated via Sandakan",
    "summary": "",
@@ -2045,7 +2099,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -5836,23 +5890,6 @@
     "入管・摘発"
    ],
    "title_ja": "サバ州のインドネシア永住者255人が帰国",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "29 PATI ditahan dalam Operasi Bersepadu Imigresen Sabah",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzZTNU1ZQXFaU2tUZE8zNmszMzBCZ2pfbHZScjloQ1M2UG5ETVNMY0VvZkhQUGxZQV9ldi03R0pORWlyajVoVl82cFFyZTFIalQtdVZzZk5BM1BSRWlVQ2JJSUk0NjZjS3ZEckVKbjdSR3RaT2kzWkctNTM3Nm9UNVRxZ1V2b1BpUGFtSGVZV3RZZkVhVFg0?oc=5",
-   "source": "Saluran 122",
-   "date": "2025-10-16T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "11a2adf702f1",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州の統合移民作戦で不法滞在者29人が逮捕",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
   }
