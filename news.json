@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-19T23:56:09Z",
- "count": 335,
+ "updated": "2026-11-20T04:44:20Z",
+ "count": 338,
  "tags": {
-  "入管・摘発": 231,
+  "入管・摘発": 233,
   "市民権": 41,
   "無国籍": 33,
   "子ども": 22,
@@ -15,7 +15,7 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 52,
+  "TV Sabah News": 54,
   "Sabah Media": 50,
   "Daily Express Malaysia": 26,
   "The Star": 18,
@@ -35,9 +35,9 @@
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
   "Malaysiakini": 4,
+  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Utusan Malaysia": 2,
@@ -77,6 +77,38 @@
   "The Edge Malaysia": 1
  },
  "items": [
+  {
+   "title": "755 Filipino undocumented migrants repatriated via Sandakan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEwzbllSWVVwQ3RzdGV2bGlDRHBCWXp5YVJBRVdTSGpZWEJzanhTaWlIUm1fdjVzSVpfRC1feW9qcDVaY3NrRlJUSHhkS1llUWJHMGZJM3ZzaUVsZVFMQjc1THZiNTdHcTNjSWhra0t5N2t3UTNuT3BYYzRseVBIMDVWd0JiUmVLZ1FjVQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-20T00:50:22Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "b557ae668eb1",
+   "tags": [],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T04:44:12Z"
+  },
+  {
+   "title": "755 PATI Filipina diusir pulang melalui Sandakan",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44TUlJZ2lGYXRIUzFVQ2huS1BEV3BkNWZJVWNZcExha2Y5TXE2ZmNtZG9CS05ZY0RtWnRycGFqbE5mYTYzX1Y0eG9FbC1EdmU2T1Y0SjVKcGxObmRRTkpkSVFTS1VRSV96dDlTaUNSWTFfRXZWanJENkxNZmdqQQ?oc=5",
+   "source": "TV Sabah News",
+   "date": "2026-11-20T00:49:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "Sabah PATI",
+   "id": "a490f4662450",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T04:44:12Z"
+  },
   {
    "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
    "summary": "",
@@ -420,6 +452,23 @@
    "first_seen": "2026-11-05T22:56:42Z"
   },
   {
+   "title": "Sabah Employers Fined Total Of RM2.1 Mln This Year - Immigration",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YdzRXdjdwVXdzTXo0T2tjVTE4Q3J6S3hLSGpGb1laMlhqN2d1VlhCOHIwTll3UzVlaFF2VEstLWJfaDZLTUc0X05EM1FrS2xQREF5US02QjJtdUFVWTFITUM0SQ?oc=5",
+   "source": "Bernama",
+   "date": "2026-11-05T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "9c1347afde80",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-20T04:44:12Z"
+  },
+  {
    "title": "Menggaji PATI, majikan didenda RM10,000",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE94RmFjekxmeFRDdThkUlFQd3o0LTQ1WmRYYUZidmtBcEdLVWdzSlNkWjBJLUFhVjN4U00tVWpPQ1htUnlVbUZfUmJYWWRUekxDSktLV19hQjFvQ2xUckkxWU9LTUFXTUdUbmMwaXVuenJDNHhrSUlsNzRNcjM?oc=5",
@@ -437,6 +486,24 @@
    "first_seen": "2026-11-04T13:19:44Z"
   },
   {
+   "title": "Over 1,000 Filipinos, including 122 children, deported from Sabah as crackdown intensifies",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUczUDFzTHdkNlFVVGEwMkJZTkpMWWlSWWgxRmVFY3RIc0pGdlVQOFUzVGhfZHFMUG1FU05vTFJJNkxsaU9YV3M3a3FLR1NVOUZfV194Nm03d08zZzRlTWpCNV9TN3gtQnYtdXV6Z25YZEFkaWlpd2VaVjFESldDYkViMjBfS01yM2ZOR3J3eHBjWmhOUXhBeFVOWktQQzd6OTVBc0Rwa2ROd3pjQkljOUxRSEZ5aHBOdGVWQzJDZ09rTFpWVEZ5Tw?oc=5",
+   "source": "BusinessMirror",
+   "date": "2026-11-02T08:00:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah immigration detention OR deportation",
+   "id": "2b5f244bb12e",
+   "tags": [
+    "入管・摘発",
+    "子ども"
+   ],
+   "title_ja": "弾圧激化で122人の子供を含む1,000人以上のフィリピン人がサバ州から強制送還",
+   "summary_ja": "",
+   "first_seen": "2026-11-01T21:23:54Z"
+  },
+  {
    "title": "1,069 PATI warga Filipina dihantar pulang ke negara asal",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOHdoRWxZU1ZDVzV4STRTbVRWMmVGUlo0aEJhdmRvdmF5aWZ5V0dmZ0VZcTZWY2JvYjJBWlBXN2xGcldITEl0eERBYmxUUFdIR1VwVElXM0F5QkUzSnVtSEhsTXZzWXZOeENnREdwc2hHbTNUX1A5OHR5MF9PY2c2ZDVhNUhYaG8?oc=5",
@@ -452,24 +519,6 @@
    "title_ja": "帰化したフィリピン人1,069人が母国に送還された",
    "summary_ja": "",
    "first_seen": "2026-11-02T02:52:11Z"
-  },
-  {
-   "title": "Over 1,000 Filipinos, including 122 children, deported from Sabah as crackdown intensifies",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUczUDFzTHdkNlFVVGEwMkJZTkpMWWlSWWgxRmVFY3RIc0pGdlVQOFUzVGhfZHFMUG1FU05vTFJJNkxsaU9YV3M3a3FLR1NVOUZfV194Nm03d08zZzRlTWpCNV9TN3gtQnYtdXV6Z25YZEFkaWlpd2VaVjFESldDYkViMjBfS01yM2ZOR3J3eHBjWmhOUXhBeFVOWktQQzd6OTVBc0Rwa2ROd3pjQkljOUxRSEZ5aHBOdGVWQzJDZ09rTFpWVEZ5Tw?oc=5",
-   "source": "BusinessMirror",
-   "date": "2026-11-01T16:07:00Z",
-   "lang": "en",
-   "origin": "news",
-   "query": "Sabah immigration detention OR deportation",
-   "id": "2b5f244bb12e",
-   "tags": [
-    "入管・摘発",
-    "子ども"
-   ],
-   "title_ja": "弾圧激化で122人の子供を含む1,000人以上のフィリピン人がサバ州から強制送還",
-   "summary_ja": "",
-   "first_seen": "2026-11-01T21:23:54Z"
   },
   {
    "title": "800 deportees arrive in Zamboanga from Sabah",
@@ -3439,9 +3488,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
+    "無国籍",
     "子ども",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -3508,8 +3557,8 @@
    "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
