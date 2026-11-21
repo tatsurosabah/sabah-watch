@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:45:33Z",
+ "updated": "2026-11-21T22:28:59Z",
  "count": 341,
  "tags": {
   "入管・摘発": 232,
@@ -196,7 +196,7 @@
     "入管・摘発",
     "医療・福祉"
    ],
-   "title_ja": "",
+   "title_ja": "サバ州における PTI の医療費 RM106 万。外国人患者は「一流の治療」を受けているという認識がある：シャヘルメイ氏",
    "summary_ja": "",
    "first_seen": "2026-11-21T13:45:31Z"
   },
@@ -3176,10 +3176,10 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "e7cfc4c5928a",
    "tags": [
-    "人権・NGO",
+    "無国籍",
     "市民権",
     "政策・政治",
-    "無国籍"
+    "人権・NGO"
    ],
    "title_ja": "マレーシア国際人道機関（MHO）は政府に対し、サバ州の無国籍者専用の身分証明書を直ちに作成し、無国籍者が社会から疎外され続けることを防ぐよう要請した。",
    "summary_ja": "",
@@ -3538,7 +3538,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -3771,8 +3771,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3927,7 +3927,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "32e62c602edb",
    "tags": [
     "無国籍",
@@ -4066,7 +4066,7 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
     "無国籍",
