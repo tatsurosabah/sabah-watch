@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-21T04:23:20Z",
- "count": 342,
+ "updated": "2026-11-21T13:45:33Z",
+ "count": 341,
  "tags": {
-  "入管・摘発": 233,
+  "入管・摘発": 232,
   "市民権": 41,
   "無国籍": 33,
   "難民": 22,
@@ -10,14 +10,14 @@
   "政策・政治": 16,
   "バジャウ": 11,
   "人権・NGO": 8,
-  "医療・福祉": 5,
+  "医療・福祉": 6,
   "ロヒンギャ": 4,
   "教育": 3
  },
  "sources": {
   "TV Sabah News": 55,
-  "Sabah Media": 50,
-  "Daily Express Malaysia": 26,
+  "Sabah Media": 49,
+  "Daily Express Malaysia": 27,
   "The Star": 18,
   "NST Online": 18,
   "sabahnews.com.my": 17,
@@ -33,10 +33,10 @@
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
-  "Saluran 122": 5,
   "Portal Berita RTM": 5,
   "Bernama": 4,
   "Harian Metro": 4,
+  "Saluran 122": 4,
   "Sabah Post": 4,
   "Nabalu News": 3,
   "Buletin TV3": 3,
@@ -181,6 +181,24 @@
    "title_ja": "サンダカン経由でフィリピン国籍755人が国外追放された",
    "summary_ja": "",
    "first_seen": "2026-11-20T04:44:12Z"
+  },
+  {
+   "title": "RM1.06 juta bil kesihatan PTI di Sabah. Timbul tanggapan pesakit warga asing terima ‘rawatan kelas pertama’: Shahelmey",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU3dzMVdSZjIxS1VBbzE5T1F6eEZxcGc0LWdwcGN0aXNKckQtb1cxVlBqRm14WndSWVJUbHhRZUhORWNHWklwNzU0QzFPMUkzNUJyOEpNTjhId2IzWkhKVXUwY0dMVmtBMkRLVFVmaDJLZjRzTHJlTVM1cndOc3MxSUZOeUlxN3B4YkpWUnVwcmx4bHVYbjE2VmVITGtGT1FKekF0RU9hZFJncmdpcVpwZFNnUVdEMW9OVkZMQVYzRV9vNUl3czZfRm1uNmZlVHJCOW5iUlZjNzJwcTgzcXBOVFRXbnRUNDRoRXZxbFp2bW9sZw?oc=5",
+   "source": "Daily Express Malaysia",
+   "date": "2026-11-19T08:46:35Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "2b907532feeb",
+   "tags": [
+    "入管・摘発",
+    "医療・福祉"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-21T13:45:31Z"
   },
   {
    "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
@@ -1880,7 +1898,7 @@
    "date": "2026-08-20T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah immigration detention OR deportation",
+   "query": "Sabah undocumented",
    "id": "d8c99f87101b",
    "tags": [
     "入管・摘発"
@@ -3280,7 +3298,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "pelarian Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -3520,7 +3538,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "pelarian Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -4116,12 +4134,12 @@
    "date": "2026-05-08T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "52e8c9b5ce49",
    "tags": [
-    "バジャウ",
+    "無国籍",
     "子ども",
-    "無国籍"
+    "バジャウ"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
    "summary_ja": "",
@@ -5894,40 +5912,6 @@
    "title_ja": "シリーズ18市民権移転プログラムを通じて616人のフィリピン人が帰国",
    "summary_ja": "",
    "first_seen": "2026-08-31T01:46:12Z"
-  },
-  {
-   "title": "255 PATI Indonesia dihantar pulang ke negara asal",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0hnYU5ZUlBVa2lMOENHSnpienpZaXVtU0dOS1ZyVWxxOVY1V3JtTTdHb3VJLVViSkI1QlpzLUFTcDNDUkswdndpY283Y3BTb09SQTBmVUFUbGUza21CNm9Kakp1LU9XSGVIWGdkVFBDMk1lVFRkNy1zMlc1Q3VlSm0yOE5PdjgtdjExTw?oc=5",
-   "source": "Sabah Media",
-   "date": "2025-10-17T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "a09125ea85a8",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "インドネシア国籍の255人が母国に送還された",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "255 PATI warga Indonesia di Sabah dihantar pulang",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdm9pNmV1blM4TGwzS0ZDRk1xRl9DWC05RllBZHl4XzNkeE5mYjRkbDZNNWJ5cndRWktpYWtQWHpXM0stUDFqUGhWQnRyVkxWR3AzQ1Vqc0tlX1ZNZVY4LU1ib2xwcUtZRVQxYjJCZTM5M185bkRyUWV6ZjZBN25UcVdBTUtZcGhaTXdKcWtTMA?oc=5",
-   "source": "Saluran 122",
-   "date": "2025-10-17T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "c984888afb2c",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "サバ州のインドネシア永住者255人が帰国",
-   "summary_ja": "",
-   "first_seen": "2026-08-09T01:55:15Z"
   }
  ]
 }
