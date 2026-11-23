@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:11:39Z",
+ "updated": "2026-11-23T16:34:58Z",
  "count": 342,
  "tags": {
   "入管・摘発": 233,
@@ -35,14 +35,14 @@
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
+  "bernama": 3,
+  "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "Sabah News": 2,
   "Utusan Malaysia": 2,
-  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -580,7 +580,7 @@
    "title": "Sabah Employers Fined Total Of RM2.1 Mln This Year - Immigration",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YdzRXdjdwVXdzTXo0T2tjVTE4Q3J6S3hLSGpGb1laMlhqN2d1VlhCOHIwTll3UzVlaFF2VEstLWJfaDZLTUc0X05EM1FrS2xQREF5US02QjJtdUFVWTFITUM0SQ?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-11-05T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2015,7 +2015,7 @@
    "date": "2026-08-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah immigration detention OR deportation",
    "id": "9ff4faf00c93",
    "tags": [
     "入管・摘発"
@@ -3788,8 +3788,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
