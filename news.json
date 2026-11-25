@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T01:39:43Z",
+ "updated": "2026-11-25T16:13:51Z",
  "count": 344,
  "tags": {
   "入管・摘発": 233,
@@ -233,7 +233,7 @@
     "医療・福祉",
     "政策・政治"
    ],
-   "title_ja": "",
+   "title_ja": "保健省はサバ州の移民医療費未払いRM106万について説明を求めた",
    "summary_ja": "",
    "first_seen": "2026-11-24T16:32:08Z"
   },
@@ -296,7 +296,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYU9WeVprQVdQWTVqLUJIWjNvWlllVUJnUERYZnRBcVBUZFBaSjlUZTg3OEcxYkFUOWJpVmRxTHFja05BMUdIZ1AwV2pKUlRVNzJ2S2R1YnoyTzl0REdrVDE3SnhGWGVDaUNsNUJ1eW9kckJzdUNVNjVUTTVzcEVPRlhLeEtRNUkz?oc=5",
    "source": "Saluran 122",
-   "date": "2026-11-15T03:59:00Z",
+   "date": "2026-11-15T08:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "Sabah PATI",
@@ -2396,7 +2396,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -3352,7 +3352,7 @@
    "date": "2026-06-19T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "6a10fabbc1df",
    "tags": [
     "ロヒンギャ"
@@ -3570,7 +3570,7 @@
   {
    "title": "Isu IMM13: Petisyen perlu dikaji secara mendalam: Mustapha",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZGxVZ3Z5cTRUYkQtRGlXaTVia0RmQlhrbzdDekxwMFk2QlYwOG1STHFqZ0g1MnFNV3lycWdhcVBVb0tCcm9wZXlkRVpzaTB4WU9DTVhFMmc0cU9zRUVibUQ5ZWFuMFZVVUtPclh0b05IMnJ1NlM0dVd3aEVZdzA5OWtqYnNwSTA4MFBVSnhNdk1QV2NSR0VlVTZuZ2hmSHd1Vkln?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUZzhUY2pvdGt1dU1PTldUWjhfLWtJRGhvaDR3TTkwVkNYNW9rLVFjX0VQenZXalhJUzVDeVpEb3FzZnduMVN1eWMxTlJwZThvT1RmdDRwSmpiT3Bm?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-06-11T07:00:00Z",
    "lang": "ms",
@@ -3592,7 +3592,7 @@
    "date": "2026-06-09T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "pelarian Sabah",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f9b143804ae2",
    "tags": [
     "市民権"
@@ -3650,9 +3650,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
-    "無国籍",
     "子ども",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -3895,8 +3895,8 @@
    "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3963,7 +3963,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -4120,12 +4120,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
+    "無国籍",
     "市民権",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -4149,7 +4149,7 @@
   {
    "title": "24 Chinese citizens deported after Semporna immigration raids",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3lHNHhLT09rT1lXcTQxMUhXM3gxcnJKVXdkYjliRWIxMjhuVTFzYm8tMjRvWW5mZ3loNWZtUGkzQ1BmcllQMGo4TVlFV2VVdmtCRldaODA1NEVkMlBBN2k1LWViNFRxUWhrdWt5UGRvYW5tN0tyVU9RWmwtRDRJalBGd2FNTWFIdTY1ZENHV3FEZVZnX0xGaERGMGxFU3ZVWHF0MXgtNU51MHRfM1ZfTm15YXI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3lHNHhLT09rT1lXcTQxMUhXM3gxcnJKVXdkYjliRWIxMjhuVTFzYm8tMjRvWW5mZ3loNWZtUGkzQ1BmcllQMGo4TVlFV2VVdmtCRldaODA1NEVkMlBBN2k1LWViNFRxUWhrdWt5UGRvYW5tN0tyVU9RWmwtRDRJalBGd2FNTWFIdTY1ZENHV3FEZVZnX0xGaERGMGxFU3ZVWHF0MXgtNU51MHRfM1ZfTm15YXLSAboBQVVfeXFMTTZ1dUdtMUxJREtTb2phc1pFNWFLZ0V4WHZzVHNzLW5QM1FiNmoxdmY4SkJRQ1hhSmxrNEY3VFhnT3BpcGliazQzQWJvbjA4NDhqUnRJTE1QNVlhTHY1b29JNmZabDF5LVhzOFJ3RVh4dThVRnhseXJwaE5JbE9Ec0dLQTZEaGdDZERsci15eW5FOGhPRzBhU0hvTC1vOHJmTjBIMUZOeWFvSlM1QVhhd0M2NWV5WnNqbGtB?oc=5",
    "source": "NST Online",
    "date": "2026-05-09T07:00:00Z",
    "lang": "en",
@@ -4225,11 +4225,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "917dcdd3c5f6",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "summary_ja": "",
@@ -4280,9 +4280,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
-    "無国籍",
     "子ども",
-    "教育"
+    "教育",
+    "無国籍"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
@@ -4816,7 +4816,7 @@
    "date": "2026-03-30T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "kanak-kanak tanpa kewarganegaraan Sabah",
    "id": "3da4d889d037",
    "tags": [
     "入管・摘発",
