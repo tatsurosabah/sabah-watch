@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:32:10Z",
+ "updated": "2026-11-25T01:39:43Z",
  "count": 344,
  "tags": {
   "入管・摘発": 233,
@@ -20,7 +20,7 @@
   "Daily Express Malaysia": 28,
   "The Star": 18,
   "NST Online": 18,
-  "sabahnews.com.my": 16,
+  "sabahnews.com.my": 15,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
   "Astro Awani": 9,
@@ -38,10 +38,10 @@
   "Harian Metro": 4,
   "Sabah Post": 4,
   "bernama": 3,
+  "Sabah News": 3,
   "Bernama": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
-  "Sabah News": 2,
   "Utusan Malaysia": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
@@ -3369,7 +3369,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3666,7 +3666,7 @@
    "date": "2026-06-05T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "109ac503086c",
    "tags": [
     "子ども",
@@ -3716,11 +3716,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3892,7 +3892,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
     "市民権",
@@ -3910,7 +3910,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3945,11 +3945,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -4188,12 +4188,12 @@
    "date": "2026-05-08T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "52e8c9b5ce49",
    "tags": [
-    "無国籍",
+    "バジャウ",
     "子ども",
-    "バジャウ"
+    "無国籍"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
    "summary_ja": "",
@@ -4260,7 +4260,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -4291,7 +4291,7 @@
   {
    "title": "From sea gypsies to street kids: Sabah's stateless children fighting to survive",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3loclNubnl4MmNWWWFoVG1UY1FJakV3NWxKek8wZkNEWml3anVUOHlRQ0NVc1NjQm1HZmUwakVwOHVEU3Z5OWFHQl9fclh0aGU1WFFCdHc2RWg5QTEyd3lSaHJGQzNTOHJ4SjczLUl1bElsNnpZUGNpc1BmOUtSa0w4RHRoZV8zbmtlclRnVmlIN2E3WVJOa3BQcEtVSGdQMUNWc0NJckU1TnZQNlZZNWtIZnBTanVW?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNdXRYZFlkczRUYUQzbUE2THAxM1RXZFhtQUMxUkw2SUlDUmFRT2NJR2dPSThTdWVTNGVrX3puMVFfVGNJUGU1VEItMy1GRmVfaGdYQURMb1hXMFd4Ni1yMl8yajhGZ1R6NGI1dUQ0dzVSS3p4Z25jVHZpMENCeXBzR2h6V0p3c2hGWnMyWi12NExxTkF0aGhlVjZoT3FGS0VKeDltQ2Z1b29hSGJ1T1ktWHRURzJDdVNlM3UtRDlHWG00TTRUeHFsMEpLUUYwOWtUVFhYUS1Sb2dSRENSZmZKdGdwR1gzdnhDNHkxY3pnemZzUC1mcTEyQzFSRVVTeWx3a3VGUFJ0TEx2MWtudlE4RXdDN3F1SFU1MmhxOS1YbEU3dVFDRTcyR09YVF9RSDdRY2pN0gG-AUFVX3lxTE5OX0VSOFV2VUVrRG93dUd2NUNUZTFOcjg3MF9RdWUwelJ6MUlic3pjX2JfaXlIV3dWNHN1cUNScnVOTGEzX0ZjbUVfRXBrOUdTbzBudllPNXN6cGhGNDkwcHFnSXhYWUM3dW1fWDJ0bEEwZHpMYXNvUlBEejR6cWJqcWZnYUY2RGFMcjBPZmlYNDRmS3cwYmdPSS1KNVRnbG96MnNxeVFPZTVBVFZYa3NKVWxGVWY2VmVESk5tbXc?oc=5",
    "source": "NST Online",
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
@@ -4331,7 +4331,7 @@
    "date": "2026-04-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah undocumented",
+   "query": "Sabah stateless",
    "id": "63c01c9014e6",
    "tags": [
     "人権・NGO",
@@ -4483,7 +4483,7 @@
    "title": "Imigresen Tahan 19 PATI Dalam Operasi di Sipitang",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXpQZlpmMlQxSEMySVpZdDM4Tk9IMEl4XzdnTGE3MXFFMVVVV1NvUFNyMlBKQ084cEt1LUVFdlNoVi1CVWhFRTN2Y3d3YUt3bXFPdVozTlZEaDhjZ1ZmWDJ1VjZTTWdPNzhaNDdrMWpETDluMkU1MFgwQzNsM3QxRg?oc=5",
-   "source": "sabahnews.com.my",
+   "source": "Sabah News",
    "date": "2026-04-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
