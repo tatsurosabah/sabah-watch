@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:12:04Z",
+ "updated": "2026-11-26T15:52:10Z",
  "count": 344,
  "tags": {
   "入管・摘発": 233,
@@ -20,7 +20,7 @@
   "Daily Express Malaysia": 28,
   "The Star": 18,
   "NST Online": 18,
-  "sabahnews.com.my": 15,
+  "sabahnews.com.my": 16,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
   "Astro Awani": 9,
@@ -31,19 +31,18 @@
   "Free Malaysia Today": 6,
   "Malaysiakini": 5,
   "Saluran 122": 5,
+  "Bernama": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
-  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
-  "Sabah News": 3,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "The Edge Malaysia": 2,
+  "Sabah News": 2,
   "Utusan Malaysia": 2,
-  "bernama": 2,
   "Utusan Borneo": 2,
   "Sabah Kini2": 2,
   "The Vibes": 2,
@@ -57,6 +56,7 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
+  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -122,7 +122,7 @@
    "date": "2026-11-20T05:31:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah UNHCR OR asylum",
    "id": "099679fe0b47",
    "tags": [
     "難民",
@@ -237,23 +237,6 @@
    "first_seen": "2026-11-24T16:32:08Z"
   },
   {
-   "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTg2Vm9EZWtHTV80QVJlZVNpUUtqa25YYWJvbXhMd2VYLTRZOTZ0Q2l3OXI1dDRZM1VMRUVmUHpHS2VGRnZOYmJ4OXZNaGNrbFFSWFRxbENtMDVpQUlQMEpKa2kwYlRqUlkwNmdTMUcyMzFRdUpjNDQ1LVVGOGVyNkhvWjY1bDdMQWlMSzVnOE00cmRGY3FpMGxJdV9oLWcwMkptQXl3?oc=5",
-   "source": "Warta Oriental",
-   "date": "2026-11-17T15:08:13Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "pelarian Sabah",
-   "id": "ac425ce5ed0b",
-   "tags": [
-    "難民"
-   ],
-   "title_ja": "サバ州は難民治療費の滞納額が最も多い－シャヘルメイ",
-   "summary_ja": "",
-   "first_seen": "2026-11-18T00:03:58Z"
-  },
-  {
    "title": "MP Sabah: Sediakan pelan tindakan isu tunggakan bil hospital pelarian",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaklObkJJZ2F3U1RmQWdnLXhPbHBLVGZPQ3NuNjNCR1ZzaWRRXzRmRHFXZmNzV1J2VmRnTHUxVnlHQ0NKODZfRURTTlJLMUppS3lmM2Y4dlI1bjlaeHBaenNlZHZUTm5TenpRandSSWJLWTY4SG1YbVNndldMcGxHLXZydGpRYVpUVmtLZmhDck1vT1BYVURmaWNKOXlZdFpwOVB5SmotU0tFLUNfb2c?oc=5",
@@ -289,6 +272,23 @@
    "title_ja": "サバ州議員、難民や不法移民の病院代未払いを巡る行動計画を要請",
    "summary_ja": "",
    "first_seen": "2026-11-17T14:57:29Z"
+  },
+  {
+   "title": "Sabah tanggung tunggakan bil rawatan pelarian tertinggi – Shahelmey",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTg2Vm9EZWtHTV80QVJlZVNpUUtqa25YYWJvbXhMd2VYLTRZOTZ0Q2l3OXI1dDRZM1VMRUVmUHpHS2VGRnZOYmJ4OXZNaGNrbFFSWFRxbENtMDVpQUlQMEpKa2kwYlRqUlkwNmdTMUcyMzFRdUpjNDQ1LVVGOGVyNkhvWjY1bDdMQWlMSzVnOE00cmRGY3FpMGxJdV9oLWcwMkptQXl3?oc=5",
+   "source": "Warta Oriental",
+   "date": "2026-11-17T08:00:00Z",
+   "lang": "ms",
+   "origin": "news",
+   "query": "pelarian Sabah",
+   "id": "ac425ce5ed0b",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "サバ州は難民治療費の滞納額が最も多い－シャヘルメイ",
+   "summary_ja": "",
+   "first_seen": "2026-11-18T00:03:58Z"
   },
   {
    "title": "750 tahanan PATI dihantar pulang ke Filipina",
@@ -1191,7 +1191,7 @@
    "title": "Budget 2027: New Quarters In Perak, Sabah To Enhance Immigration Officers’ Welfare",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VemJKNUZSdkhYZGRRRERoUW5BOWFxUVhLRnEtM09RUjJnd0otYTVMaEtrZEtWSmVlamU5b3oxWWtKTEtMdjYteUZOdTRqMmQ5V2VMbmZSMEZTV3hDNDlFUEpId2VGOExBUUtB?oc=5",
-   "source": "bernama",
+   "source": "Bernama",
    "date": "2026-10-10T20:05:16Z",
    "lang": "en",
    "origin": "news",
@@ -2063,7 +2063,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -2206,7 +2206,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -2395,7 +2395,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah citizenship children",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -3368,7 +3368,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3649,9 +3649,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
+    "無国籍",
     "子ども",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -3715,11 +3715,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3891,11 +3891,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3909,7 +3909,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3944,11 +3944,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3bc557de9775",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3962,7 +3962,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -4187,12 +4187,12 @@
    "date": "2026-05-08T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "52e8c9b5ce49",
    "tags": [
-    "バジャウ",
+    "無国籍",
     "子ども",
-    "無国籍"
+    "バジャウ"
    ],
    "title_ja": "バジャウ・ラウト族の少年の不法入国裁判は2027年に設定：彼の訴訟はサバ州の無国籍問題で注目を集める",
    "summary_ja": "",
@@ -4259,7 +4259,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -4279,9 +4279,9 @@
    "query": "Sabah stateless",
    "id": "32fc62f917b2",
    "tags": [
+    "無国籍",
     "子ども",
-    "教育",
-    "無国籍"
+    "教育"
    ],
    "title_ja": "木の下にある教室: 学校も書類もなく学ぶサバ州の無国籍の子供たち",
    "summary_ja": "",
@@ -4482,7 +4482,7 @@
    "title": "Imigresen Tahan 19 PATI Dalam Operasi di Sipitang",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXpQZlpmMlQxSEMySVpZdDM4Tk9IMEl4XzdnTGE3MXFFMVVVV1NvUFNyMlBKQ084cEt1LUVFdlNoVi1CVWhFRTN2Y3d3YUt3bXFPdVozTlZEaDhjZ1ZmWDJ1VjZTTWdPNzhaNDdrMWpETDluMkU1MFgwQzNsM3QxRg?oc=5",
-   "source": "Sabah News",
+   "source": "sabahnews.com.my",
    "date": "2026-04-24T07:00:00Z",
    "lang": "ms",
    "origin": "news",
