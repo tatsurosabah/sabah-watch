@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-27T01:17:32Z",
- "count": 344,
+ "updated": "2026-11-27T15:40:21Z",
+ "count": 345,
  "tags": {
-  "入管・摘発": 233,
+  "入管・摘発": 234,
   "市民権": 41,
   "無国籍": 33,
   "難民": 23,
@@ -18,14 +18,14 @@
   "TV Sabah News": 55,
   "Sabah Media": 49,
   "Daily Express Malaysia": 28,
-  "The Star": 18,
+  "The Star": 19,
   "NST Online": 18,
   "sabahnews.com.my": 16,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
-  "Astro Awani": 9,
+  "Berita Harian": 9,
   "Jesselton Times": 8,
-  "Berita Harian": 8,
+  "Astro Awani": 8,
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
@@ -80,18 +80,35 @@
  },
  "items": [
   {
+   "title": "Immigration raids see 122 undocumented migrants nabbed in Sabah",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTVNUTmF2ZlJKMnFOdWg5aVRUUGp5dkxhdHVjZUlSTUZJT3gtSWtGLTM4QkxsblhyY29ybFB3VDJ1cmRUNF9nY1NUc3pfT1RCcVRJbm80aHlJT1p0TGtBWmh1eWtmVlZKUmwxZ1ZGV1k5MVhnZkNaRS1NVmo1T3c3YVBTU1ZFUVJ3YUx6Y0ItLUtXSWNDVEk2dVlHZkJ6UTI0NDVveHFBSzJaZUhHTFVCVGhWaw?oc=5",
+   "source": "The Star",
+   "date": "2026-11-27T06:33:00Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah undocumented",
+   "id": "edff8a442b5a",
+   "tags": [
+    "入管・摘発"
+   ],
+   "title_ja": "",
+   "summary_ja": "",
+   "first_seen": "2026-11-27T15:40:18Z"
+  },
+  {
    "title": "Refugee card holders barred from Sabah, Sarawak and Labuan — Home Ministry",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VbWtFSjVaNXU1YmtCNU1CdmE4WnppTkpyWFNmdk1QcUNab3Z5dFViWDRaZ3pKWnJwY3poRjlicFFnV082MlJvaWdqSnpSOVFx?oc=5",
    "source": "The Edge Malaysia",
-   "date": "2026-11-20T08:08:41Z",
+   "date": "2026-11-20T08:17:53Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah UNHCR OR asylum",
    "id": "fb9b513855b6",
    "tags": [
-    "難民",
-    "政策・政治"
+    "政策・政治",
+    "難民"
    ],
    "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 — 内務省",
    "summary_ja": "",
@@ -1275,7 +1292,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkV6Ui05WW03Z0loTzh5ZFhpUWlYbUM1Y2YwdG5jam93ZENUWFN6d0JUMndWOTNWejd6UktwanZkTGVFWVdpTTYzZzktUG13U2UwdHh4UDE1SUU0QVNuYk1BMTZnU0hybGl1S0E2ZjF0SDBxU0diNU84U0FYbE1jR0RrT3R0Z0ppZ1pqNUVCbmZCazZYVGFYVVpQZjNkR3B2R09XbzlnUkJXZzdzQ3d0d3g4T05fTEYwSEhZ?oc=5",
    "source": "Borneo Daily Bulletin",
-   "date": "2026-10-08T15:09:55Z",
+   "date": "2026-10-08T07:00:00Z",
    "lang": "ms",
    "origin": "news",
    "query": "pelarian Sabah",
@@ -2206,7 +2223,7 @@
    "date": "2026-08-15T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "\"Bajau Laut\"",
+   "query": "Sabah stateless",
    "id": "ac41a714b632",
    "tags": [
     "バジャウ"
@@ -2395,7 +2412,7 @@
    "date": "2026-07-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah citizenship children",
+   "query": "Sabah stateless",
    "id": "daa6dcacda33",
    "tags": [
     "市民権"
@@ -2679,8 +2696,8 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
-   "source": "Astro Awani",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
+   "source": "Berita Harian",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3368,7 +3385,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3649,9 +3666,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
-    "無国籍",
     "子ども",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -3715,11 +3732,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah refugee",
+   "query": "Sabah stateless",
    "id": "235eef1ff0e0",
    "tags": [
-    "難民",
-    "入管・摘発"
+    "入管・摘発",
+    "難民"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3891,11 +3908,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "74af7615571b",
    "tags": [
-    "市民権",
-    "人権・NGO"
+    "人権・NGO",
+    "市民権"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3909,7 +3926,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3944,11 +3961,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3bc557de9775",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3962,7 +3979,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -4224,11 +4241,11 @@
    "date": "2026-05-05T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "917dcdd3c5f6",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "MHO、サバ州の「無国籍」グループに対するMyKasの条件を緩和し、KDNとJPNが管理するよう要請",
    "summary_ja": "",
@@ -4259,7 +4276,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah stateless",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
