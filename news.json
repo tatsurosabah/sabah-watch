@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-28T00:44:10Z",
+ "updated": "2026-11-28T14:36:18Z",
  "count": 345,
  "tags": {
-  "入管・摘発": 234,
+  "入管・摘発": 233,
   "市民権": 41,
   "無国籍": 33,
-  "難民": 23,
+  "難民": 24,
   "子ども": 22,
   "政策・政治": 18,
   "バジャウ": 11,
@@ -15,7 +15,7 @@
   "教育": 3
  },
  "sources": {
-  "TV Sabah News": 55,
+  "TV Sabah News": 54,
   "Sabah Media": 49,
   "Daily Express Malaysia": 28,
   "The Star": 19,
@@ -23,9 +23,9 @@
   "sabahnews.com.my": 16,
   "Borneo Post": 12,
   "tvsabahnews.com": 11,
-  "Berita Harian": 9,
+  "Astro Awani": 9,
   "Jesselton Times": 8,
-  "Astro Awani": 8,
+  "Berita Harian": 8,
   "Malay Mail": 7,
   "sabahnewstoday.net": 7,
   "Free Malaysia Today": 6,
@@ -41,6 +41,7 @@
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "The Edge Malaysia": 2,
+  "The Sun Malaysia": 2,
   "bernama": 2,
   "Sabah News": 2,
   "Utusan Malaysia": 2,
@@ -56,7 +57,6 @@
   "UNHCR - The UN Refugee Agency": 1,
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
-  "The Sun Malaysia": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -113,6 +113,23 @@
    "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 — 内務省",
    "summary_ja": "",
    "first_seen": "2026-11-20T23:25:37Z"
+  },
+  {
+   "title": "Refugee card holders barred from Sabah, Sarawak, Labuan – KDN",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ib1dQdkZOQy16MVJhRC0taFNKS0MzV1E2b2ZxWlM1LVM4bW14c2pIcWpmQ0VkdGQ1dTBNdThCZ050TTNRc1FYTVdQald5bXQyR3p1Wm1rSDljenkyaHdMM29QLTEyYUxDS0pGcWhjVjgzSml4RndzMjJSVGU?oc=5",
+   "source": "The Sun Malaysia",
+   "date": "2026-11-20T07:27:44Z",
+   "lang": "en",
+   "origin": "news",
+   "query": "Sabah UNHCR OR asylum",
+   "id": "a2c0c9dc2a91",
+   "tags": [
+    "難民"
+   ],
+   "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 - KDN",
+   "summary_ja": "",
+   "first_seen": "2026-11-28T14:36:16Z"
   },
   {
    "title": "Refugee cardholders face entry ban to S’wak, Sabah and Labuan",
@@ -750,7 +767,7 @@
   {
    "title": "800 undocumented Filipinos deported from Sandakan Port",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3NsS1lSRS1FUkxaOXlsVzUxLVVvcEFxN2hELWR4aXV1SGJBdzNla1NRSy00c0hVMEhzTmp6amJua2hiLVYwQVQtZUN4b3l0VjdHUlcwNTF1a0ZYYlhxTFRhcVJncmVlU3F1aG5XelExbVd4OEx4UXdweWQ4UTZ6cDlBZlFzY2JwalJuTHY1RDBWUEszdlk4TEFmQUlBYVhuUHZUZGlZY3paQjFuanROMXRUaGxNc1JZWTl1STF1NlIxdERFZ1IwN3BPVDlCYlZ1c2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzdNbUI3UU9ITGwydlhaMFZDZW9vMVF5QW96THZicnJ3VjhhOVRYOHNNMnQtVFo5T1JVV3cwV2xfRVhzUkV1dWdlMkd3T3VzdmhUSklSWDlQbThQQnR2Q3Jsc2wwLUJVQXNvRkFrOVRpSVY2b3JWWkpseV9PTEpUU3BKQ3VqblZPUFhyd2FxT1hwUGJoZHFYdnYyZG52ckRu?oc=5",
    "source": "Daily Express Malaysia",
    "date": "2026-10-29T07:00:00Z",
    "lang": "en",
@@ -2696,8 +2713,8 @@
   {
    "title": "3,640 permohonan kewarganegaraan di Sabah masih dalam pertimbangan - KDN",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUlE0SUxadmVFRzlvWXMwMjVId21UaF9YQ0tQNUI1enBlNWdfRU1rYVFJbTZfcXJPOHJyN1VUNHYzb1VzTmwzR1o5c05SYUVSd3ZYc3BBdDBzVV9fUEdLQ0hsd3BWbHphX0M1NGMxQmJPMDdFNjBrdWRPRVNwZ0RmYjNGRGVzQXN3NmxWRTBhZEFSeXVua3VaV3g5RF9MWTBDdGtzRTNYT3NYNDctQ3d1V2Y2cmJOZ3pqVlVxWFBtd0lUZ9IBxwFBVV95cUxQMy1QV0FaeXFSR1kwNHVaWjZTWGFqQlRQTVh3bVF6Nkk4WGdFT3BLR29DTHoxNU8xVEs1eWNUTktxeGI5MF9VVzZGanhrNmFlNC1kMnE4Q3F4ZERRZjJEWUh1cXdxdmh0dUtSY1ZHV0s3c3dHSkdwTy15a29GQnkxSU8yMUxqZ1JvR1pQNTEtTFd4dzhXWl9FVVExNEJuM2FHWVRrb2JmZVk2UV9SS0luSDVSUWJsUzRYQ0hldTM0R1ZwbTAwVzJJ?oc=5",
-   "source": "Berita Harian",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPclc3WXBHajlVVzdSel9ELTlrcDd5aXAzNkVmVWR4LTM2RXM2RWwzb1BpczdEQlpjTHN0QmpLRUNUTzNRblRuQXZvT0dTSkd5X19FLXY4Y0hDMW5LZERaSW1wVjdsYkpaYUlKel8yeUJWVm91dHpDQU1UR2tIdmpEZXZlV01ZNXZ5a2xHY1B4Si03bFl2a0xyYnBNc2NSVm93VTJxSUpWdjVlM2NGN1VmaGt3?oc=5",
+   "source": "Astro Awani",
    "date": "2026-07-16T07:00:00Z",
    "lang": "ms",
    "origin": "news",
@@ -3385,7 +3402,7 @@
    "date": "2026-06-18T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "1b830e9c6293",
    "tags": [
     "ロヒンギャ"
@@ -3572,11 +3589,11 @@
    "date": "2026-06-11T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah immigration detention OR deportation",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "d9cf307b9450",
    "tags": [
-    "入管・摘発",
     "市民権",
+    "入管・摘発",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -3666,9 +3683,9 @@
    "query": "Sabah stateless",
    "id": "c6a783112977",
    "tags": [
+    "無国籍",
     "子ども",
-    "政策・政治",
-    "無国籍"
+    "政策・政治"
    ],
    "title_ja": "サバ州の無国籍の子供たちにスポットライトを当てる議会シンポジウム",
    "summary_ja": "",
@@ -3732,11 +3749,11 @@
    "date": "2026-05-29T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah refugee",
    "id": "235eef1ff0e0",
    "tags": [
-    "入管・摘発",
-    "難民"
+    "難民",
+    "入管・摘発"
    ],
    "title_ja": "「難民と不法移民を混同しないでください」―サバ州には感情的な単純化ではなく、正直な議論が必要です",
    "summary_ja": "",
@@ -3908,11 +3925,11 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "74af7615571b",
    "tags": [
-    "人権・NGO",
-    "市民権"
+    "市民権",
+    "人権・NGO"
    ],
    "title_ja": "NGO、MyKasの資格緩和に警告",
    "summary_ja": "",
@@ -3926,7 +3943,7 @@
    "date": "2026-05-22T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "05daa62078e8",
    "tags": [
     "市民権"
@@ -3961,11 +3978,11 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3bc557de9775",
    "tags": [
-    "市民権",
-    "無国籍"
+    "無国籍",
+    "市民権"
    ],
    "title_ja": "無国籍サバ州人に対するMyKaの規則を緩和、MHOが政府に指示",
    "summary_ja": "",
@@ -3979,7 +3996,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "3425ed469cea",
    "tags": [
     "市民権",
@@ -3997,12 +4014,12 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "32e62c602edb",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "MHO、MyKAS政策の改革を要請、サバ州の「無国籍」問題は懸念を強めている",
    "summary_ja": "",
@@ -4136,12 +4153,12 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "MyKAS OR IMM13 Sabah",
+   "query": "Sabah tanpa kewarganegaraan",
    "id": "f47bcc456512",
    "tags": [
-    "無国籍",
     "市民権",
-    "政策・政治"
+    "政策・政治",
+    "無国籍"
    ],
    "title_ja": "政府はサバ州の無国籍者を助けるためにMyKasの条件を緩和するよう求められている - MHO",
    "summary_ja": "",
@@ -4276,7 +4293,7 @@
    "date": "2026-04-30T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "Sabah IMM13 OR MyKAS",
    "id": "f49d6c29eb15",
    "tags": [
     "市民権"
@@ -4673,12 +4690,12 @@
    "date": "2026-04-06T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah stateless",
+   "query": "\"Bajau Laut\"",
    "id": "2a750d42659b",
    "tags": [
-    "バジャウ",
+    "無国籍",
     "子ども",
-    "無国籍"
+    "バジャウ"
    ],
    "title_ja": "バジャウ族の無国籍少年、サバ州生まれを証明し保釈認められた",
    "summary_ja": "",
@@ -5965,23 +5982,6 @@
    "title_ja": "不法移民10人がクダット近郊サバ州への入国に失敗",
    "summary_ja": "",
    "first_seen": "2026-08-09T01:55:15Z"
-  },
-  {
-   "title": "616 Warga Filipina Dihantar Pulang Melalui Program Pemindahan PATI Siri 18",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUNSX1M2RjM0RmowRDZyTXEtelVScEZ2YW1oczdiNW5hOTc1Uk1YVV9ObFZpV3JyMllwRDBHdVlDem8wdnhqMHhHTFlYVGpMZ01vQXRrNHhoel9nYWJYVHY5bXFnSnlkc1VwbnNOODBiRFVEV0pGUFAwX05HX2RnalBVdl94WXByTGRmeXk5b2xaVTQtS3p3NDJsemw1UjJR?oc=5",
-   "source": "TV Sabah News",
-   "date": "2025-10-24T07:00:00Z",
-   "lang": "ms",
-   "origin": "news",
-   "query": "Sabah PATI",
-   "id": "57f22201a474",
-   "tags": [
-    "入管・摘発"
-   ],
-   "title_ja": "シリーズ18市民権移転プログラムを通じて616人のフィリピン人が帰国",
-   "summary_ja": "",
-   "first_seen": "2026-08-31T01:46:12Z"
   }
  ]
 }
