@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:40:21Z",
+ "updated": "2026-11-28T00:44:10Z",
  "count": 345,
  "tags": {
   "入管・摘発": 234,
@@ -31,16 +31,17 @@
   "Free Malaysia Today": 6,
   "Malaysiakini": 5,
   "Saluran 122": 5,
-  "Bernama": 5,
   "Sayang Sabah": 5,
   "THE MALAYSIA PRESS": 5,
   "MalaysiaGazette": 5,
   "Portal Berita RTM": 5,
+  "Bernama": 4,
   "Harian Metro": 4,
   "Sabah Post": 4,
   "Nabalu News": 3,
   "Buletin TV3": 3,
   "The Edge Malaysia": 2,
+  "bernama": 2,
   "Sabah News": 2,
   "Utusan Malaysia": 2,
   "Utusan Borneo": 2,
@@ -56,7 +57,6 @@
   "Times Kuwait": 1,
   "Borneo Bulletin": 1,
   "The Sun Malaysia": 1,
-  "bernama": 1,
   "Borneo Daily Bulletin": 1,
   "pressreader.com": 1,
   "Malaysia-China Insight": 1,
@@ -92,7 +92,7 @@
    "tags": [
     "入管・摘発"
    ],
-   "title_ja": "",
+   "title_ja": "サバ州で不法移民122人が入国者捜索で拘束される",
    "summary_ja": "",
    "first_seen": "2026-11-27T15:40:18Z"
   },
@@ -104,11 +104,11 @@
    "date": "2026-11-20T08:17:53Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah UNHCR OR asylum",
+   "query": "Sabah immigration detention OR deportation",
    "id": "fb9b513855b6",
    "tags": [
-    "政策・政治",
-    "難民"
+    "難民",
+    "政策・政治"
    ],
    "title_ja": "難民カード保持者、サバ州、サラワク州、ラブアンへの入国を禁止 — 内務省",
    "summary_ja": "",
@@ -276,7 +276,7 @@
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeWUwTmdKYVlmUjdVaFJGclVEbnl4aFBoc0dNMDQxUGVtLU93OVlrNG9lc1hjUlU4NXBEWmpQMThGMFdQVlg4ektUOHU4X0s1c3E1Y1lFSmdZdVJrOWdGWGoyamRGNWZnd2lmME5WOUJtQVc0Qm41TU9vOTR0RUtBRjI1VHBVTGVCTjVfU1ZnVzc1VnJ6OGMtNHdUY3dNZkQwcE9acUFCcGN3V0U4VlRFdmczN0xCWnFOb0lNRGhpNEh2TlJMWGdraS04QQ?oc=5",
    "source": "Malaysiakini",
-   "date": "2026-11-17T10:39:00Z",
+   "date": "2026-11-17T08:00:00Z",
    "lang": "en",
    "origin": "news",
    "query": "Sabah refugee",
@@ -633,7 +633,7 @@
    "title": "Sabah Employers Fined Total Of RM2.1 Mln This Year - Immigration",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YdzRXdjdwVXdzTXo0T2tjVTE4Q3J6S3hLSGpGb1laMlhqN2d1VlhCOHIwTll3UzVlaFF2VEstLWJfaDZLTUc0X05EM1FrS2xQREF5US02QjJtdUFVWTFITUM0SQ?oc=5",
-   "source": "Bernama",
+   "source": "bernama",
    "date": "2026-11-05T08:00:00Z",
    "lang": "en",
    "origin": "news",
@@ -2080,7 +2080,7 @@
   {
    "title": "KL, Manila bincang percepat penghantaran pulang lebih 5,000 PATI Filipina di Sabah - Tok Mat",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTHZiM1ZwTjVTMm5TcnlZTnpqU25zXzNNblpwczNTNUlRUGYxdVdkZl9melJXUVBYOEJudGxEd1I0bklsMDV1Qnh3MFpUQ3RLNzlCLWJRak10ZTRmUjZwaXFtOWxNWjZCcGxyN3FNSGlHRGNJX05fWXktN1Nadl91VFh4TGl5TzdBcDJWSTVsZ29OV0wyWEFTY1Bwb1B6V3ozR3VTbXIzek1qZXVHQjNpTWl3cmxoYU83Q2VmVUtwZDhYWWZxcE5fRjh0ZzJraFhQ0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGVOanRpRGtGYVNXQmlmT0NVeGNBa0lMQWZ5dHZwa0JmdktuVWVrWl80VmIxWGowcWJ0dkJ5d1Y3ZnVOblREakJ0MEJwSVk1QVNiOExsRWZnWVlkUjJUeWw1YWtqM1BMQjRJazRWVEpQbmJhWFlkVWJleTBLOVktakJac0kwSTVhLXh2MkpBTVpjZGJMTWJxbUJ2Y0hGa1hHcXhkNWs1Q0hEMnM0SzZlM3JHV3RXVG50dTNfdnVB0gHDAUFVX3lxTE5GUVkxamY1TkpyeFhOS3FCQjVqQ2djalZsSC1hM25fVWtKOE1ORUs0eXBBcDFmaVhUb2xMU01hZ1JBMUI1M3V2UTg5eHI4UUotR0h4MEFPMmNjZ3Fmb1pDaFhtRHg5ZEZveEtxMkxKMUNtTlBadjVjckFYa0E5NUdtZjhuQ1VyY3dIeDJfQVU3d1Rhd2dpemdzWFViVmY0dW1JRHFXTUViSjJDVkJ6QVoxZjIzRVJUUnFnZFVJa25GTkxZdw?oc=5",
    "source": "Berita Harian",
    "date": "2026-08-18T07:00:00Z",
    "lang": "ms",
@@ -3572,11 +3572,11 @@
    "date": "2026-06-11T07:00:00Z",
    "lang": "en",
    "origin": "news",
-   "query": "Sabah IMM13 OR MyKAS",
+   "query": "Sabah immigration detention OR deportation",
    "id": "d9cf307b9450",
    "tags": [
-    "市民権",
     "入管・摘発",
+    "市民権",
     "政策・政治"
    ],
    "title_ja": "大臣、IMM13国外追放請願の慎重な検討を求める",
@@ -3841,8 +3841,8 @@
    "query": "Sabah tanpa kewarganegaraan",
    "id": "6e262ee6d7be",
    "tags": [
-    "無国籍",
-    "市民権"
+    "市民権",
+    "無国籍"
    ],
    "title_ja": "無国籍問題、MyKAS提案には早急な対応が必要",
    "summary_ja": "",
@@ -3997,7 +3997,7 @@
    "date": "2026-05-21T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "32e62c602edb",
    "tags": [
     "無国籍",
@@ -4136,7 +4136,7 @@
    "date": "2026-05-10T07:00:00Z",
    "lang": "ms",
    "origin": "news",
-   "query": "Sabah tanpa kewarganegaraan",
+   "query": "MyKAS OR IMM13 Sabah",
    "id": "f47bcc456512",
    "tags": [
     "無国籍",
